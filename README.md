@@ -1,0 +1,1 @@
+-- Solving 8 weeks sql challenge 
