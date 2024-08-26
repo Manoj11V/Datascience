@@ -1,0 +1,1001 @@
+age,gender,time_spent,platform,interests,location,demographics,profession,income,indebt,isHomeOwner,Owns_Car
+56,male,$3.00,Instagram,Sports,United Kingdom,Urban,Software Engineer,"$19,774.00",True,False,False
+46,female,$2.00,Facebook,Travel,United Kingdom,Urban,Student,"$10,564.00",True,True,True
+32,male,$8.00,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,"$13,258.00",False,False,False
+60,non-binary,$5.00,Instagram,Travel,United Kingdom,Urban,Student,"$12,500.00",False,True,False
+25,male,$1.00,Instagram,Lifestlye,Australia,Urban,Software Engineer,"$14,566.00",False,True,True
+38,male,$3.00,Facebook,Travel,United States,Urban,Marketer Manager,"$19,179.00",True,True,True
+56,male,$8.00,YouTube,Sports,United States,Urban,Student,"$16,881.00",True,True,True
+36,male,$4.00,Instagram,Sports,Australia,Urban,Marketer Manager,"$13,636.00",True,False,True
+40,non-binary,$7.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$16,030.00",False,False,True
+28,non-binary,$2.00,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,"$10,223.00",True,False,True
+28,female,$7.00,YouTube,Lifestlye,United Kingdom,Urban,Student,"$16,297.00",True,True,False
+41,non-binary,$5.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$10,350.00",False,False,False
+53,non-binary,$5.00,Facebook,Sports,Australia,Rural,Student,"$17,314.00",False,True,True
+57,female,$6.00,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,"$11,928.00",False,True,False
+41,non-binary,$9.00,YouTube,Travel,United States,Rural,Student,"$17,743.00",True,True,False
+20,male,$6.00,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,"$18,540.00",True,True,False
+39,male,$8.00,Instagram,Travel,United States,Sub_Urban,Student,"$14,732.00",True,True,False
+19,female,$7.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$11,017.00",False,True,True
+41,female,$9.00,Facebook,Sports,United States,Sub_Urban,Student,"$12,226.00",False,False,False
+61,female,$4.00,Facebook,Sports,United States,Urban,Marketer Manager,"$17,206.00",False,False,False
+47,male,$2.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$17,170.00",False,False,True
+55,non-binary,$7.00,YouTube,Travel,Australia,Urban,Student,"$16,207.00",True,False,True
+19,male,$6.00,YouTube,Travel,United States,Rural,Marketer Manager,"$12,419.00",True,True,True
+38,female,$1.00,YouTube,Sports,Australia,Sub_Urban,Software Engineer,"$16,240.00",True,True,True
+50,non-binary,$9.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$11,893.00",True,False,False
+29,non-binary,$9.00,Facebook,Travel,Australia,Rural,Student,"$15,322.00",True,False,True
+39,male,$2.00,Instagram,Lifestlye,Australia,Urban,Software Engineer,"$17,718.00",True,False,False
+61,female,$3.00,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$16,878.00",True,False,False
+42,male,$5.00,YouTube,Travel,Australia,Urban,Software Engineer,"$11,125.00",True,False,True
+44,non-binary,$5.00,YouTube,Sports,Australia,Sub_Urban,Software Engineer,"$13,117.00",False,False,True
+59,male,$1.00,Facebook,Sports,United States,Urban,Marketer Manager,"$14,161.00",False,False,True
+45,male,$8.00,Facebook,Lifestlye,United States,Rural,Software Engineer,"$14,042.00",True,False,True
+33,female,$8.00,Instagram,Lifestlye,United States,Urban,Software Engineer,"$14,433.00",False,True,True
+32,female,$4.00,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,"$18,638.00",True,True,True
+64,non-binary,$7.00,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,"$12,658.00",True,True,False
+61,male,$3.00,Instagram,Travel,United States,Rural,Marketer Manager,"$13,483.00",False,True,False
+20,male,$6.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$12,944.00",True,False,False
+54,male,$9.00,YouTube,Lifestlye,United States,Urban,Marketer Manager,"$17,210.00",True,True,False
+24,non-binary,$1.00,Instagram,Lifestlye,United States,Rural,Software Engineer,"$17,653.00",True,False,True
+38,non-binary,$5.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$18,787.00",True,True,True
+26,female,$4.00,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,"$11,986.00",True,False,False
+56,female,$8.00,Instagram,Sports,Australia,Urban,Software Engineer,"$11,074.00",True,False,False
+35,female,$1.00,Instagram,Lifestlye,Australia,Urban,Marketer Manager,"$14,305.00",True,True,False
+21,male,$9.00,Instagram,Travel,United States,Rural,Marketer Manager,"$13,007.00",False,True,True
+42,male,$6.00,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,"$10,969.00",False,False,True
+31,female,$4.00,Instagram,Travel,United Kingdom,Urban,Student,"$18,772.00",True,False,True
+26,male,$9.00,Facebook,Travel,Australia,Rural,Software Engineer,"$12,824.00",False,False,False
+43,female,$5.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$11,211.00",True,True,False
+19,non-binary,$5.00,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,"$10,229.00",True,True,True
+37,female,$5.00,YouTube,Lifestlye,United States,Rural,Student,"$14,284.00",True,False,True
+45,non-binary,$1.00,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,"$13,185.00",True,True,False
+64,male,$1.00,Facebook,Travel,United States,Urban,Marketer Manager,"$10,501.00",False,False,False
+24,female,$8.00,Facebook,Sports,United States,Sub_Urban,Software Engineer,"$10,048.00",False,True,True
+61,male,$8.00,YouTube,Travel,United States,Sub_Urban,Software Engineer,"$13,566.00",False,True,False
+25,non-binary,$6.00,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,"$13,055.00",False,True,True
+64,non-binary,$4.00,Instagram,Lifestlye,United States,Rural,Marketer Manager,"$18,880.00",True,True,True
+52,non-binary,$2.00,YouTube,Travel,United Kingdom,Urban,Software Engineer,"$10,386.00",False,True,False
+31,male,$2.00,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,"$10,969.00",True,False,False
+34,male,$9.00,Instagram,Travel,United States,Rural,Marketer Manager,"$19,197.00",True,False,False
+53,male,$5.00,Facebook,Sports,United States,Sub_Urban,Software Engineer,"$15,820.00",False,True,True
+57,male,$4.00,Instagram,Travel,United Kingdom,Urban,Software Engineer,"$13,052.00",True,False,False
+21,non-binary,$1.00,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$17,397.00",False,False,False
+19,non-binary,$7.00,Facebook,Sports,Australia,Urban,Software Engineer,"$12,302.00",False,True,True
+23,female,$3.00,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,"$12,283.00",False,False,True
+59,female,$6.00,Instagram,Lifestlye,Australia,Sub_Urban,Student,"$19,799.00",False,True,False
+21,male,$5.00,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,"$14,366.00",False,False,True
+46,non-binary,$5.00,YouTube,Travel,United States,Urban,Student,"$10,122.00",True,False,True
+35,non-binary,$5.00,YouTube,Travel,Australia,Rural,Student,"$16,799.00",False,False,True
+43,non-binary,$1.00,Facebook,Lifestlye,United Kingdom,Urban,Student,"$19,472.00",False,False,False
+61,female,$1.00,Instagram,Travel,Australia,Sub_Urban,Software Engineer,"$13,727.00",True,False,False
+51,female,$3.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$18,450.00",False,False,True
+27,non-binary,$4.00,Facebook,Travel,United States,Rural,Student,"$19,139.00",False,False,True
+53,non-binary,$5.00,Facebook,Sports,United Kingdom,Urban,Student,"$14,958.00",True,True,True
+31,non-binary,$2.00,Facebook,Sports,Australia,Urban,Student,"$10,524.00",True,True,False
+48,female,$8.00,YouTube,Lifestlye,Australia,Urban,Software Engineer,"$19,079.00",False,True,True
+32,non-binary,$2.00,YouTube,Travel,United States,Sub_Urban,Student,"$18,399.00",True,True,True
+25,non-binary,$9.00,Instagram,Travel,United Kingdom,Urban,Student,"$10,148.00",False,False,False
+31,male,$2.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$18,001.00",True,False,True
+40,male,$9.00,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$10,437.00",False,False,False
+57,female,$7.00,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,"$13,749.00",False,True,False
+38,non-binary,$8.00,Facebook,Sports,United Kingdom,Urban,Marketer Manager,"$18,186.00",False,True,False
+33,non-binary,$2.00,Facebook,Lifestlye,Australia,Rural,Marketer Manager,"$14,453.00",True,True,True
+62,male,$7.00,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$15,336.00",False,False,True
+35,female,$6.00,Facebook,Sports,United States,Sub_Urban,Software Engineer,"$14,551.00",True,True,False
+64,male,$4.00,Instagram,Travel,United Kingdom,Urban,Marketer Manager,"$12,823.00",False,False,True
+41,male,$7.00,Instagram,Sports,United Kingdom,Urban,Software Engineer,"$15,728.00",False,True,False
+43,male,$4.00,Facebook,Sports,Australia,Rural,Student,"$18,677.00",False,False,True
+42,male,$2.00,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,"$18,391.00",False,True,False
+62,non-binary,$7.00,YouTube,Sports,Australia,Rural,Software Engineer,"$11,982.00",False,False,False
+58,non-binary,$8.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$16,996.00",True,True,True
+46,male,$2.00,Facebook,Sports,United States,Rural,Student,"$19,663.00",True,True,True
+32,female,$5.00,Instagram,Sports,Australia,Rural,Software Engineer,"$12,311.00",True,False,True
+62,female,$1.00,Instagram,Lifestlye,Australia,Rural,Software Engineer,"$17,225.00",False,False,True
+18,female,$7.00,Instagram,Travel,United States,Sub_Urban,Software Engineer,"$19,713.00",False,True,False
+42,female,$8.00,Instagram,Lifestlye,Australia,Urban,Student,"$10,604.00",True,False,False
+24,male,$6.00,Instagram,Lifestlye,United States,Sub_Urban,Student,"$18,175.00",False,True,True
+26,non-binary,$5.00,YouTube,Lifestlye,United Kingdom,Urban,Student,"$15,785.00",False,False,True
+41,female,$6.00,Facebook,Travel,United States,Rural,Software Engineer,"$19,609.00",False,True,False
+18,male,$2.00,YouTube,Sports,Australia,Rural,Student,"$14,597.00",True,False,True
+61,female,$1.00,Instagram,Lifestlye,United States,Rural,Marketer Manager,"$17,759.00",True,True,True
+25,female,$7.00,Instagram,Lifestlye,Australia,Rural,Student,"$17,532.00",True,True,True
+41,male,$7.00,Instagram,Travel,United Kingdom,Rural,Software Engineer,"$18,740.00",True,True,True
+28,non-binary,$2.00,Instagram,Lifestlye,United States,Urban,Marketer Manager,"$10,838.00",True,False,False
+34,non-binary,$2.00,Facebook,Sports,United Kingdom,Urban,Student,"$13,815.00",False,True,False
+25,male,$1.00,Instagram,Travel,Australia,Rural,Marketer Manager,"$10,847.00",False,False,True
+52,non-binary,$8.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$14,709.00",False,False,False
+52,male,$8.00,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,"$14,507.00",False,False,True
+50,male,$1.00,Facebook,Travel,United States,Rural,Marketer Manager,"$16,575.00",True,True,True
+22,male,$8.00,YouTube,Lifestlye,United States,Urban,Marketer Manager,"$14,773.00",True,False,True
+59,non-binary,$9.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$14,468.00",False,False,False
+56,male,$4.00,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,"$15,192.00",True,False,False
+58,female,$1.00,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,"$13,320.00",False,True,False
+45,non-binary,$1.00,Instagram,Sports,United States,Rural,Marketer Manager,"$14,698.00",False,False,False
+24,non-binary,$3.00,Instagram,Travel,United States,Sub_Urban,Marketer Manager,"$14,311.00",False,False,False
+26,non-binary,$5.00,Instagram,Travel,United States,Sub_Urban,Marketer Manager,"$13,673.00",False,False,True
+25,non-binary,$5.00,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,"$11,564.00",True,False,True
+29,female,$9.00,Facebook,Lifestlye,United States,Sub_Urban,Student,"$11,840.00",False,True,False
+51,non-binary,$2.00,YouTube,Sports,United States,Urban,Marketer Manager,"$16,058.00",True,True,False
+50,non-binary,$2.00,Facebook,Lifestlye,Australia,Rural,Student,"$17,131.00",False,False,False
+40,male,$6.00,Facebook,Sports,United States,Rural,Software Engineer,"$10,726.00",False,False,True
+41,non-binary,$9.00,Instagram,Lifestlye,United States,Urban,Marketer Manager,"$19,436.00",False,False,False
+54,female,$1.00,Instagram,Sports,United Kingdom,Urban,Student,"$16,697.00",False,False,True
+52,female,$9.00,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,"$19,257.00",True,True,True
+61,female,$9.00,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,"$10,282.00",False,True,False
+57,female,$9.00,Instagram,Sports,United States,Sub_Urban,Marketer Manager,"$11,081.00",True,True,True
+39,non-binary,$5.00,Instagram,Lifestlye,Australia,Rural,Student,"$13,885.00",False,True,True
+44,non-binary,$9.00,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,"$12,881.00",False,False,False
+52,female,$4.00,YouTube,Lifestlye,Australia,Urban,Marketer Manager,"$12,970.00",False,False,True
+18,female,$2.00,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,"$19,344.00",True,True,False
+52,non-binary,$6.00,YouTube,Sports,Australia,Sub_Urban,Software Engineer,"$16,985.00",False,True,True
+54,female,$4.00,YouTube,Lifestlye,Australia,Sub_Urban,Student,"$10,947.00",False,False,False
+64,male,$6.00,Instagram,Lifestlye,United States,Rural,Student,"$14,760.00",False,False,False
+31,female,$3.00,YouTube,Lifestlye,Australia,Urban,Software Engineer,"$19,909.00",False,False,True
+20,female,$6.00,Instagram,Travel,United States,Sub_Urban,Marketer Manager,"$10,066.00",False,False,False
+18,male,$2.00,YouTube,Travel,United States,Rural,Student,"$18,828.00",True,False,True
+22,male,$2.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$18,505.00",True,True,True
+43,non-binary,$9.00,YouTube,Travel,United States,Urban,Marketer Manager,"$10,564.00",False,True,False
+31,non-binary,$7.00,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,"$19,793.00",False,False,True
+56,male,$3.00,Instagram,Sports,United Kingdom,Urban,Software Engineer,"$19,017.00",True,False,False
+44,male,$1.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$13,670.00",False,True,True
+26,non-binary,$8.00,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,"$19,217.00",True,False,True
+32,female,$6.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$12,251.00",False,True,False
+32,male,$7.00,Instagram,Lifestlye,United States,Urban,Marketer Manager,"$10,804.00",False,True,True
+43,non-binary,$9.00,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$14,631.00",True,True,True
+59,female,$5.00,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,"$19,583.00",False,True,True
+30,male,$1.00,Instagram,Sports,United States,Rural,Marketer Manager,"$11,235.00",True,False,True
+49,female,$7.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$16,720.00",True,False,True
+56,non-binary,$5.00,Instagram,Lifestlye,United States,Urban,Marketer Manager,"$16,906.00",True,True,True
+49,male,$3.00,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$16,016.00",False,False,True
+21,female,$9.00,Instagram,Sports,United Kingdom,Urban,Software Engineer,"$13,549.00",True,False,True
+47,male,$1.00,Facebook,Sports,United Kingdom,Rural,Student,"$17,938.00",True,False,False
+54,female,$1.00,YouTube,Lifestlye,United States,Urban,Student,"$14,141.00",False,False,True
+40,non-binary,$1.00,Facebook,Travel,Australia,Urban,Software Engineer,"$16,966.00",False,True,True
+56,non-binary,$3.00,Instagram,Sports,United States,Rural,Student,"$19,546.00",False,False,False
+62,male,$6.00,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,"$15,335.00",False,True,False
+32,female,$3.00,YouTube,Lifestlye,United States,Urban,Marketer Manager,"$15,077.00",False,True,False
+60,male,$8.00,Facebook,Lifestlye,Australia,Rural,Marketer Manager,"$15,611.00",False,False,True
+46,male,$2.00,YouTube,Lifestlye,United States,Sub_Urban,Student,"$18,089.00",True,True,False
+53,female,$9.00,Facebook,Lifestlye,Australia,Rural,Marketer Manager,"$12,892.00",False,False,False
+30,female,$3.00,Instagram,Travel,Australia,Urban,Student,"$15,577.00",True,False,True
+49,female,$5.00,YouTube,Sports,United States,Sub_Urban,Student,"$13,618.00",False,True,True
+24,non-binary,$8.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,559.00",True,False,False
+39,male,$2.00,Instagram,Lifestlye,Australia,Rural,Marketer Manager,"$16,683.00",True,True,False
+45,male,$6.00,YouTube,Travel,United States,Rural,Student,"$11,507.00",False,True,True
+19,non-binary,$5.00,Facebook,Travel,Australia,Rural,Marketer Manager,"$12,063.00",False,False,True
+59,female,$9.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$13,642.00",True,False,True
+62,non-binary,$5.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$12,000.00",False,False,True
+23,non-binary,$2.00,Facebook,Sports,United States,Urban,Marketer Manager,"$11,294.00",False,True,True
+45,non-binary,$5.00,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,"$14,065.00",True,False,False
+45,male,$4.00,YouTube,Travel,United Kingdom,Urban,Marketer Manager,"$18,014.00",True,True,True
+61,non-binary,$7.00,Facebook,Lifestlye,Australia,Rural,Marketer Manager,"$19,945.00",True,True,True
+61,male,$6.00,Instagram,Lifestlye,United States,Rural,Student,"$11,603.00",False,False,True
+37,male,$2.00,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,"$11,322.00",False,False,True
+47,male,$5.00,YouTube,Lifestlye,Australia,Rural,Marketer Manager,"$15,956.00",False,False,True
+28,female,$7.00,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,"$12,441.00",False,True,False
+45,male,$7.00,Instagram,Lifestlye,United States,Sub_Urban,Student,"$11,098.00",True,False,True
+42,male,$5.00,Facebook,Travel,Australia,Urban,Student,"$15,073.00",False,True,False
+56,female,$9.00,YouTube,Sports,United States,Sub_Urban,Student,"$19,697.00",True,False,True
+50,male,$4.00,YouTube,Sports,United States,Urban,Marketer Manager,"$19,318.00",False,False,False
+18,non-binary,$3.00,Instagram,Travel,United Kingdom,Sub_Urban,Student,"$18,488.00",False,True,False
+44,non-binary,$4.00,YouTube,Sports,United States,Sub_Urban,Software Engineer,"$13,787.00",True,True,True
+30,male,$5.00,Facebook,Lifestlye,United States,Rural,Student,"$12,096.00",False,False,True
+58,female,$6.00,YouTube,Sports,Australia,Sub_Urban,Software Engineer,"$12,208.00",False,False,True
+20,non-binary,$3.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,"$15,988.00",True,False,True
+56,female,$2.00,Instagram,Sports,United States,Urban,Student,"$10,175.00",False,False,True
+23,female,$4.00,Facebook,Travel,Australia,Rural,Software Engineer,"$17,169.00",True,False,False
+25,non-binary,$5.00,Facebook,Sports,United Kingdom,Urban,Student,"$16,014.00",True,True,True
+44,female,$4.00,YouTube,Sports,United Kingdom,Urban,Student,"$11,667.00",True,True,True
+26,non-binary,$3.00,YouTube,Sports,Australia,Rural,Student,"$18,867.00",True,True,False
+54,female,$8.00,Instagram,Travel,Australia,Rural,Marketer Manager,"$11,823.00",False,True,True
+50,non-binary,$4.00,Facebook,Sports,Australia,Rural,Software Engineer,"$15,147.00",False,False,False
+59,male,$2.00,Facebook,Travel,Australia,Sub_Urban,Student,"$11,356.00",False,True,True
+61,non-binary,$2.00,Facebook,Lifestlye,Australia,Rural,Software Engineer,"$13,072.00",True,True,False
+41,non-binary,$1.00,YouTube,Sports,United States,Rural,Software Engineer,"$13,259.00",False,True,True
+32,non-binary,$4.00,Facebook,Travel,United States,Rural,Software Engineer,"$16,199.00",False,False,False
+49,non-binary,$9.00,Instagram,Travel,United Kingdom,Urban,Student,"$10,546.00",False,True,False
+49,female,$7.00,Instagram,Sports,United States,Urban,Student,"$15,231.00",False,False,True
+41,male,$7.00,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,"$17,965.00",True,True,True
+58,non-binary,$7.00,YouTube,Travel,United States,Urban,Marketer Manager,"$12,083.00",True,False,True
+29,female,$8.00,Facebook,Sports,Australia,Sub_Urban,Software Engineer,"$12,040.00",False,True,False
+56,male,$1.00,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,"$14,534.00",True,False,False
+19,male,$8.00,Instagram,Travel,United Kingdom,Rural,Software Engineer,"$11,752.00",False,True,False
+20,male,$4.00,Facebook,Travel,United Kingdom,Urban,Software Engineer,"$19,807.00",False,False,True
+54,male,$4.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$11,849.00",False,False,True
+34,non-binary,$4.00,Facebook,Lifestlye,United States,Urban,Student,"$12,642.00",True,True,False
+19,non-binary,$6.00,YouTube,Sports,United States,Rural,Marketer Manager,"$11,600.00",False,False,True
+19,female,$7.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$14,402.00",True,False,False
+45,female,$6.00,Facebook,Travel,United Kingdom,Rural,Software Engineer,"$13,799.00",True,True,True
+40,female,$1.00,Instagram,Lifestlye,United States,Rural,Student,"$10,618.00",False,True,True
+54,male,$8.00,Instagram,Lifestlye,United States,Sub_Urban,Student,"$11,132.00",True,False,False
+49,male,$7.00,Facebook,Lifestlye,Australia,Rural,Marketer Manager,"$15,491.00",True,True,True
+50,non-binary,$6.00,YouTube,Travel,Australia,Rural,Student,"$15,795.00",False,True,True
+18,male,$6.00,YouTube,Lifestlye,Australia,Urban,Marketer Manager,"$17,633.00",True,True,True
+36,male,$5.00,Instagram,Lifestlye,United States,Rural,Marketer Manager,"$11,487.00",True,False,True
+19,male,$6.00,YouTube,Travel,United States,Rural,Marketer Manager,"$17,848.00",False,False,True
+61,female,$9.00,Instagram,Sports,Australia,Rural,Student,"$15,009.00",False,False,False
+43,female,$9.00,YouTube,Sports,United Kingdom,Rural,Marketer Manager,"$19,749.00",True,False,True
+49,non-binary,$8.00,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,"$12,113.00",False,False,False
+23,male,$9.00,Instagram,Lifestlye,Australia,Urban,Software Engineer,"$11,044.00",False,False,True
+49,male,$8.00,Instagram,Travel,Australia,Rural,Marketer Manager,"$12,431.00",True,False,True
+21,non-binary,$8.00,Facebook,Sports,Australia,Rural,Marketer Manager,"$17,979.00",True,True,False
+28,male,$1.00,Instagram,Sports,United States,Sub_Urban,Software Engineer,"$11,582.00",False,False,False
+34,male,$5.00,YouTube,Travel,United Kingdom,Rural,Software Engineer,"$11,308.00",True,False,True
+55,female,$4.00,YouTube,Travel,Australia,Sub_Urban,Student,"$14,917.00",False,True,True
+41,non-binary,$2.00,Instagram,Sports,United Kingdom,Urban,Marketer Manager,"$18,793.00",False,True,False
+22,non-binary,$8.00,YouTube,Travel,United Kingdom,Urban,Student,"$11,620.00",True,True,False
+51,non-binary,$3.00,Instagram,Sports,United Kingdom,Rural,Student,"$17,503.00",True,False,False
+23,non-binary,$4.00,Facebook,Travel,Australia,Rural,Software Engineer,"$14,766.00",False,True,False
+39,female,$7.00,Instagram,Travel,United States,Rural,Student,"$15,362.00",False,False,True
+28,female,$9.00,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,"$15,192.00",False,False,True
+33,male,$2.00,YouTube,Sports,United Kingdom,Rural,Software Engineer,"$16,622.00",False,False,True
+50,male,$3.00,Facebook,Travel,United Kingdom,Rural,Marketer Manager,"$16,093.00",True,True,True
+26,male,$4.00,YouTube,Sports,United States,Urban,Marketer Manager,"$16,704.00",False,True,True
+23,male,$1.00,Instagram,Sports,Australia,Rural,Software Engineer,"$10,100.00",True,False,False
+33,female,$7.00,YouTube,Travel,United Kingdom,Urban,Marketer Manager,"$16,657.00",True,False,False
+46,non-binary,$2.00,Instagram,Travel,United States,Rural,Software Engineer,"$15,875.00",False,False,False
+20,female,$5.00,Instagram,Sports,United Kingdom,Urban,Marketer Manager,"$14,271.00",True,True,True
+37,male,$1.00,Facebook,Sports,United States,Rural,Software Engineer,"$10,237.00",True,False,False
+53,female,$3.00,Facebook,Lifestlye,United States,Urban,Student,"$17,226.00",False,True,True
+36,non-binary,$2.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$18,032.00",True,False,True
+43,non-binary,$1.00,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,"$15,218.00",True,True,True
+20,female,$7.00,YouTube,Lifestlye,Australia,Urban,Marketer Manager,"$14,025.00",False,False,False
+36,female,$5.00,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,"$16,073.00",False,True,True
+37,female,$1.00,YouTube,Travel,Australia,Rural,Marketer Manager,"$12,542.00",False,True,True
+49,male,$6.00,Instagram,Travel,United Kingdom,Rural,Software Engineer,"$11,537.00",False,True,False
+24,female,$5.00,YouTube,Sports,Australia,Rural,Student,"$10,754.00",False,True,True
+58,female,$3.00,YouTube,Lifestlye,United States,Sub_Urban,Student,"$17,396.00",False,True,False
+50,female,$7.00,YouTube,Travel,United Kingdom,Sub_Urban,Student,"$17,823.00",False,True,True
+57,non-binary,$9.00,Facebook,Travel,United Kingdom,Urban,Software Engineer,"$15,507.00",True,False,False
+56,non-binary,$9.00,YouTube,Travel,United States,Sub_Urban,Student,"$14,235.00",True,False,True
+35,male,$9.00,Instagram,Travel,Australia,Urban,Software Engineer,"$10,540.00",False,False,True
+57,male,$2.00,Facebook,Travel,United Kingdom,Urban,Marketer Manager,"$15,510.00",True,False,False
+18,non-binary,$3.00,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,"$18,461.00",True,True,True
+28,non-binary,$7.00,YouTube,Lifestlye,Australia,Sub_Urban,Student,"$17,926.00",False,False,False
+45,non-binary,$5.00,Facebook,Lifestlye,United States,Rural,Software Engineer,"$15,131.00",True,True,True
+42,female,$2.00,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,697.00",False,True,False
+40,female,$3.00,YouTube,Sports,Australia,Urban,Software Engineer,"$11,129.00",True,True,True
+48,non-binary,$6.00,Instagram,Lifestlye,Australia,Urban,Software Engineer,"$13,145.00",False,False,True
+47,female,$7.00,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$18,553.00",True,True,True
+59,female,$9.00,Instagram,Lifestlye,United States,Urban,Software Engineer,"$13,720.00",True,False,False
+52,male,$1.00,YouTube,Sports,United States,Urban,Marketer Manager,"$19,648.00",True,False,False
+24,non-binary,$7.00,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,"$14,067.00",False,False,False
+33,non-binary,$8.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$14,195.00",True,False,False
+43,female,$3.00,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,873.00",True,False,False
+19,non-binary,$4.00,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,244.00",False,True,True
+18,male,$6.00,YouTube,Travel,United Kingdom,Urban,Software Engineer,"$17,281.00",False,True,True
+29,male,$7.00,YouTube,Travel,United Kingdom,Rural,Marketer Manager,"$12,509.00",True,False,True
+22,male,$4.00,YouTube,Sports,United Kingdom,Rural,Marketer Manager,"$15,016.00",True,True,True
+54,non-binary,$8.00,YouTube,Travel,United States,Sub_Urban,Student,"$16,533.00",True,False,True
+49,non-binary,$5.00,YouTube,Travel,United Kingdom,Rural,Student,"$14,727.00",True,True,False
+26,non-binary,$1.00,Facebook,Lifestlye,United Kingdom,Urban,Student,"$10,681.00",False,True,True
+58,non-binary,$4.00,YouTube,Travel,Australia,Rural,Software Engineer,"$13,932.00",True,True,False
+52,non-binary,$3.00,Instagram,Lifestlye,Australia,Urban,Software Engineer,"$15,560.00",True,True,True
+36,male,$9.00,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,"$14,016.00",False,True,False
+33,female,$8.00,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,"$17,339.00",True,True,False
+20,male,$1.00,Instagram,Sports,United Kingdom,Urban,Marketer Manager,"$10,719.00",True,True,False
+37,non-binary,$6.00,Facebook,Sports,Australia,Rural,Marketer Manager,"$10,074.00",True,True,True
+41,male,$9.00,Facebook,Travel,United States,Sub_Urban,Software Engineer,"$19,485.00",False,True,True
+50,non-binary,$7.00,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,"$14,157.00",False,True,True
+41,non-binary,$4.00,YouTube,Lifestlye,Australia,Rural,Marketer Manager,"$18,511.00",True,True,True
+28,male,$1.00,Instagram,Lifestlye,United States,Rural,Student,"$12,149.00",True,True,False
+25,non-binary,$2.00,Instagram,Travel,United States,Urban,Marketer Manager,"$19,644.00",False,True,False
+53,female,$5.00,Facebook,Sports,United Kingdom,Rural,Marketer Manager,"$19,747.00",True,False,False
+55,non-binary,$5.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$16,713.00",True,True,False
+57,female,$8.00,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,"$14,207.00",False,True,True
+37,female,$6.00,YouTube,Travel,Australia,Urban,Student,"$17,141.00",False,True,False
+52,non-binary,$8.00,YouTube,Sports,Australia,Urban,Marketer Manager,"$18,652.00",False,True,True
+42,male,$2.00,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$19,078.00",True,True,False
+52,female,$3.00,Instagram,Sports,Australia,Urban,Student,"$13,936.00",True,True,False
+42,male,$6.00,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$19,307.00",True,False,False
+46,female,$3.00,YouTube,Lifestlye,Australia,Rural,Software Engineer,"$11,075.00",True,False,True
+35,non-binary,$6.00,Facebook,Travel,United States,Sub_Urban,Marketer Manager,"$13,876.00",False,False,True
+63,non-binary,$6.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$14,615.00",True,True,False
+35,female,$2.00,YouTube,Sports,United States,Rural,Software Engineer,"$17,265.00",True,True,False
+19,non-binary,$7.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$16,379.00",False,True,False
+52,female,$2.00,Facebook,Travel,United Kingdom,Urban,Student,"$19,118.00",False,False,True
+33,non-binary,$6.00,YouTube,Travel,Australia,Urban,Software Engineer,"$14,652.00",True,True,True
+58,male,$1.00,Facebook,Travel,United Kingdom,Urban,Student,"$16,792.00",False,True,True
+53,non-binary,$3.00,Facebook,Sports,United States,Urban,Marketer Manager,"$19,247.00",False,False,False
+50,male,$2.00,YouTube,Sports,United States,Sub_Urban,Software Engineer,"$17,456.00",True,False,True
+21,non-binary,$7.00,Instagram,Sports,United States,Sub_Urban,Marketer Manager,"$14,674.00",True,True,False
+50,male,$4.00,YouTube,Sports,United Kingdom,Rural,Student,"$10,541.00",True,True,True
+31,non-binary,$8.00,Instagram,Sports,United States,Sub_Urban,Marketer Manager,"$12,161.00",True,True,False
+38,male,$6.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$12,251.00",False,True,False
+37,female,$4.00,Facebook,Sports,United States,Sub_Urban,Software Engineer,"$19,244.00",False,False,True
+25,female,$5.00,Instagram,Sports,United States,Rural,Marketer Manager,"$14,569.00",True,True,False
+24,male,$9.00,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,"$12,744.00",True,True,False
+20,non-binary,$7.00,Instagram,Sports,United States,Sub_Urban,Marketer Manager,"$16,041.00",False,False,False
+34,male,$9.00,Instagram,Travel,Australia,Rural,Software Engineer,"$14,675.00",True,True,True
+50,non-binary,$7.00,Facebook,Sports,United Kingdom,Rural,Student,"$11,560.00",True,True,False
+29,female,$1.00,Instagram,Sports,United Kingdom,Rural,Student,"$11,164.00",True,False,True
+39,non-binary,$8.00,YouTube,Travel,United Kingdom,Urban,Marketer Manager,"$15,419.00",True,False,True
+39,female,$4.00,YouTube,Travel,Australia,Sub_Urban,Software Engineer,"$12,722.00",False,True,False
+63,non-binary,$3.00,Facebook,Travel,United Kingdom,Rural,Marketer Manager,"$10,470.00",True,False,True
+47,non-binary,$7.00,Facebook,Travel,United States,Urban,Student,"$19,608.00",False,False,False
+55,non-binary,$3.00,Instagram,Sports,United States,Rural,Software Engineer,"$11,468.00",True,True,True
+55,male,$8.00,Instagram,Travel,United States,Rural,Student,"$17,925.00",True,False,False
+62,male,$6.00,Instagram,Travel,United Kingdom,Rural,Student,"$10,808.00",False,True,True
+25,female,$5.00,Instagram,Lifestlye,United States,Rural,Software Engineer,"$18,363.00",True,True,False
+44,female,$4.00,YouTube,Travel,United Kingdom,Rural,Software Engineer,"$16,719.00",False,True,False
+44,male,$8.00,YouTube,Travel,United States,Urban,Marketer Manager,"$15,073.00",True,True,False
+51,female,$8.00,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,012.00",True,False,False
+38,male,$1.00,Instagram,Lifestlye,Australia,Sub_Urban,Student,"$11,645.00",True,True,True
+47,non-binary,$9.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$18,249.00",True,True,True
+50,female,$5.00,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,"$11,129.00",True,True,False
+45,female,$4.00,Instagram,Sports,United Kingdom,Urban,Marketer Manager,"$11,353.00",False,True,True
+64,male,$6.00,Instagram,Lifestlye,United States,Urban,Student,"$10,767.00",False,False,False
+50,female,$6.00,Instagram,Lifestlye,Australia,Urban,Student,"$13,895.00",True,False,False
+22,female,$2.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$18,874.00",True,False,True
+36,non-binary,$8.00,Instagram,Lifestlye,Australia,Rural,Software Engineer,"$13,454.00",False,True,True
+21,female,$7.00,Facebook,Sports,Australia,Rural,Marketer Manager,"$17,329.00",False,False,False
+52,non-binary,$1.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,790.00",True,False,True
+34,male,$5.00,Facebook,Travel,United Kingdom,Rural,Marketer Manager,"$19,669.00",True,True,False
+61,female,$6.00,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,"$10,885.00",False,False,True
+45,non-binary,$4.00,YouTube,Sports,United States,Rural,Software Engineer,"$17,734.00",True,True,True
+47,male,$2.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$13,906.00",False,False,True
+46,female,$4.00,YouTube,Sports,Australia,Rural,Software Engineer,"$14,492.00",True,False,True
+63,male,$1.00,YouTube,Sports,United States,Rural,Marketer Manager,"$19,730.00",False,False,True
+23,female,$7.00,Facebook,Travel,United States,Urban,Student,"$12,073.00",False,False,False
+52,male,$2.00,Facebook,Travel,United Kingdom,Rural,Software Engineer,"$10,312.00",True,True,True
+58,male,$2.00,Instagram,Sports,United States,Rural,Student,"$16,269.00",False,True,True
+54,non-binary,$9.00,YouTube,Lifestlye,United States,Urban,Marketer Manager,"$15,317.00",True,False,False
+41,male,$5.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$10,810.00",True,True,False
+46,female,$2.00,Instagram,Sports,United States,Urban,Marketer Manager,"$16,841.00",True,False,False
+63,female,$9.00,Instagram,Lifestlye,Australia,Urban,Software Engineer,"$12,032.00",True,False,True
+48,non-binary,$9.00,Facebook,Lifestlye,United States,Sub_Urban,Student,"$19,699.00",False,False,True
+52,female,$1.00,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,"$17,129.00",True,False,False
+50,female,$3.00,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,"$12,705.00",True,False,False
+38,female,$4.00,YouTube,Sports,United States,Rural,Marketer Manager,"$18,788.00",True,False,False
+49,male,$7.00,YouTube,Sports,United States,Rural,Student,"$12,147.00",True,True,False
+40,male,$4.00,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,"$10,615.00",False,True,True
+50,female,$2.00,Instagram,Sports,United Kingdom,Urban,Software Engineer,"$10,947.00",True,False,True
+20,non-binary,$7.00,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,"$15,677.00",False,True,True
+35,male,$6.00,Instagram,Travel,Australia,Rural,Student,"$14,651.00",False,False,True
+42,non-binary,$3.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$17,866.00",False,True,True
+59,female,$6.00,Instagram,Sports,Australia,Sub_Urban,Student,"$12,013.00",True,True,False
+48,female,$6.00,YouTube,Travel,Australia,Rural,Student,"$13,697.00",True,True,True
+20,male,$5.00,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,"$10,490.00",True,False,False
+57,female,$4.00,YouTube,Travel,United States,Sub_Urban,Software Engineer,"$14,350.00",True,True,False
+63,male,$1.00,YouTube,Travel,Australia,Rural,Marketer Manager,"$12,428.00",False,False,False
+41,female,$6.00,Instagram,Sports,Australia,Rural,Software Engineer,"$14,987.00",False,False,True
+49,female,$2.00,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,"$18,733.00",True,False,False
+64,male,$3.00,YouTube,Travel,United States,Urban,Marketer Manager,"$19,479.00",True,True,True
+39,male,$8.00,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,"$19,825.00",True,True,False
+40,male,$6.00,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,"$14,920.00",True,True,True
+19,female,$3.00,Instagram,Travel,United Kingdom,Urban,Marketer Manager,"$12,926.00",True,False,False
+44,female,$7.00,Facebook,Travel,United States,Urban,Marketer Manager,"$19,544.00",True,False,True
+59,non-binary,$4.00,YouTube,Travel,Australia,Urban,Marketer Manager,"$17,282.00",True,True,False
+19,male,$9.00,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,"$14,376.00",False,False,False
+43,female,$5.00,YouTube,Lifestlye,United Kingdom,Rural,Student,"$19,490.00",False,True,False
+34,female,$3.00,Instagram,Lifestlye,United States,Rural,Software Engineer,"$14,868.00",False,True,False
+57,male,$2.00,Instagram,Lifestlye,Australia,Rural,Student,"$16,986.00",False,True,True
+50,non-binary,$2.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$16,862.00",True,True,True
+26,male,$3.00,Instagram,Travel,Australia,Rural,Student,"$14,423.00",True,False,True
+60,non-binary,$2.00,Facebook,Lifestlye,Australia,Rural,Marketer Manager,"$16,870.00",True,True,False
+56,female,$4.00,YouTube,Travel,United States,Sub_Urban,Marketer Manager,"$18,159.00",True,True,False
+46,non-binary,$2.00,YouTube,Travel,United States,Urban,Student,"$12,073.00",True,True,False
+59,female,$9.00,YouTube,Sports,Australia,Rural,Marketer Manager,"$16,170.00",False,True,False
+43,male,$2.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,"$10,701.00",True,True,False
+52,male,$9.00,Facebook,Lifestlye,United States,Rural,Marketer Manager,"$18,113.00",False,True,False
+42,male,$6.00,YouTube,Travel,Australia,Rural,Software Engineer,"$16,825.00",True,True,True
+41,non-binary,$1.00,Facebook,Lifestlye,United States,Urban,Software Engineer,"$17,867.00",False,False,True
+30,female,$4.00,Instagram,Travel,United States,Urban,Marketer Manager,"$14,264.00",True,False,True
+24,male,$1.00,YouTube,Travel,United States,Urban,Marketer Manager,"$17,968.00",False,False,True
+53,male,$6.00,Facebook,Sports,Australia,Rural,Student,"$18,146.00",True,False,True
+62,female,$4.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$17,776.00",True,True,True
+37,male,$3.00,Facebook,Sports,United Kingdom,Rural,Student,"$18,558.00",True,False,True
+18,female,$3.00,YouTube,Travel,United Kingdom,Urban,Marketer Manager,"$18,719.00",True,False,True
+25,female,$9.00,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,"$14,886.00",False,False,False
+63,female,$6.00,Instagram,Sports,Australia,Rural,Student,"$13,935.00",True,True,False
+33,female,$9.00,Instagram,Lifestlye,United States,Rural,Marketer Manager,"$14,619.00",False,False,False
+31,female,$5.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$15,191.00",True,False,False
+29,non-binary,$2.00,Facebook,Sports,United Kingdom,Sub_Urban,Student,"$16,875.00",False,True,False
+40,male,$8.00,Facebook,Travel,Australia,Rural,Software Engineer,"$17,856.00",True,False,False
+32,non-binary,$5.00,Facebook,Sports,United States,Sub_Urban,Software Engineer,"$15,401.00",True,True,False
+45,male,$2.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$13,022.00",False,False,True
+51,non-binary,$4.00,YouTube,Travel,Australia,Sub_Urban,Student,"$15,738.00",True,True,True
+19,female,$9.00,YouTube,Lifestlye,United States,Rural,Marketer Manager,"$15,984.00",True,False,False
+49,male,$4.00,Facebook,Sports,United States,Urban,Software Engineer,"$11,770.00",False,False,True
+40,male,$4.00,Facebook,Travel,United Kingdom,Urban,Software Engineer,"$19,969.00",True,False,True
+39,non-binary,$2.00,YouTube,Sports,United Kingdom,Urban,Software Engineer,"$18,989.00",False,True,True
+42,non-binary,$6.00,YouTube,Travel,United States,Urban,Marketer Manager,"$13,215.00",True,False,True
+39,male,$2.00,Facebook,Lifestlye,United States,Rural,Marketer Manager,"$16,694.00",False,True,True
+39,non-binary,$7.00,Facebook,Lifestlye,United Kingdom,Urban,Student,"$12,976.00",False,True,False
+59,non-binary,$3.00,YouTube,Travel,United States,Sub_Urban,Marketer Manager,"$13,737.00",False,True,True
+23,non-binary,$3.00,Instagram,Travel,United Kingdom,Urban,Student,"$19,903.00",False,True,False
+32,female,$5.00,Facebook,Travel,United States,Urban,Student,"$10,752.00",True,False,False
+60,female,$3.00,YouTube,Lifestlye,United Kingdom,Urban,Student,"$11,392.00",True,False,False
+54,non-binary,$2.00,YouTube,Sports,Australia,Rural,Student,"$16,789.00",False,False,True
+50,non-binary,$9.00,YouTube,Lifestlye,United Kingdom,Urban,Student,"$10,677.00",True,True,False
+25,female,$2.00,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,"$10,105.00",True,False,False
+61,female,$2.00,Instagram,Travel,Australia,Urban,Marketer Manager,"$14,753.00",True,True,False
+61,male,$8.00,YouTube,Lifestlye,United States,Urban,Software Engineer,"$11,946.00",False,True,False
+22,male,$9.00,Facebook,Travel,Australia,Urban,Student,"$15,544.00",True,True,True
+56,female,$7.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,095.00",True,False,False
+21,non-binary,$3.00,YouTube,Travel,United States,Urban,Software Engineer,"$16,985.00",False,False,False
+23,non-binary,$9.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$11,782.00",True,True,False
+62,non-binary,$3.00,Facebook,Sports,United States,Sub_Urban,Student,"$14,541.00",False,False,False
+49,non-binary,$5.00,YouTube,Travel,United States,Urban,Software Engineer,"$13,257.00",False,False,True
+47,male,$9.00,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,"$16,213.00",False,True,False
+64,female,$3.00,YouTube,Sports,United States,Rural,Software Engineer,"$14,869.00",True,True,False
+52,non-binary,$7.00,YouTube,Lifestlye,Australia,Urban,Software Engineer,"$11,561.00",True,False,False
+57,male,$1.00,YouTube,Travel,United Kingdom,Urban,Software Engineer,"$14,006.00",False,True,False
+33,non-binary,$4.00,YouTube,Lifestlye,United States,Sub_Urban,Student,"$19,867.00",False,True,False
+30,female,$4.00,YouTube,Sports,United Kingdom,Sub_Urban,Student,"$19,314.00",False,False,False
+59,male,$7.00,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,"$13,981.00",False,False,True
+47,female,$8.00,YouTube,Lifestlye,United States,Rural,Student,"$19,493.00",False,True,False
+36,female,$1.00,YouTube,Travel,Australia,Sub_Urban,Student,"$15,682.00",False,False,True
+34,male,$5.00,Instagram,Travel,United States,Sub_Urban,Marketer Manager,"$15,782.00",True,True,True
+36,male,$7.00,Instagram,Travel,United Kingdom,Rural,Software Engineer,"$10,943.00",False,True,False
+45,male,$4.00,Instagram,Sports,United Kingdom,Rural,Student,"$14,550.00",False,False,True
+43,male,$4.00,Instagram,Sports,Australia,Urban,Student,"$19,137.00",False,True,False
+54,male,$4.00,Instagram,Travel,United States,Rural,Software Engineer,"$10,600.00",True,True,True
+43,male,$6.00,Instagram,Travel,United Kingdom,Urban,Marketer Manager,"$16,376.00",True,True,False
+40,male,$7.00,YouTube,Sports,United Kingdom,Rural,Software Engineer,"$19,609.00",True,False,True
+26,non-binary,$2.00,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$11,524.00",True,False,True
+29,female,$5.00,Facebook,Sports,Australia,Urban,Software Engineer,"$13,766.00",False,False,False
+18,male,$4.00,YouTube,Sports,United Kingdom,Urban,Software Engineer,"$10,250.00",True,True,True
+18,non-binary,$3.00,YouTube,Travel,United Kingdom,Urban,Software Engineer,"$19,736.00",False,True,True
+64,non-binary,$7.00,Instagram,Sports,United States,Rural,Software Engineer,"$10,078.00",False,False,True
+51,non-binary,$6.00,Instagram,Travel,United States,Sub_Urban,Marketer Manager,"$13,123.00",False,False,True
+49,female,$7.00,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,089.00",False,False,True
+42,male,$5.00,Facebook,Lifestlye,United Kingdom,Urban,Student,"$17,064.00",False,True,False
+57,non-binary,$6.00,Instagram,Sports,United States,Urban,Software Engineer,"$18,417.00",False,False,True
+62,female,$5.00,YouTube,Lifestlye,Australia,Urban,Marketer Manager,"$11,209.00",True,True,True
+18,female,$7.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$15,153.00",True,False,False
+33,female,$2.00,Facebook,Lifestlye,Australia,Rural,Marketer Manager,"$14,898.00",True,True,False
+56,non-binary,$5.00,Facebook,Sports,Australia,Sub_Urban,Software Engineer,"$12,178.00",True,True,False
+22,male,$6.00,Instagram,Sports,Australia,Urban,Student,"$17,610.00",True,False,True
+39,non-binary,$6.00,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,895.00",False,True,True
+46,non-binary,$5.00,YouTube,Travel,Australia,Urban,Software Engineer,"$12,544.00",True,False,True
+20,male,$7.00,YouTube,Lifestlye,Australia,Rural,Marketer Manager,"$15,522.00",True,True,True
+29,male,$8.00,Facebook,Sports,United States,Rural,Marketer Manager,"$12,370.00",True,True,False
+43,male,$7.00,Facebook,Sports,Australia,Rural,Student,"$13,281.00",False,False,False
+33,female,$5.00,Facebook,Sports,Australia,Urban,Marketer Manager,"$14,710.00",False,True,True
+54,male,$1.00,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$10,328.00",False,False,True
+39,non-binary,$5.00,Instagram,Travel,United Kingdom,Rural,Software Engineer,"$15,579.00",True,False,True
+46,male,$2.00,Facebook,Sports,United States,Urban,Software Engineer,"$14,228.00",True,False,True
+31,non-binary,$5.00,Instagram,Sports,United States,Urban,Student,"$16,794.00",True,True,False
+45,female,$5.00,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,"$10,120.00",True,True,False
+22,non-binary,$2.00,Facebook,Travel,Australia,Rural,Software Engineer,"$16,749.00",True,True,True
+64,non-binary,$5.00,Instagram,Lifestlye,Australia,Urban,Student,"$10,964.00",False,False,False
+47,male,$4.00,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$14,224.00",True,False,True
+63,male,$1.00,YouTube,Travel,United States,Rural,Student,"$13,675.00",False,True,True
+22,non-binary,$3.00,YouTube,Travel,Australia,Sub_Urban,Software Engineer,"$15,694.00",True,True,False
+29,male,$1.00,YouTube,Sports,United States,Sub_Urban,Student,"$12,076.00",False,False,True
+33,female,$5.00,Facebook,Travel,United Kingdom,Urban,Marketer Manager,"$16,865.00",False,True,False
+43,female,$4.00,Facebook,Travel,United Kingdom,Urban,Student,"$15,643.00",False,False,True
+43,male,$7.00,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,"$18,524.00",False,True,False
+38,female,$5.00,YouTube,Sports,United States,Sub_Urban,Software Engineer,"$15,249.00",True,False,True
+56,male,$4.00,Facebook,Sports,Australia,Urban,Student,"$11,316.00",True,True,False
+53,non-binary,$2.00,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,"$11,196.00",True,True,True
+50,non-binary,$4.00,YouTube,Sports,United Kingdom,Sub_Urban,Student,"$13,170.00",False,False,True
+47,female,$2.00,Instagram,Sports,Australia,Urban,Marketer Manager,"$19,621.00",True,False,False
+54,male,$8.00,Instagram,Travel,United Kingdom,Rural,Marketer Manager,"$10,355.00",True,False,True
+40,male,$3.00,Instagram,Lifestlye,United States,Rural,Student,"$19,718.00",True,True,False
+27,female,$9.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$10,028.00",True,False,False
+22,non-binary,$4.00,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,"$11,013.00",False,False,True
+53,female,$6.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Student,"$19,019.00",False,True,True
+51,non-binary,$5.00,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,"$12,024.00",True,False,True
+48,male,$1.00,Instagram,Sports,Australia,Urban,Software Engineer,"$18,490.00",True,False,True
+27,non-binary,$9.00,Instagram,Travel,United Kingdom,Sub_Urban,Student,"$15,839.00",True,False,False
+36,female,$1.00,YouTube,Sports,Australia,Urban,Software Engineer,"$15,791.00",False,True,True
+49,male,$8.00,Instagram,Travel,Australia,Urban,Software Engineer,"$10,754.00",False,True,True
+18,female,$9.00,YouTube,Lifestlye,Australia,Rural,Software Engineer,"$18,961.00",False,True,True
+22,female,$9.00,Facebook,Sports,United States,Rural,Marketer Manager,"$13,735.00",True,False,False
+62,non-binary,$1.00,YouTube,Lifestlye,Australia,Rural,Student,"$11,238.00",False,True,True
+21,female,$2.00,YouTube,Lifestlye,United States,Urban,Student,"$11,906.00",False,False,False
+33,non-binary,$1.00,Instagram,Travel,United Kingdom,Urban,Marketer Manager,"$17,399.00",False,False,True
+41,male,$2.00,Facebook,Sports,Australia,Urban,Student,"$17,961.00",False,False,False
+33,non-binary,$8.00,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,756.00",False,True,True
+19,male,$5.00,Facebook,Travel,Australia,Urban,Student,"$19,410.00",True,True,True
+45,non-binary,$7.00,Facebook,Sports,United Kingdom,Rural,Marketer Manager,"$14,601.00",True,False,False
+49,female,$2.00,YouTube,Sports,United States,Rural,Software Engineer,"$19,549.00",True,False,True
+44,non-binary,$8.00,Facebook,Lifestlye,United States,Urban,Marketer Manager,"$11,460.00",True,True,True
+37,non-binary,$6.00,YouTube,Sports,Australia,Urban,Software Engineer,"$17,669.00",False,True,True
+41,male,$8.00,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,"$11,416.00",True,True,False
+29,female,$1.00,YouTube,Sports,United Kingdom,Urban,Student,"$17,766.00",True,False,True
+52,non-binary,$1.00,Facebook,Travel,United Kingdom,Rural,Software Engineer,"$11,428.00",True,True,False
+50,female,$7.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$14,378.00",False,True,False
+50,non-binary,$8.00,Instagram,Lifestlye,United Kingdom,Rural,Student,"$17,529.00",True,True,False
+60,non-binary,$3.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$14,474.00",False,False,True
+54,female,$5.00,Instagram,Sports,United States,Urban,Software Engineer,"$13,071.00",False,True,False
+29,non-binary,$1.00,Instagram,Lifestlye,United States,Urban,Marketer Manager,"$10,555.00",False,False,False
+20,female,$7.00,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,"$18,547.00",True,False,True
+18,non-binary,$5.00,YouTube,Travel,United Kingdom,Urban,Software Engineer,"$11,563.00",False,False,False
+50,male,$8.00,Facebook,Sports,Australia,Sub_Urban,Student,"$11,040.00",True,True,False
+57,female,$8.00,Facebook,Travel,United Kingdom,Urban,Marketer Manager,"$12,686.00",True,True,True
+27,non-binary,$9.00,Instagram,Travel,United States,Rural,Software Engineer,"$12,553.00",True,True,True
+60,non-binary,$7.00,YouTube,Travel,Australia,Urban,Student,"$11,779.00",False,False,False
+61,male,$1.00,Facebook,Travel,United States,Rural,Student,"$10,075.00",False,True,True
+46,female,$3.00,Facebook,Travel,United Kingdom,Rural,Student,"$14,326.00",True,False,True
+30,non-binary,$8.00,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$15,835.00",False,True,True
+29,male,$3.00,Facebook,Travel,United Kingdom,Urban,Marketer Manager,"$15,057.00",False,True,False
+48,non-binary,$8.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$12,349.00",False,True,False
+63,female,$1.00,Facebook,Travel,United Kingdom,Urban,Student,"$12,773.00",True,True,True
+19,non-binary,$5.00,Instagram,Lifestlye,United States,Rural,Marketer Manager,"$12,262.00",False,False,False
+52,non-binary,$4.00,YouTube,Travel,Australia,Rural,Software Engineer,"$13,229.00",False,False,True
+40,non-binary,$5.00,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,"$10,392.00",True,False,True
+34,non-binary,$8.00,Facebook,Travel,United Kingdom,Urban,Marketer Manager,"$11,108.00",False,False,True
+43,male,$4.00,YouTube,Travel,United Kingdom,Sub_Urban,Student,"$14,362.00",True,True,True
+25,male,$4.00,YouTube,Travel,Australia,Urban,Marketer Manager,"$15,188.00",False,False,True
+46,female,$3.00,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,"$18,802.00",False,False,False
+43,male,$7.00,Facebook,Lifestlye,United States,Urban,Student,"$15,057.00",False,False,False
+27,male,$3.00,Facebook,Travel,United States,Sub_Urban,Software Engineer,"$13,998.00",False,True,False
+43,female,$3.00,YouTube,Sports,United Kingdom,Urban,Student,"$18,864.00",False,False,False
+51,male,$5.00,YouTube,Travel,United Kingdom,Rural,Student,"$16,566.00",False,False,True
+58,male,$5.00,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$13,677.00",True,True,True
+24,female,$6.00,Instagram,Travel,Australia,Sub_Urban,Software Engineer,"$15,796.00",False,True,False
+21,female,$8.00,YouTube,Lifestlye,Australia,Rural,Student,"$16,363.00",False,False,False
+62,female,$6.00,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,"$18,123.00",False,False,True
+28,non-binary,$1.00,YouTube,Lifestlye,Australia,Rural,Student,"$18,222.00",True,True,True
+46,non-binary,$8.00,Instagram,Travel,Australia,Urban,Student,"$17,690.00",True,False,True
+53,female,$8.00,Instagram,Lifestlye,United States,Rural,Student,"$11,400.00",True,True,False
+42,female,$9.00,Instagram,Lifestlye,Australia,Urban,Student,"$14,071.00",False,False,True
+38,female,$9.00,Facebook,Travel,United States,Sub_Urban,Student,"$18,808.00",False,False,True
+53,non-binary,$2.00,Instagram,Lifestlye,United States,Sub_Urban,Student,"$12,786.00",True,False,False
+27,non-binary,$2.00,Instagram,Travel,Australia,Rural,Marketer Manager,"$17,169.00",True,False,False
+54,male,$3.00,Instagram,Lifestlye,United States,Urban,Student,"$10,870.00",True,False,False
+26,male,$1.00,YouTube,Sports,United Kingdom,Rural,Software Engineer,"$14,196.00",False,True,True
+41,female,$4.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$19,604.00",True,True,True
+52,non-binary,$4.00,YouTube,Lifestlye,Australia,Urban,Software Engineer,"$12,739.00",False,False,False
+52,non-binary,$9.00,Instagram,Sports,United Kingdom,Rural,Student,"$10,940.00",False,False,True
+53,non-binary,$9.00,Instagram,Travel,United States,Sub_Urban,Software Engineer,"$10,340.00",False,False,True
+35,female,$9.00,Facebook,Sports,United Kingdom,Rural,Student,"$17,422.00",True,True,True
+56,male,$7.00,YouTube,Lifestlye,Australia,Urban,Student,"$14,133.00",False,True,False
+49,female,$2.00,Instagram,Lifestlye,Australia,Urban,Marketer Manager,"$10,659.00",True,True,False
+41,male,$5.00,YouTube,Travel,United States,Sub_Urban,Marketer Manager,"$19,752.00",True,True,True
+40,male,$4.00,YouTube,Lifestlye,Australia,Urban,Student,"$13,457.00",True,True,True
+49,female,$8.00,Facebook,Travel,United Kingdom,Urban,Marketer Manager,"$19,848.00",True,True,True
+54,male,$2.00,Facebook,Sports,Australia,Sub_Urban,Software Engineer,"$12,975.00",False,True,True
+29,male,$6.00,Facebook,Sports,United States,Rural,Marketer Manager,"$19,241.00",False,True,False
+30,non-binary,$5.00,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,"$10,453.00",False,False,False
+40,male,$2.00,Facebook,Travel,United Kingdom,Rural,Software Engineer,"$19,896.00",False,True,True
+42,female,$1.00,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,"$18,184.00",True,True,True
+52,female,$8.00,Facebook,Sports,United Kingdom,Rural,Student,"$15,442.00",True,True,False
+58,male,$2.00,Facebook,Travel,United States,Sub_Urban,Software Engineer,"$10,818.00",True,True,True
+47,non-binary,$7.00,Instagram,Sports,Australia,Rural,Student,"$14,868.00",True,False,False
+34,non-binary,$9.00,YouTube,Travel,United States,Sub_Urban,Software Engineer,"$10,012.00",False,True,True
+37,male,$9.00,Facebook,Sports,United States,Rural,Student,"$17,727.00",True,False,False
+42,male,$8.00,Facebook,Lifestlye,Australia,Sub_Urban,Student,"$10,920.00",False,False,True
+39,female,$9.00,YouTube,Sports,United Kingdom,Urban,Marketer Manager,"$14,920.00",True,False,True
+30,male,$2.00,Instagram,Sports,Australia,Rural,Student,"$12,418.00",True,True,False
+36,non-binary,$6.00,YouTube,Sports,United States,Sub_Urban,Marketer Manager,"$19,506.00",True,True,False
+53,male,$4.00,YouTube,Sports,Australia,Rural,Software Engineer,"$16,475.00",True,True,True
+29,female,$4.00,Facebook,Sports,United States,Rural,Student,"$12,017.00",False,False,True
+58,female,$5.00,YouTube,Lifestlye,Australia,Sub_Urban,Student,"$17,957.00",False,False,False
+36,female,$3.00,YouTube,Travel,Australia,Rural,Software Engineer,"$19,420.00",False,False,False
+29,female,$1.00,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,"$14,792.00",False,False,True
+26,female,$8.00,Facebook,Lifestlye,United States,Urban,Student,"$16,830.00",True,True,True
+24,male,$5.00,Facebook,Sports,United Kingdom,Rural,Software Engineer,"$12,434.00",True,True,False
+45,male,$3.00,Facebook,Sports,United States,Urban,Marketer Manager,"$12,868.00",False,True,False
+31,male,$7.00,YouTube,Travel,Australia,Rural,Software Engineer,"$11,438.00",False,False,False
+48,male,$7.00,YouTube,Sports,United States,Rural,Software Engineer,"$13,543.00",True,False,False
+36,female,$1.00,Instagram,Lifestlye,United Kingdom,Rural,Student,"$11,781.00",True,True,False
+64,non-binary,$9.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$16,343.00",False,True,True
+33,male,$2.00,YouTube,Travel,United Kingdom,Urban,Software Engineer,"$12,263.00",False,False,True
+22,non-binary,$5.00,Instagram,Sports,United States,Rural,Marketer Manager,"$10,211.00",False,True,False
+52,male,$5.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$18,699.00",True,True,True
+29,male,$8.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$16,159.00",False,False,True
+42,non-binary,$8.00,Facebook,Sports,United Kingdom,Sub_Urban,Student,"$17,027.00",False,False,False
+38,female,$7.00,Instagram,Sports,Australia,Rural,Software Engineer,"$10,331.00",False,False,True
+53,male,$7.00,Facebook,Travel,Australia,Urban,Student,"$16,860.00",False,True,True
+40,male,$6.00,Facebook,Sports,United States,Urban,Software Engineer,"$18,044.00",False,False,True
+33,male,$6.00,Facebook,Lifestlye,United States,Rural,Software Engineer,"$18,169.00",True,True,False
+56,non-binary,$9.00,Facebook,Sports,United Kingdom,Sub_Urban,Student,"$18,742.00",False,True,False
+62,female,$6.00,Instagram,Lifestlye,Australia,Rural,Marketer Manager,"$15,720.00",True,False,True
+59,non-binary,$2.00,YouTube,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$19,133.00",False,True,True
+56,non-binary,$2.00,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,"$10,727.00",False,False,True
+31,female,$5.00,Instagram,Lifestlye,Australia,Sub_Urban,Student,"$14,975.00",False,False,True
+48,non-binary,$4.00,Facebook,Sports,Australia,Urban,Marketer Manager,"$13,243.00",True,True,True
+22,female,$2.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$10,648.00",True,True,True
+52,male,$3.00,Instagram,Lifestlye,United States,Urban,Software Engineer,"$15,095.00",True,False,False
+40,female,$7.00,Instagram,Travel,United States,Urban,Software Engineer,"$16,614.00",False,False,True
+46,male,$8.00,YouTube,Sports,United Kingdom,Rural,Student,"$17,135.00",False,False,True
+60,non-binary,$6.00,Instagram,Travel,United States,Rural,Software Engineer,"$11,009.00",True,False,False
+28,non-binary,$5.00,Instagram,Sports,Australia,Sub_Urban,Marketer Manager,"$11,550.00",True,False,True
+35,male,$1.00,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,"$18,995.00",False,False,True
+64,non-binary,$8.00,YouTube,Sports,United States,Urban,Marketer Manager,"$17,492.00",True,True,True
+29,female,$3.00,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$13,401.00",False,True,True
+26,male,$6.00,YouTube,Travel,United Kingdom,Sub_Urban,Student,"$17,447.00",True,True,False
+27,non-binary,$3.00,Facebook,Sports,United States,Rural,Student,"$15,424.00",True,True,True
+61,male,$7.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$14,241.00",True,False,False
+34,female,$7.00,YouTube,Lifestlye,United Kingdom,Urban,Software Engineer,"$13,161.00",False,True,True
+55,female,$9.00,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,"$14,155.00",False,True,True
+24,non-binary,$5.00,Instagram,Sports,Australia,Urban,Student,"$17,478.00",True,False,False
+63,female,$8.00,YouTube,Lifestlye,Australia,Rural,Marketer Manager,"$18,719.00",False,True,True
+30,male,$8.00,Instagram,Travel,United States,Urban,Software Engineer,"$19,215.00",False,False,False
+57,female,$1.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$16,617.00",False,False,False
+59,male,$5.00,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,"$15,660.00",False,False,False
+26,male,$3.00,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,"$18,624.00",True,False,True
+44,female,$1.00,Instagram,Travel,United States,Rural,Software Engineer,"$11,176.00",False,False,True
+19,non-binary,$4.00,Facebook,Sports,Australia,Rural,Software Engineer,"$17,956.00",False,True,True
+22,female,$8.00,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,"$18,592.00",True,True,True
+46,male,$3.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$12,233.00",False,True,False
+54,male,$2.00,Instagram,Lifestlye,United States,Rural,Software Engineer,"$14,700.00",False,False,True
+55,female,$9.00,Instagram,Lifestlye,Australia,Rural,Marketer Manager,"$15,906.00",False,True,True
+36,non-binary,$5.00,YouTube,Sports,Australia,Sub_Urban,Student,"$17,860.00",True,True,False
+25,non-binary,$7.00,Instagram,Travel,Australia,Urban,Software Engineer,"$17,526.00",True,True,False
+62,male,$2.00,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$15,559.00",False,True,True
+18,male,$9.00,Facebook,Sports,United States,Rural,Student,"$16,732.00",False,False,False
+39,non-binary,$9.00,YouTube,Travel,Australia,Sub_Urban,Student,"$12,513.00",True,True,False
+34,female,$4.00,YouTube,Lifestlye,United Kingdom,Urban,Student,"$17,830.00",True,False,False
+24,male,$4.00,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$19,965.00",True,False,False
+42,male,$6.00,Instagram,Travel,United Kingdom,Rural,Software Engineer,"$16,944.00",False,True,False
+62,non-binary,$6.00,YouTube,Travel,Australia,Sub_Urban,Software Engineer,"$17,910.00",False,False,True
+21,female,$1.00,Instagram,Lifestlye,Australia,Rural,Marketer Manager,"$15,649.00",True,False,True
+53,non-binary,$9.00,Instagram,Sports,Australia,Rural,Software Engineer,"$11,096.00",False,False,True
+23,female,$2.00,Instagram,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$19,120.00",False,False,True
+48,female,$5.00,YouTube,Sports,Australia,Rural,Software Engineer,"$11,951.00",False,False,True
+36,female,$9.00,Instagram,Sports,Australia,Rural,Student,"$19,746.00",False,False,True
+61,male,$4.00,YouTube,Sports,Australia,Urban,Software Engineer,"$19,186.00",False,False,True
+56,non-binary,$3.00,Instagram,Travel,Australia,Urban,Marketer Manager,"$17,799.00",False,True,False
+44,non-binary,$7.00,Facebook,Travel,Australia,Urban,Marketer Manager,"$18,804.00",False,True,True
+27,female,$6.00,Instagram,Sports,United Kingdom,Urban,Student,"$10,595.00",True,False,True
+43,male,$8.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$17,875.00",True,False,True
+36,male,$3.00,YouTube,Travel,United States,Sub_Urban,Software Engineer,"$19,033.00",True,True,False
+56,non-binary,$5.00,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,"$14,439.00",True,True,True
+20,male,$4.00,Instagram,Sports,Australia,Rural,Student,"$15,972.00",True,True,True
+62,male,$4.00,Facebook,Lifestlye,United States,Rural,Marketer Manager,"$10,858.00",True,True,False
+30,female,$4.00,Instagram,Travel,Australia,Sub_Urban,Student,"$15,519.00",True,False,True
+45,male,$8.00,Instagram,Sports,United States,Urban,Software Engineer,"$17,385.00",True,False,True
+37,female,$6.00,Facebook,Lifestlye,United States,Rural,Student,"$18,636.00",True,True,False
+45,non-binary,$3.00,YouTube,Lifestlye,United States,Rural,Marketer Manager,"$19,980.00",False,True,True
+25,male,$5.00,Instagram,Lifestlye,United States,Urban,Student,"$14,317.00",False,True,False
+58,non-binary,$6.00,YouTube,Travel,United Kingdom,Rural,Marketer Manager,"$13,454.00",True,True,True
+56,non-binary,$5.00,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$11,030.00",False,False,True
+18,male,$6.00,Facebook,Lifestlye,United States,Rural,Software Engineer,"$19,487.00",False,True,True
+20,male,$8.00,Facebook,Lifestlye,Australia,Rural,Software Engineer,"$17,906.00",True,True,False
+30,non-binary,$7.00,YouTube,Travel,United States,Urban,Software Engineer,"$11,447.00",True,True,False
+45,male,$5.00,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,"$12,850.00",True,False,False
+42,female,$6.00,YouTube,Lifestlye,Australia,Rural,Student,"$18,106.00",False,False,True
+50,female,$4.00,Instagram,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$17,151.00",False,False,True
+55,male,$9.00,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,"$19,503.00",True,True,False
+23,non-binary,$4.00,Facebook,Lifestlye,Australia,Urban,Software Engineer,"$16,952.00",False,True,False
+61,male,$1.00,Instagram,Lifestlye,United States,Sub_Urban,Student,"$14,055.00",False,True,True
+62,male,$7.00,Instagram,Travel,United States,Rural,Software Engineer,"$15,402.00",False,False,True
+49,non-binary,$7.00,YouTube,Lifestlye,United States,Urban,Software Engineer,"$19,281.00",True,False,True
+62,non-binary,$4.00,Facebook,Travel,United States,Urban,Software Engineer,"$11,672.00",False,True,True
+64,female,$3.00,Instagram,Travel,Australia,Rural,Student,"$14,532.00",False,True,False
+38,non-binary,$8.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$14,924.00",False,False,True
+33,female,$5.00,Facebook,Sports,Australia,Urban,Software Engineer,"$16,085.00",False,True,True
+38,non-binary,$7.00,YouTube,Lifestlye,United Kingdom,Rural,Student,"$17,734.00",False,True,True
+28,male,$4.00,Facebook,Travel,Australia,Urban,Software Engineer,"$14,864.00",False,True,True
+54,female,$4.00,Facebook,Sports,United States,Rural,Student,"$19,316.00",False,False,True
+53,female,$8.00,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,"$11,221.00",True,True,True
+52,female,$8.00,Instagram,Sports,United States,Sub_Urban,Student,"$12,860.00",True,True,True
+36,male,$2.00,YouTube,Sports,United States,Rural,Software Engineer,"$18,428.00",False,True,False
+37,male,$2.00,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,"$19,336.00",True,True,False
+35,male,$3.00,Instagram,Travel,Australia,Rural,Software Engineer,"$13,253.00",False,False,False
+64,male,$3.00,Facebook,Sports,United States,Urban,Student,"$13,782.00",False,False,True
+58,male,$1.00,Instagram,Sports,United States,Urban,Software Engineer,"$16,957.00",False,False,False
+31,female,$3.00,YouTube,Travel,United Kingdom,Rural,Marketer Manager,"$10,766.00",True,True,True
+32,male,$6.00,Facebook,Lifestlye,Australia,Rural,Software Engineer,"$12,681.00",False,False,True
+48,female,$8.00,YouTube,Travel,United Kingdom,Urban,Student,"$17,710.00",False,True,True
+18,male,$6.00,Facebook,Sports,United Kingdom,Rural,Student,"$17,482.00",True,False,True
+20,non-binary,$5.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$15,086.00",True,True,False
+33,female,$4.00,Facebook,Sports,United States,Sub_Urban,Student,"$17,964.00",False,False,True
+40,non-binary,$3.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$12,665.00",True,False,True
+28,female,$4.00,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,"$19,951.00",True,False,False
+29,non-binary,$7.00,Instagram,Lifestlye,United States,Sub_Urban,Software Engineer,"$13,513.00",False,True,False
+27,male,$1.00,YouTube,Lifestlye,Australia,Rural,Student,"$10,495.00",False,True,False
+49,male,$7.00,YouTube,Sports,Australia,Rural,Software Engineer,"$15,822.00",False,True,True
+33,male,$1.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$12,072.00",True,False,False
+25,female,$2.00,Instagram,Travel,United States,Rural,Software Engineer,"$17,795.00",True,True,True
+55,non-binary,$4.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$18,529.00",True,True,True
+29,male,$1.00,Facebook,Travel,United Kingdom,Sub_Urban,Student,"$13,949.00",False,True,False
+41,non-binary,$9.00,Facebook,Sports,United Kingdom,Rural,Student,"$16,033.00",True,True,False
+45,non-binary,$6.00,Facebook,Lifestlye,United States,Rural,Student,"$18,328.00",True,True,False
+25,male,$1.00,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,"$12,555.00",False,True,True
+45,male,$1.00,YouTube,Lifestlye,Australia,Sub_Urban,Student,"$16,370.00",False,False,True
+53,non-binary,$6.00,Instagram,Sports,United States,Rural,Marketer Manager,"$14,415.00",False,False,True
+43,male,$4.00,Facebook,Travel,Australia,Urban,Marketer Manager,"$15,959.00",True,True,True
+25,male,$4.00,Facebook,Travel,Australia,Urban,Student,"$19,107.00",False,False,True
+45,male,$6.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$15,993.00",True,False,True
+45,female,$7.00,Instagram,Sports,United Kingdom,Urban,Software Engineer,"$15,021.00",True,True,False
+54,non-binary,$9.00,Facebook,Travel,United Kingdom,Sub_Urban,Student,"$12,907.00",False,True,True
+58,non-binary,$5.00,Facebook,Travel,Australia,Urban,Student,"$12,914.00",False,False,False
+53,female,$9.00,Facebook,Travel,Australia,Urban,Marketer Manager,"$13,870.00",False,True,False
+44,non-binary,$4.00,Instagram,Travel,United States,Urban,Student,"$19,190.00",False,False,False
+34,male,$2.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$15,085.00",False,False,False
+26,non-binary,$3.00,Facebook,Sports,United Kingdom,Sub_Urban,Student,"$16,546.00",True,False,False
+50,male,$1.00,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,"$10,395.00",True,True,True
+37,female,$6.00,Instagram,Travel,United States,Sub_Urban,Software Engineer,"$10,938.00",True,False,True
+30,male,$6.00,YouTube,Lifestlye,Australia,Urban,Student,"$19,828.00",False,True,True
+45,non-binary,$1.00,YouTube,Sports,United Kingdom,Urban,Marketer Manager,"$12,510.00",True,True,True
+46,non-binary,$3.00,Facebook,Sports,Australia,Sub_Urban,Software Engineer,"$14,636.00",False,True,False
+30,non-binary,$5.00,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,649.00",False,True,False
+63,female,$3.00,Facebook,Travel,United Kingdom,Sub_Urban,Student,"$13,690.00",True,True,False
+52,female,$3.00,Instagram,Travel,United Kingdom,Rural,Student,"$13,435.00",True,False,True
+23,non-binary,$3.00,YouTube,Travel,United States,Urban,Software Engineer,"$13,201.00",False,True,True
+35,male,$5.00,Instagram,Travel,United Kingdom,Rural,Student,"$14,179.00",True,True,True
+22,female,$5.00,Facebook,Lifestlye,United States,Rural,Software Engineer,"$18,405.00",False,True,True
+64,non-binary,$4.00,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,"$13,237.00",True,True,False
+42,non-binary,$1.00,Facebook,Sports,United States,Urban,Software Engineer,"$13,862.00",True,True,False
+19,female,$5.00,Instagram,Travel,United Kingdom,Sub_Urban,Software Engineer,"$10,058.00",True,False,True
+27,female,$5.00,YouTube,Travel,Australia,Sub_Urban,Marketer Manager,"$14,938.00",True,True,True
+47,female,$4.00,YouTube,Travel,Australia,Rural,Software Engineer,"$12,971.00",True,True,False
+62,male,$6.00,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,719.00",False,False,False
+22,male,$4.00,Facebook,Travel,United Kingdom,Sub_Urban,Student,"$18,314.00",True,True,False
+50,non-binary,$7.00,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,628.00",True,False,False
+18,female,$7.00,Facebook,Travel,Australia,Urban,Software Engineer,"$19,354.00",True,False,True
+35,male,$2.00,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,"$13,345.00",False,False,False
+49,female,$3.00,Facebook,Sports,United States,Urban,Marketer Manager,"$12,486.00",False,False,False
+64,non-binary,$1.00,YouTube,Travel,United States,Sub_Urban,Software Engineer,"$10,561.00",False,True,False
+28,male,$8.00,YouTube,Travel,United States,Urban,Student,"$13,981.00",False,True,False
+38,male,$9.00,Facebook,Sports,Australia,Urban,Marketer Manager,"$16,261.00",False,False,True
+43,male,$4.00,Instagram,Lifestlye,Australia,Urban,Software Engineer,"$11,737.00",True,False,True
+42,non-binary,$6.00,Facebook,Lifestlye,Australia,Urban,Marketer Manager,"$19,096.00",True,True,True
+39,female,$9.00,Instagram,Travel,United States,Sub_Urban,Student,"$13,554.00",True,False,True
+44,male,$6.00,Facebook,Lifestlye,United Kingdom,Rural,Student,"$19,918.00",False,False,True
+30,non-binary,$9.00,YouTube,Travel,Australia,Urban,Student,"$19,126.00",False,False,True
+50,female,$4.00,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,"$17,095.00",True,True,False
+51,non-binary,$8.00,Instagram,Sports,United Kingdom,Sub_Urban,Software Engineer,"$18,266.00",False,False,False
+58,female,$9.00,Instagram,Travel,United Kingdom,Urban,Student,"$10,294.00",False,True,False
+52,non-binary,$4.00,YouTube,Sports,United States,Rural,Software Engineer,"$18,212.00",False,True,False
+18,female,$5.00,Facebook,Sports,United Kingdom,Urban,Student,"$19,230.00",True,True,True
+38,male,$8.00,YouTube,Travel,Australia,Sub_Urban,Software Engineer,"$15,330.00",True,False,False
+23,female,$6.00,Instagram,Travel,United States,Rural,Student,"$14,655.00",False,False,True
+45,non-binary,$7.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$11,109.00",False,True,False
+34,non-binary,$3.00,YouTube,Lifestlye,Australia,Urban,Student,"$13,771.00",False,True,False
+22,female,$7.00,Instagram,Lifestlye,United States,Rural,Student,"$18,563.00",False,True,False
+48,male,$8.00,Instagram,Travel,Australia,Sub_Urban,Software Engineer,"$16,123.00",True,False,True
+22,male,$6.00,YouTube,Travel,Australia,Sub_Urban,Software Engineer,"$17,647.00",False,False,False
+55,female,$9.00,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,"$11,174.00",True,True,True
+20,female,$6.00,YouTube,Sports,Australia,Urban,Software Engineer,"$11,164.00",True,True,True
+40,non-binary,$9.00,Instagram,Lifestlye,United Kingdom,Rural,Software Engineer,"$19,284.00",True,False,False
+54,male,$4.00,YouTube,Lifestlye,Australia,Urban,Software Engineer,"$19,475.00",False,True,True
+54,female,$8.00,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,037.00",True,False,True
+27,male,$4.00,YouTube,Lifestlye,Australia,Urban,Student,"$18,712.00",True,False,False
+27,female,$2.00,Instagram,Travel,United States,Rural,Student,"$14,466.00",False,True,False
+36,female,$9.00,Instagram,Travel,United States,Urban,Student,"$15,538.00",False,True,False
+34,male,$5.00,Facebook,Sports,Australia,Urban,Marketer Manager,"$17,111.00",False,False,False
+38,female,$4.00,YouTube,Sports,United States,Urban,Student,"$18,434.00",True,False,False
+31,female,$2.00,YouTube,Sports,Australia,Urban,Marketer Manager,"$12,800.00",False,False,False
+26,non-binary,$1.00,Instagram,Sports,United States,Sub_Urban,Marketer Manager,"$14,607.00",True,False,True
+63,female,$7.00,Instagram,Lifestlye,United Kingdom,Urban,Marketer Manager,"$17,262.00",True,False,False
+18,female,$6.00,Instagram,Travel,Australia,Sub_Urban,Student,"$11,541.00",False,True,False
+62,female,$2.00,Facebook,Travel,United Kingdom,Urban,Marketer Manager,"$12,765.00",True,False,True
+30,non-binary,$8.00,Facebook,Sports,United Kingdom,Rural,Student,"$14,491.00",True,False,False
+21,male,$4.00,Instagram,Sports,Australia,Sub_Urban,Student,"$13,083.00",True,False,True
+18,non-binary,$8.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$15,356.00",True,True,False
+57,non-binary,$7.00,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,"$11,857.00",False,True,False
+49,male,$5.00,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$10,769.00",True,False,True
+51,non-binary,$8.00,Facebook,Travel,Australia,Rural,Marketer Manager,"$11,422.00",False,False,False
+45,male,$9.00,Instagram,Travel,Australia,Urban,Student,"$18,598.00",True,True,True
+48,non-binary,$5.00,YouTube,Travel,United States,Sub_Urban,Marketer Manager,"$12,972.00",True,True,False
+25,male,$5.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$11,872.00",False,True,False
+56,female,$2.00,Facebook,Travel,Australia,Sub_Urban,Student,"$15,599.00",True,True,True
+43,non-binary,$5.00,YouTube,Lifestlye,United Kingdom,Urban,Marketer Manager,"$12,269.00",True,False,False
+51,non-binary,$3.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$15,275.00",True,True,False
+20,non-binary,$7.00,Facebook,Sports,United States,Rural,Student,"$14,749.00",True,False,True
+29,non-binary,$5.00,Instagram,Lifestlye,United Kingdom,Urban,Student,"$16,571.00",True,False,False
+18,female,$8.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$19,373.00",True,True,True
+61,non-binary,$1.00,YouTube,Travel,United States,Urban,Student,"$15,072.00",False,True,False
+22,female,$3.00,Facebook,Travel,United Kingdom,Urban,Software Engineer,"$19,631.00",False,True,True
+47,female,$3.00,YouTube,Travel,United Kingdom,Urban,Marketer Manager,"$15,463.00",False,True,False
+47,female,$9.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,"$17,450.00",True,False,True
+34,female,$5.00,Instagram,Sports,United Kingdom,Rural,Student,"$18,420.00",True,False,True
+64,male,$9.00,Facebook,Travel,United States,Rural,Student,"$13,959.00",True,False,False
+40,male,$9.00,Instagram,Sports,United States,Rural,Marketer Manager,"$11,313.00",False,True,False
+32,non-binary,$1.00,Facebook,Travel,United Kingdom,Urban,Software Engineer,"$17,847.00",True,False,True
+54,male,$2.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,070.00",False,True,False
+38,male,$5.00,Instagram,Lifestlye,United States,Urban,Marketer Manager,"$19,166.00",True,False,True
+31,non-binary,$4.00,YouTube,Sports,United States,Rural,Student,"$19,930.00",True,True,False
+19,non-binary,$9.00,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,"$13,285.00",True,False,False
+28,non-binary,$7.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$18,949.00",False,False,True
+56,male,$6.00,Instagram,Sports,United Kingdom,Sub_Urban,Student,"$13,095.00",True,True,True
+55,male,$7.00,YouTube,Travel,Australia,Rural,Marketer Manager,"$10,320.00",False,False,False
+51,non-binary,$1.00,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,"$12,321.00",True,False,False
+55,female,$1.00,YouTube,Sports,United Kingdom,Sub_Urban,Student,"$10,555.00",True,True,False
+51,non-binary,$8.00,YouTube,Lifestlye,United States,Urban,Student,"$14,939.00",False,True,False
+35,female,$2.00,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,"$15,432.00",True,True,False
+47,female,$9.00,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,386.00",True,True,True
+32,non-binary,$7.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Student,"$14,763.00",True,True,False
+44,non-binary,$6.00,Facebook,Sports,Australia,Urban,Student,"$16,854.00",True,False,False
+51,non-binary,$1.00,Facebook,Sports,Australia,Urban,Software Engineer,"$17,637.00",False,True,True
+55,male,$1.00,Instagram,Sports,United States,Urban,Software Engineer,"$14,841.00",False,False,True
+50,female,$2.00,YouTube,Lifestlye,United Kingdom,Rural,Student,"$13,867.00",True,False,True
+41,male,$6.00,YouTube,Lifestlye,United Kingdom,Rural,Software Engineer,"$13,793.00",True,True,False
+32,male,$6.00,Instagram,Lifestlye,United States,Urban,Student,"$17,373.00",False,False,True
+47,non-binary,$2.00,Facebook,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$12,513.00",True,False,True
+59,male,$1.00,Facebook,Lifestlye,United States,Urban,Software Engineer,"$13,803.00",False,True,True
+34,non-binary,$5.00,Facebook,Travel,United Kingdom,Rural,Marketer Manager,"$12,327.00",True,False,True
+22,female,$5.00,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,"$18,809.00",False,True,False
+46,non-binary,$2.00,Facebook,Travel,United Kingdom,Rural,Marketer Manager,"$12,165.00",False,True,False
+21,male,$6.00,Instagram,Lifestlye,United States,Sub_Urban,Student,"$13,308.00",False,True,False
+27,male,$9.00,Instagram,Sports,United Kingdom,Rural,Marketer Manager,"$16,452.00",False,False,True
+34,non-binary,$2.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,067.00",True,False,True
+27,non-binary,$2.00,Facebook,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$17,642.00",True,False,True
+34,male,$3.00,Instagram,Travel,United States,Sub_Urban,Student,"$16,404.00",False,False,True
+37,female,$7.00,Facebook,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$10,992.00",False,True,True
+41,female,$6.00,Facebook,Travel,United Kingdom,Rural,Marketer Manager,"$15,424.00",False,False,True
+22,non-binary,$8.00,YouTube,Travel,Australia,Rural,Software Engineer,"$19,569.00",False,True,False
+51,female,$8.00,Facebook,Sports,United Kingdom,Sub_Urban,Student,"$14,381.00",True,False,False
+23,male,$6.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$13,174.00",False,False,True
+19,non-binary,$3.00,Instagram,Lifestlye,United States,Rural,Software Engineer,"$14,782.00",False,False,False
+30,male,$3.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,"$19,497.00",False,False,True
+60,male,$1.00,Instagram,Travel,United Kingdom,Sub_Urban,Student,"$15,560.00",False,False,True
+60,female,$7.00,Facebook,Lifestlye,United States,Sub_Urban,Student,"$17,460.00",False,True,False
+28,non-binary,$5.00,Instagram,Lifestlye,Australia,Urban,Student,"$13,078.00",False,False,True
+64,non-binary,$4.00,Facebook,Sports,United States,Sub_Urban,Student,"$12,983.00",False,False,False
+40,female,$4.00,Facebook,Sports,United States,Urban,Student,"$17,259.00",True,False,True
+33,male,$4.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$16,054.00",False,False,True
+48,male,$6.00,Facebook,Travel,United States,Rural,Marketer Manager,"$12,523.00",False,True,False
+28,male,$8.00,Facebook,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,677.00",False,False,True
+33,male,$8.00,Facebook,Sports,United Kingdom,Urban,Marketer Manager,"$14,581.00",True,True,True
+25,non-binary,$5.00,Facebook,Sports,United Kingdom,Sub_Urban,Software Engineer,"$15,609.00",True,False,True
+21,non-binary,$6.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$12,001.00",True,True,False
+57,female,$4.00,Facebook,Lifestlye,United Kingdom,Urban,Student,"$11,387.00",False,True,True
+21,female,$9.00,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,"$16,552.00",False,True,True
+42,non-binary,$8.00,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,"$11,030.00",False,True,True
+20,non-binary,$1.00,Facebook,Travel,United Kingdom,Sub_Urban,Student,"$19,957.00",True,True,False
+49,male,$2.00,YouTube,Travel,United Kingdom,Rural,Marketer Manager,"$11,220.00",False,False,False
+20,male,$9.00,Facebook,Sports,United Kingdom,Rural,Marketer Manager,"$16,035.00",True,True,False
+44,female,$8.00,Facebook,Lifestlye,United States,Sub_Urban,Marketer Manager,"$19,810.00",True,False,False
+46,non-binary,$3.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$19,455.00",True,True,False
+49,female,$8.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$16,523.00",True,True,True
+36,non-binary,$1.00,YouTube,Lifestlye,Australia,Urban,Student,"$18,074.00",True,False,False
+38,male,$4.00,Instagram,Lifestlye,United States,Sub_Urban,Student,"$19,063.00",False,True,False
+22,female,$3.00,Instagram,Travel,United States,Urban,Marketer Manager,"$10,834.00",False,True,True
+35,female,$6.00,YouTube,Travel,United States,Urban,Marketer Manager,"$19,110.00",True,True,False
+45,non-binary,$7.00,Instagram,Lifestlye,United States,Rural,Marketer Manager,"$11,724.00",False,True,True
+59,male,$4.00,Facebook,Sports,United Kingdom,Rural,Student,"$16,598.00",False,False,False
+39,female,$7.00,YouTube,Lifestlye,United Kingdom,Rural,Student,"$12,413.00",True,True,True
+38,male,$9.00,YouTube,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,505.00",True,True,True
+23,female,$2.00,Facebook,Sports,Australia,Rural,Software Engineer,"$15,993.00",False,False,False
+18,male,$3.00,Instagram,Lifestlye,United States,Urban,Software Engineer,"$14,498.00",False,False,False
+22,non-binary,$5.00,YouTube,Sports,Australia,Rural,Student,"$12,105.00",False,True,True
+58,female,$3.00,YouTube,Travel,Australia,Rural,Software Engineer,"$12,568.00",False,True,True
+29,female,$8.00,Facebook,Travel,United States,Sub_Urban,Marketer Manager,"$19,330.00",True,False,True
+43,male,$8.00,Facebook,Sports,United States,Sub_Urban,Marketer Manager,"$10,209.00",False,True,True
+63,male,$8.00,Instagram,Travel,Australia,Urban,Student,"$19,256.00",True,False,True
+51,female,$9.00,YouTube,Travel,United Kingdom,Sub_Urban,Software Engineer,"$14,911.00",True,True,True
+31,non-binary,$4.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$12,220.00",False,False,True
+43,male,$5.00,Instagram,Travel,Australia,Sub_Urban,Student,"$10,233.00",False,False,False
+62,male,$5.00,Facebook,Lifestlye,United Kingdom,Urban,Software Engineer,"$10,792.00",False,False,True
+44,male,$8.00,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,"$13,110.00",True,True,False
+26,female,$7.00,YouTube,Sports,United States,Urban,Software Engineer,"$12,166.00",True,True,False
+43,female,$9.00,YouTube,Travel,United States,Sub_Urban,Student,"$18,526.00",True,True,True
+64,female,$8.00,Facebook,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,551.00",True,True,True
+39,female,$2.00,Facebook,Lifestlye,United Kingdom,Urban,Student,"$15,193.00",False,False,False
+64,non-binary,$4.00,Facebook,Travel,United States,Rural,Software Engineer,"$11,214.00",True,False,True
+47,non-binary,$6.00,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,"$14,419.00",True,False,True
+60,female,$2.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,"$17,314.00",False,True,False
+34,non-binary,$7.00,YouTube,Lifestlye,Australia,Rural,Student,"$18,475.00",True,True,False
+43,male,$3.00,Instagram,Sports,United States,Sub_Urban,Student,"$10,212.00",True,True,False
+53,male,$3.00,YouTube,Sports,United States,Urban,Software Engineer,"$11,658.00",False,False,True
+18,male,$2.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$15,024.00",True,True,True
+25,female,$8.00,Facebook,Sports,Australia,Sub_Urban,Marketer Manager,"$19,609.00",True,True,False
+52,male,$6.00,Instagram,Lifestlye,United Kingdom,Rural,Student,"$15,917.00",True,False,True
+32,non-binary,$1.00,YouTube,Lifestlye,United States,Urban,Student,"$15,141.00",True,False,False
+64,female,$1.00,YouTube,Sports,United States,Rural,Software Engineer,"$11,794.00",False,True,True
+39,non-binary,$7.00,Instagram,Sports,Australia,Sub_Urban,Software Engineer,"$15,988.00",True,False,False
+31,male,$8.00,Facebook,Travel,Australia,Sub_Urban,Marketer Manager,"$18,296.00",False,True,True
+43,male,$5.00,Facebook,Travel,Australia,Rural,Marketer Manager,"$15,578.00",True,False,False
+45,male,$5.00,YouTube,Travel,United Kingdom,Rural,Software Engineer,"$15,551.00",False,False,True
+40,female,$4.00,Instagram,Lifestlye,Australia,Rural,Student,"$13,845.00",False,False,True
+31,non-binary,$6.00,Facebook,Sports,Australia,Urban,Marketer Manager,"$16,906.00",False,True,False
+41,female,$6.00,Facebook,Lifestlye,United States,Sub_Urban,Software Engineer,"$10,378.00",True,True,True
+19,female,$3.00,YouTube,Sports,United States,Rural,Software Engineer,"$13,293.00",True,True,True
+62,male,$9.00,Facebook,Lifestlye,Australia,Sub_Urban,Student,"$13,329.00",True,False,False
+43,female,$7.00,Instagram,Travel,Australia,Urban,Software Engineer,"$14,808.00",False,False,True
+31,female,$1.00,YouTube,Travel,United States,Urban,Software Engineer,"$17,937.00",True,False,True
+24,male,$7.00,YouTube,Travel,Australia,Urban,Marketer Manager,"$10,224.00",True,False,True
+20,female,$5.00,Instagram,Lifestlye,United Kingdom,Urban,Software Engineer,"$10,737.00",True,True,False
+64,male,$5.00,YouTube,Sports,United Kingdom,Sub_Urban,Software Engineer,"$10,235.00",True,True,False
+40,male,$2.00,Facebook,Sports,United Kingdom,Urban,Marketer Manager,"$10,711.00",False,True,False
+63,male,$4.00,Facebook,Travel,Australia,Urban,Student,"$15,988.00",False,False,False
+60,male,$6.00,Instagram,Travel,United States,Rural,Student,"$11,888.00",True,False,False
+64,female,$7.00,Facebook,Travel,Australia,Urban,Marketer Manager,"$17,173.00",True,True,True
+62,male,$5.00,Instagram,Travel,Australia,Rural,Marketer Manager,"$11,259.00",True,False,True
+35,male,$9.00,Instagram,Sports,United States,Urban,Student,"$15,246.00",False,True,False
+55,female,$3.00,Facebook,Lifestlye,United States,Urban,Student,"$17,271.00",True,False,True
+52,female,$1.00,Instagram,Lifestlye,United States,Rural,Student,"$10,748.00",False,False,True
+32,non-binary,$4.00,Facebook,Lifestlye,United Kingdom,Urban,Student,"$13,551.00",False,True,True
+42,female,$9.00,YouTube,Lifestlye,Australia,Sub_Urban,Student,"$16,400.00",True,True,True
+54,female,$4.00,YouTube,Travel,United States,Sub_Urban,Marketer Manager,"$16,643.00",True,False,False
+45,non-binary,$2.00,Instagram,Travel,Australia,Urban,Software Engineer,"$18,701.00",True,True,False
+27,female,$5.00,Facebook,Travel,United Kingdom,Sub_Urban,Student,"$11,823.00",False,True,True
+56,female,$3.00,Facebook,Lifestlye,United Kingdom,Rural,Student,"$16,852.00",False,False,True
+34,female,$9.00,YouTube,Travel,United States,Urban,Software Engineer,"$17,777.00",True,False,False
+56,female,$4.00,YouTube,Travel,United States,Urban,Software Engineer,"$14,232.00",False,False,True
+39,non-binary,$6.00,Facebook,Sports,Australia,Rural,Software Engineer,"$16,519.00",True,True,True
+43,female,$2.00,Instagram,Sports,United States,Rural,Software Engineer,"$11,777.00",True,False,True
+61,female,$6.00,YouTube,Travel,Australia,Rural,Software Engineer,"$11,222.00",False,False,False
+42,non-binary,$3.00,Instagram,Sports,United States,Urban,Software Engineer,"$17,630.00",False,False,False
+34,male,$9.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$11,777.00",False,False,True
+30,non-binary,$2.00,YouTube,Travel,Australia,Rural,Software Engineer,"$19,496.00",False,False,True
+37,male,$9.00,Instagram,Travel,Australia,Sub_Urban,Software Engineer,"$17,490.00",True,True,True
+42,non-binary,$5.00,Instagram,Travel,Australia,Sub_Urban,Marketer Manager,"$14,859.00",True,False,True
+21,non-binary,$8.00,Facebook,Travel,United Kingdom,Urban,Software Engineer,"$18,893.00",True,False,True
+27,female,$2.00,Instagram,Lifestlye,Australia,Sub_Urban,Student,"$18,118.00",False,True,True
+20,male,$6.00,Facebook,Lifestlye,United States,Sub_Urban,Student,"$12,989.00",True,False,False
+58,female,$3.00,YouTube,Travel,United Kingdom,Rural,Software Engineer,"$18,343.00",False,False,False
+62,male,$5.00,YouTube,Sports,United Kingdom,Rural,Marketer Manager,"$11,325.00",False,True,True
+35,non-binary,$8.00,Facebook,Travel,Australia,Sub_Urban,Student,"$19,493.00",False,False,False
+64,non-binary,$1.00,YouTube,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$19,903.00",True,True,True
+53,male,$5.00,Instagram,Sports,Australia,Sub_Urban,Student,"$15,127.00",False,False,True
+64,female,$3.00,Instagram,Lifestlye,United States,Urban,Software Engineer,"$18,998.00",False,True,False
+39,female,$4.00,Instagram,Travel,Australia,Urban,Marketer Manager,"$12,722.00",False,True,False
+51,female,$2.00,YouTube,Travel,United Kingdom,Urban,Marketer Manager,"$14,656.00",False,False,True
+64,female,$9.00,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,325.00",False,True,True
+25,non-binary,$3.00,YouTube,Lifestlye,Australia,Sub_Urban,Student,"$14,133.00",False,True,False
+57,non-binary,$2.00,Instagram,Sports,United States,Urban,Student,"$19,351.00",False,False,False
+61,non-binary,$9.00,Facebook,Lifestlye,United States,Urban,Student,"$12,869.00",False,False,True
+36,non-binary,$7.00,YouTube,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$11,242.00",False,True,True
+59,non-binary,$6.00,YouTube,Lifestlye,United States,Rural,Student,"$18,539.00",False,False,True
+58,female,$1.00,Instagram,Sports,United Kingdom,Urban,Software Engineer,"$11,831.00",False,True,False
+54,female,$5.00,YouTube,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,569.00",False,True,True
+23,female,$3.00,YouTube,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$17,246.00",True,False,False
+43,female,$1.00,Facebook,Sports,United States,Rural,Software Engineer,"$11,918.00",True,False,True
+51,non-binary,$4.00,Facebook,Lifestlye,Australia,Sub_Urban,Student,"$16,416.00",False,True,False
+62,non-binary,$2.00,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,"$13,232.00",False,False,False
+23,non-binary,$2.00,Facebook,Sports,United States,Urban,Marketer Manager,"$13,758.00",False,False,False
+54,male,$3.00,Instagram,Travel,Australia,Urban,Marketer Manager,"$15,997.00",True,True,False
+50,female,$8.00,Instagram,Sports,United States,Rural,Software Engineer,"$12,355.00",True,True,True
+39,female,$8.00,Instagram,Lifestlye,United States,Rural,Student,"$19,589.00",True,True,False
+38,non-binary,$7.00,YouTube,Lifestlye,Australia,Sub_Urban,Student,"$11,824.00",False,True,False
+23,female,$6.00,Facebook,Lifestlye,Australia,Urban,Software Engineer,"$17,280.00",False,True,False
+23,female,$9.00,Instagram,Sports,United Kingdom,Rural,Software Engineer,"$14,060.00",False,True,True
+21,non-binary,$4.00,Facebook,Lifestlye,Australia,Rural,Student,"$15,324.00",False,False,True
+47,male,$1.00,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,"$10,404.00",True,True,True
+28,male,$8.00,Facebook,Sports,Australia,Sub_Urban,Software Engineer,"$11,721.00",False,False,True
+47,male,$7.00,Facebook,Travel,United States,Urban,Student,"$15,316.00",True,False,True
+48,non-binary,$7.00,Instagram,Travel,Australia,Rural,Student,"$13,845.00",True,True,True
+41,female,$3.00,YouTube,Lifestlye,United States,Urban,Marketer Manager,"$14,210.00",False,False,False
+26,non-binary,$4.00,Facebook,Sports,United States,Rural,Marketer Manager,"$10,064.00",True,True,False
+20,non-binary,$9.00,YouTube,Lifestlye,United States,Rural,Marketer Manager,"$19,491.00",True,False,False
+48,female,$6.00,YouTube,Sports,United Kingdom,Urban,Marketer Manager,"$16,382.00",True,True,True
+57,male,$5.00,Instagram,Sports,Australia,Urban,Marketer Manager,"$19,607.00",True,True,False
+54,male,$3.00,Instagram,Travel,United States,Urban,Software Engineer,"$10,968.00",False,True,False
+53,non-binary,$9.00,Instagram,Travel,United States,Sub_Urban,Student,"$10,368.00",False,True,True
+41,male,$5.00,Facebook,Sports,United Kingdom,Rural,Software Engineer,"$18,424.00",True,False,False
+48,non-binary,$5.00,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,"$12,242.00",False,False,True
+23,non-binary,$4.00,Instagram,Travel,Australia,Urban,Software Engineer,"$15,002.00",True,False,False
+19,female,$4.00,Facebook,Lifestlye,United Kingdom,Rural,Software Engineer,"$13,083.00",False,False,True
+37,female,$1.00,Facebook,Travel,United Kingdom,Sub_Urban,Software Engineer,"$18,073.00",False,False,True
+45,female,$7.00,Instagram,Travel,Australia,Rural,Marketer Manager,"$19,112.00",False,True,True
+28,non-binary,$9.00,Instagram,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$18,880.00",False,True,False
+21,female,$3.00,Instagram,Travel,Australia,Urban,Student,"$11,469.00",False,True,False
+32,male,$2.00,Instagram,Travel,Australia,Sub_Urban,Software Engineer,"$14,725.00",True,True,True
+23,male,$3.00,YouTube,Lifestlye,United States,Rural,Student,"$14,259.00",False,True,True
+47,non-binary,$1.00,YouTube,Travel,United States,Rural,Marketer Manager,"$13,622.00",True,False,False
+55,non-binary,$6.00,Instagram,Travel,Australia,Rural,Marketer Manager,"$10,823.00",True,True,False
+19,female,$7.00,YouTube,Travel,Australia,Rural,Marketer Manager,"$13,431.00",False,True,True
+32,non-binary,$2.00,Facebook,Lifestlye,Australia,Urban,Software Engineer,"$16,528.00",True,False,False
+28,non-binary,$8.00,YouTube,Sports,Australia,Sub_Urban,Software Engineer,"$14,151.00",False,False,False
+25,male,$6.00,YouTube,Lifestlye,Australia,Urban,Marketer Manager,"$14,213.00",True,True,False
+43,male,$4.00,Instagram,Sports,Australia,Urban,Student,"$17,420.00",True,True,True
+62,female,$5.00,YouTube,Travel,United Kingdom,Urban,Student,"$18,989.00",False,False,True
+61,non-binary,$8.00,YouTube,Sports,Australia,Rural,Marketer Manager,"$10,779.00",False,True,False
+22,non-binary,$3.00,YouTube,Lifestlye,United Kingdom,Rural,Student,"$12,892.00",False,True,True
+23,male,$3.00,YouTube,Lifestlye,United Kingdom,Rural,Marketer Manager,"$15,534.00",False,True,False
+43,non-binary,$4.00,Facebook,Travel,Australia,Sub_Urban,Student,"$13,306.00",True,False,False
+21,male,$1.00,Instagram,Sports,Australia,Rural,Marketer Manager,"$12,902.00",False,True,True
+36,female,$9.00,Instagram,Travel,United Kingdom,Sub_Urban,Student,"$13,718.00",True,True,True
+37,male,$8.00,Facebook,Travel,United Kingdom,Rural,Software Engineer,"$10,021.00",True,False,True
+50,non-binary,$8.00,YouTube,Lifestlye,Australia,Rural,Marketer Manager,"$11,500.00",True,False,False
+37,female,$6.00,Facebook,Sports,Australia,Urban,Marketer Manager,"$19,034.00",True,False,False
+29,male,$7.00,YouTube,Sports,United Kingdom,Urban,Student,"$19,952.00",True,True,True
+64,male,$6.00,Facebook,Sports,United Kingdom,Urban,Marketer Manager,"$13,641.00",True,False,True
+18,female,$9.00,Instagram,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$15,212.00",False,True,True
+43,female,$3.00,Instagram,Travel,United States,Sub_Urban,Marketer Manager,"$10,191.00",True,False,False
+31,male,$3.00,Instagram,Travel,United Kingdom,Rural,Software Engineer,"$18,587.00",True,True,False
+55,non-binary,$3.00,YouTube,Lifestlye,United States,Sub_Urban,Software Engineer,"$17,174.00",True,False,False
+54,male,$3.00,YouTube,Travel,Australia,Rural,Student,"$15,114.00",False,True,True
+28,female,$9.00,Facebook,Travel,Australia,Sub_Urban,Software Engineer,"$14,662.00",False,True,True
+53,male,$4.00,Facebook,Lifestlye,United Kingdom,Sub_Urban,Student,"$14,326.00",True,False,False
+30,female,$7.00,Instagram,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,065.00",False,False,True
+60,female,$9.00,YouTube,Lifestlye,Australia,Urban,Student,"$14,335.00",True,True,True
+20,non-binary,$7.00,Facebook,Travel,Australia,Sub_Urban,Software Engineer,"$18,281.00",False,False,True
+50,female,$9.00,YouTube,Travel,Australia,Urban,Software Engineer,"$18,648.00",True,True,True
+23,female,$3.00,YouTube,Lifestlye,United States,Urban,Student,"$19,196.00",False,False,False
+27,non-binary,$4.00,Instagram,Lifestlye,United States,Sub_Urban,Marketer Manager,"$15,494.00",False,False,True
+22,female,$8.00,Instagram,Lifestlye,United Kingdom,Rural,Marketer Manager,"$18,536.00",False,True,False
+40,non-binary,$6.00,YouTube,Travel,United Kingdom,Rural,Software Engineer,"$12,711.00",True,False,False
+27,non-binary,$5.00,YouTube,Travel,United Kingdom,Rural,Student,"$17,595.00",True,False,True
+61,female,$4.00,YouTube,Sports,Australia,Sub_Urban,Marketer Manager,"$16,273.00",True,True,False
+19,female,$8.00,YouTube,Travel,Australia,Rural,Student,"$16,284.00",False,True,False

@@ -1,0 +1,1001 @@
+age,gender,time_spent,PLATFORM,interests,location,demographics,profession,income,indebt,isHomeOwner,Owns_Car,demographics-PLATFORM
+56,male,72:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Software Engineer,"$19,774",True,False,False,Urban-INSTAGRAM
+46,female,48:00:00,FACEBOOK,Travel,United Kingdom,Urban,Student,"$10,564",True,True,True,Urban-FACEBOOK
+32,male,192:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Marketer Manager,"$13,258",False,False,False,Sub_Urban-INSTAGRAM
+60,non-binary,120:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Student,"$12,500",False,True,False,Urban-INSTAGRAM
+25,male,24:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Software Engineer,"$14,566",False,True,True,Urban-INSTAGRAM
+38,male,72:00:00,FACEBOOK,Travel,United States,Urban,Marketer Manager,"$19,179",True,True,True,Urban-FACEBOOK
+56,male,192:00:00,YOUTUBE,Sports,United States,Urban,Student,"$16,881",True,True,True,Urban-YOUTUBE
+36,male,96:00:00,INSTAGRAM,Sports,Australia,Urban,Marketer Manager,"$13,636",True,False,True,Urban-INSTAGRAM
+40,non-binary,168:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$16,030",False,False,True,Sub_Urban-YOUTUBE
+28,non-binary,48:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Marketer Manager,"$10,223",True,False,True,Sub_Urban-INSTAGRAM
+28,female,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Student,"$16,297",True,True,False,Urban-YOUTUBE
+41,non-binary,120:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$10,350",False,False,False,Sub_Urban-FACEBOOK
+53,non-binary,120:00:00,FACEBOOK,Sports,Australia,Rural,Student,"$17,314",False,True,True,Rural-FACEBOOK
+57,female,144:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Software Engineer,"$11,928",False,True,False,Urban-INSTAGRAM
+41,non-binary,216:00:00,YOUTUBE,Travel,United States,Rural,Student,"$17,743",True,True,False,Rural-YOUTUBE
+20,male,144:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Software Engineer,"$18,540",True,True,False,Sub_Urban-FACEBOOK
+39,male,192:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Student,"$14,732",True,True,False,Sub_Urban-INSTAGRAM
+19,female,168:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$11,017",False,True,True,Rural-INSTAGRAM
+41,female,216:00:00,FACEBOOK,Sports,United States,Sub_Urban,Student,"$12,226",False,False,False,Sub_Urban-FACEBOOK
+61,female,96:00:00,FACEBOOK,Sports,United States,Urban,Marketer Manager,"$17,206",False,False,False,Urban-FACEBOOK
+47,male,48:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$17,170",False,False,True,Rural-INSTAGRAM
+55,non-binary,168:00:00,YOUTUBE,Travel,Australia,Urban,Student,"$16,207",True,False,True,Urban-YOUTUBE
+19,male,144:00:00,YOUTUBE,Travel,United States,Rural,Marketer Manager,"$12,419",True,True,True,Rural-YOUTUBE
+38,female,24:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Software Engineer,"$16,240",True,True,True,Sub_Urban-YOUTUBE
+50,non-binary,216:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$11,893",True,False,False,Rural-INSTAGRAM
+29,non-binary,216:00:00,FACEBOOK,Travel,Australia,Rural,Student,"$15,322",True,False,True,Rural-FACEBOOK
+39,male,48:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Software Engineer,"$17,718",True,False,False,Urban-INSTAGRAM
+61,female,72:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$16,878",True,False,False,Sub_Urban-FACEBOOK
+42,male,120:00:00,YOUTUBE,Travel,Australia,Urban,Software Engineer,"$11,125",True,False,True,Urban-YOUTUBE
+44,non-binary,120:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Software Engineer,"$13,117",False,False,True,Sub_Urban-YOUTUBE
+59,male,24:00:00,FACEBOOK,Sports,United States,Urban,Marketer Manager,"$14,161",False,False,True,Urban-FACEBOOK
+45,male,192:00:00,FACEBOOK,Lifestlye,United States,Rural,Software Engineer,"$14,042",True,False,True,Rural-FACEBOOK
+33,female,192:00:00,INSTAGRAM,Lifestlye,United States,Urban,Software Engineer,"$14,433",False,True,True,Urban-INSTAGRAM
+32,female,96:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Software Engineer,"$18,638",True,True,True,Sub_Urban-YOUTUBE
+64,non-binary,168:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Software Engineer,"$12,658",True,True,False,Sub_Urban-INSTAGRAM
+61,male,72:00:00,INSTAGRAM,Travel,United States,Rural,Marketer Manager,"$13,483",False,True,False,Rural-INSTAGRAM
+20,male,144:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$12,944",True,False,False,Sub_Urban-INSTAGRAM
+54,male,216:00:00,YOUTUBE,Lifestlye,United States,Urban,Marketer Manager,"$17,210",True,True,False,Urban-YOUTUBE
+24,non-binary,24:00:00,INSTAGRAM,Lifestlye,United States,Rural,Software Engineer,"$17,653",True,False,True,Rural-INSTAGRAM
+38,non-binary,120:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$18,787",True,True,True,Sub_Urban-INSTAGRAM
+26,female,96:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Software Engineer,"$11,986",True,False,False,Sub_Urban-INSTAGRAM
+56,female,192:00:00,INSTAGRAM,Sports,Australia,Urban,Software Engineer,"$11,074",True,False,False,Urban-INSTAGRAM
+35,female,24:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Marketer Manager,"$14,305",True,True,False,Urban-INSTAGRAM
+21,male,216:00:00,INSTAGRAM,Travel,United States,Rural,Marketer Manager,"$13,007",False,True,True,Rural-INSTAGRAM
+42,male,144:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Marketer Manager,"$10,969",False,False,True,Sub_Urban-YOUTUBE
+31,female,96:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Student,"$18,772",True,False,True,Urban-INSTAGRAM
+26,male,216:00:00,FACEBOOK,Travel,Australia,Rural,Software Engineer,"$12,824",False,False,False,Rural-FACEBOOK
+43,female,120:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$11,211",True,True,False,Sub_Urban-INSTAGRAM
+19,non-binary,120:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Marketer Manager,"$10,229",True,True,True,Sub_Urban-INSTAGRAM
+37,female,120:00:00,YOUTUBE,Lifestlye,United States,Rural,Student,"$14,284",True,False,True,Rural-YOUTUBE
+45,non-binary,24:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Software Engineer,"$13,185",True,True,False,Rural-YOUTUBE
+64,male,24:00:00,FACEBOOK,Travel,United States,Urban,Marketer Manager,"$10,501",False,False,False,Urban-FACEBOOK
+24,female,192:00:00,FACEBOOK,Sports,United States,Sub_Urban,Software Engineer,"$10,048",False,True,True,Sub_Urban-FACEBOOK
+61,male,192:00:00,YOUTUBE,Travel,United States,Sub_Urban,Software Engineer,"$13,566",False,True,False,Sub_Urban-YOUTUBE
+25,non-binary,144:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Marketer Manager,"$13,055",False,True,True,Sub_Urban-YOUTUBE
+64,non-binary,96:00:00,INSTAGRAM,Lifestlye,United States,Rural,Marketer Manager,"$18,880",True,True,True,Rural-INSTAGRAM
+52,non-binary,48:00:00,YOUTUBE,Travel,United Kingdom,Urban,Software Engineer,"$10,386",False,True,False,Urban-YOUTUBE
+31,male,48:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Software Engineer,"$10,969",True,False,False,Sub_Urban-FACEBOOK
+34,male,216:00:00,INSTAGRAM,Travel,United States,Rural,Marketer Manager,"$19,197",True,False,False,Rural-INSTAGRAM
+53,male,120:00:00,FACEBOOK,Sports,United States,Sub_Urban,Software Engineer,"$15,820",False,True,True,Sub_Urban-FACEBOOK
+57,male,96:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Software Engineer,"$13,052",True,False,False,Urban-INSTAGRAM
+21,non-binary,24:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$17,397",False,False,False,Sub_Urban-YOUTUBE
+19,non-binary,168:00:00,FACEBOOK,Sports,Australia,Urban,Software Engineer,"$12,302",False,True,True,Urban-FACEBOOK
+23,female,72:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Software Engineer,"$12,283",False,False,True,Urban-INSTAGRAM
+59,female,144:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Student,"$19,799",False,True,False,Sub_Urban-INSTAGRAM
+21,male,120:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Marketer Manager,"$14,366",False,False,True,Sub_Urban-YOUTUBE
+46,non-binary,120:00:00,YOUTUBE,Travel,United States,Urban,Student,"$10,122",True,False,True,Urban-YOUTUBE
+35,non-binary,120:00:00,YOUTUBE,Travel,Australia,Rural,Student,"$16,799",False,False,True,Rural-YOUTUBE
+43,non-binary,24:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Student,"$19,472",False,False,False,Urban-FACEBOOK
+61,female,24:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Software Engineer,"$13,727",True,False,False,Sub_Urban-INSTAGRAM
+51,female,72:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$18,450",False,False,True,Sub_Urban-YOUTUBE
+27,non-binary,96:00:00,FACEBOOK,Travel,United States,Rural,Student,"$19,139",False,False,True,Rural-FACEBOOK
+53,non-binary,120:00:00,FACEBOOK,Sports,United Kingdom,Urban,Student,"$14,958",True,True,True,Urban-FACEBOOK
+31,non-binary,48:00:00,FACEBOOK,Sports,Australia,Urban,Student,"$10,524",True,True,False,Urban-FACEBOOK
+48,female,192:00:00,YOUTUBE,Lifestlye,Australia,Urban,Software Engineer,"$19,079",False,True,True,Urban-YOUTUBE
+32,non-binary,48:00:00,YOUTUBE,Travel,United States,Sub_Urban,Student,"$18,399",True,True,True,Sub_Urban-YOUTUBE
+25,non-binary,216:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Student,"$10,148",False,False,False,Urban-INSTAGRAM
+31,male,48:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$18,001",True,False,True,Rural-INSTAGRAM
+40,male,216:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$10,437",False,False,False,Sub_Urban-YOUTUBE
+57,female,168:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Software Engineer,"$13,749",False,True,False,Sub_Urban-FACEBOOK
+38,non-binary,192:00:00,FACEBOOK,Sports,United Kingdom,Urban,Marketer Manager,"$18,186",False,True,False,Urban-FACEBOOK
+33,non-binary,48:00:00,FACEBOOK,Lifestlye,Australia,Rural,Marketer Manager,"$14,453",True,True,True,Rural-FACEBOOK
+62,male,168:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$15,336",False,False,True,Sub_Urban-INSTAGRAM
+35,female,144:00:00,FACEBOOK,Sports,United States,Sub_Urban,Software Engineer,"$14,551",True,True,False,Sub_Urban-FACEBOOK
+64,male,96:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Marketer Manager,"$12,823",False,False,True,Urban-INSTAGRAM
+41,male,168:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Software Engineer,"$15,728",False,True,False,Urban-INSTAGRAM
+43,male,96:00:00,FACEBOOK,Sports,Australia,Rural,Student,"$18,677",False,False,True,Rural-FACEBOOK
+42,male,48:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Marketer Manager,"$18,391",False,True,False,Urban-FACEBOOK
+62,non-binary,168:00:00,YOUTUBE,Sports,Australia,Rural,Software Engineer,"$11,982",False,False,False,Rural-YOUTUBE
+58,non-binary,192:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$16,996",True,True,True,Sub_Urban-YOUTUBE
+46,male,48:00:00,FACEBOOK,Sports,United States,Rural,Student,"$19,663",True,True,True,Rural-FACEBOOK
+32,female,120:00:00,INSTAGRAM,Sports,Australia,Rural,Software Engineer,"$12,311",True,False,True,Rural-INSTAGRAM
+62,female,24:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Software Engineer,"$17,225",False,False,True,Rural-INSTAGRAM
+18,female,168:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Software Engineer,"$19,713",False,True,False,Sub_Urban-INSTAGRAM
+42,female,192:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Student,"$10,604",True,False,False,Urban-INSTAGRAM
+24,male,144:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Student,"$18,175",False,True,True,Sub_Urban-INSTAGRAM
+26,non-binary,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Student,"$15,785",False,False,True,Urban-YOUTUBE
+41,female,144:00:00,FACEBOOK,Travel,United States,Rural,Software Engineer,"$19,609",False,True,False,Rural-FACEBOOK
+18,male,48:00:00,YOUTUBE,Sports,Australia,Rural,Student,"$14,597",True,False,True,Rural-YOUTUBE
+61,female,24:00:00,INSTAGRAM,Lifestlye,United States,Rural,Marketer Manager,"$17,759",True,True,True,Rural-INSTAGRAM
+25,female,168:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Student,"$17,532",True,True,True,Rural-INSTAGRAM
+41,male,168:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Software Engineer,"$18,740",True,True,True,Rural-INSTAGRAM
+28,non-binary,48:00:00,INSTAGRAM,Lifestlye,United States,Urban,Marketer Manager,"$10,838",True,False,False,Urban-INSTAGRAM
+34,non-binary,48:00:00,FACEBOOK,Sports,United Kingdom,Urban,Student,"$13,815",False,True,False,Urban-FACEBOOK
+25,male,24:00:00,INSTAGRAM,Travel,Australia,Rural,Marketer Manager,"$10,847",False,False,True,Rural-INSTAGRAM
+52,non-binary,192:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$14,709",False,False,False,Sub_Urban-FACEBOOK
+52,male,192:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Software Engineer,"$14,507",False,False,True,Sub_Urban-INSTAGRAM
+50,male,24:00:00,FACEBOOK,Travel,United States,Rural,Marketer Manager,"$16,575",True,True,True,Rural-FACEBOOK
+22,male,192:00:00,YOUTUBE,Lifestlye,United States,Urban,Marketer Manager,"$14,773",True,False,True,Urban-YOUTUBE
+59,non-binary,216:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$14,468",False,False,False,Sub_Urban-INSTAGRAM
+56,male,96:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Software Engineer,"$15,192",True,False,False,Sub_Urban-FACEBOOK
+58,female,24:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Software Engineer,"$13,320",False,True,False,Sub_Urban-YOUTUBE
+45,non-binary,24:00:00,INSTAGRAM,Sports,United States,Rural,Marketer Manager,"$14,698",False,False,False,Rural-INSTAGRAM
+24,non-binary,72:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Marketer Manager,"$14,311",False,False,False,Sub_Urban-INSTAGRAM
+26,non-binary,120:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Marketer Manager,"$13,673",False,False,True,Sub_Urban-INSTAGRAM
+25,non-binary,120:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Software Engineer,"$11,564",True,False,True,Sub_Urban-FACEBOOK
+29,female,216:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Student,"$11,840",False,True,False,Sub_Urban-FACEBOOK
+51,non-binary,48:00:00,YOUTUBE,Sports,United States,Urban,Marketer Manager,"$16,058",True,True,False,Urban-YOUTUBE
+50,non-binary,48:00:00,FACEBOOK,Lifestlye,Australia,Rural,Student,"$17,131",False,False,False,Rural-FACEBOOK
+40,male,144:00:00,FACEBOOK,Sports,United States,Rural,Software Engineer,"$10,726",False,False,True,Rural-FACEBOOK
+41,non-binary,216:00:00,INSTAGRAM,Lifestlye,United States,Urban,Marketer Manager,"$19,436",False,False,False,Urban-INSTAGRAM
+54,female,24:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Student,"$16,697",False,False,True,Urban-INSTAGRAM
+52,female,216:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Marketer Manager,"$19,257",True,True,True,Rural-INSTAGRAM
+61,female,216:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Marketer Manager,"$10,282",False,True,False,Sub_Urban-INSTAGRAM
+57,female,216:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Marketer Manager,"$11,081",True,True,True,Sub_Urban-INSTAGRAM
+39,non-binary,120:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Student,"$13,885",False,True,True,Rural-INSTAGRAM
+44,non-binary,216:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Software Engineer,"$12,881",False,False,False,Sub_Urban-INSTAGRAM
+52,female,96:00:00,YOUTUBE,Lifestlye,Australia,Urban,Marketer Manager,"$12,970",False,False,True,Urban-YOUTUBE
+18,female,48:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Software Engineer,"$19,344",True,True,False,Sub_Urban-YOUTUBE
+52,non-binary,144:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Software Engineer,"$16,985",False,True,True,Sub_Urban-YOUTUBE
+54,female,96:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Student,"$10,947",False,False,False,Sub_Urban-YOUTUBE
+64,male,144:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$14,760",False,False,False,Rural-INSTAGRAM
+31,female,72:00:00,YOUTUBE,Lifestlye,Australia,Urban,Software Engineer,"$19,909",False,False,True,Urban-YOUTUBE
+20,female,144:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Marketer Manager,"$10,066",False,False,False,Sub_Urban-INSTAGRAM
+18,male,48:00:00,YOUTUBE,Travel,United States,Rural,Student,"$18,828",True,False,True,Rural-YOUTUBE
+22,male,48:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$18,505",True,True,True,Sub_Urban-FACEBOOK
+43,non-binary,216:00:00,YOUTUBE,Travel,United States,Urban,Marketer Manager,"$10,564",False,True,False,Urban-YOUTUBE
+31,non-binary,168:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Marketer Manager,"$19,793",False,False,True,Sub_Urban-YOUTUBE
+56,male,72:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Software Engineer,"$19,017",True,False,False,Urban-INSTAGRAM
+44,male,24:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$13,670",False,True,True,Sub_Urban-YOUTUBE
+26,non-binary,192:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Software Engineer,"$19,217",True,False,True,Urban-FACEBOOK
+32,female,144:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$12,251",False,True,False,Sub_Urban-INSTAGRAM
+32,male,168:00:00,INSTAGRAM,Lifestlye,United States,Urban,Marketer Manager,"$10,804",False,True,True,Urban-INSTAGRAM
+43,non-binary,216:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$14,631",True,True,True,Sub_Urban-YOUTUBE
+59,female,120:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Marketer Manager,"$19,583",False,True,True,Sub_Urban-INSTAGRAM
+30,male,24:00:00,INSTAGRAM,Sports,United States,Rural,Marketer Manager,"$11,235",True,False,True,Rural-INSTAGRAM
+49,female,168:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$16,720",True,False,True,Rural-INSTAGRAM
+56,non-binary,120:00:00,INSTAGRAM,Lifestlye,United States,Urban,Marketer Manager,"$16,906",True,True,True,Urban-INSTAGRAM
+49,male,72:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$16,016",False,False,True,Sub_Urban-INSTAGRAM
+21,female,216:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Software Engineer,"$13,549",True,False,True,Urban-INSTAGRAM
+47,male,24:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$17,938",True,False,False,Rural-FACEBOOK
+54,female,24:00:00,YOUTUBE,Lifestlye,United States,Urban,Student,"$14,141",False,False,True,Urban-YOUTUBE
+40,non-binary,24:00:00,FACEBOOK,Travel,Australia,Urban,Software Engineer,"$16,966",False,True,True,Urban-FACEBOOK
+56,non-binary,72:00:00,INSTAGRAM,Sports,United States,Rural,Student,"$19,546",False,False,False,Rural-INSTAGRAM
+62,male,144:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Software Engineer,"$15,335",False,True,False,Sub_Urban-INSTAGRAM
+32,female,72:00:00,YOUTUBE,Lifestlye,United States,Urban,Marketer Manager,"$15,077",False,True,False,Urban-YOUTUBE
+60,male,192:00:00,FACEBOOK,Lifestlye,Australia,Rural,Marketer Manager,"$15,611",False,False,True,Rural-FACEBOOK
+46,male,48:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Student,"$18,089",True,True,False,Sub_Urban-YOUTUBE
+53,female,216:00:00,FACEBOOK,Lifestlye,Australia,Rural,Marketer Manager,"$12,892",False,False,False,Rural-FACEBOOK
+30,female,72:00:00,INSTAGRAM,Travel,Australia,Urban,Student,"$15,577",True,False,True,Urban-INSTAGRAM
+49,female,120:00:00,YOUTUBE,Sports,United States,Sub_Urban,Student,"$13,618",False,True,True,Sub_Urban-YOUTUBE
+24,non-binary,192:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,559",True,False,False,Sub_Urban-YOUTUBE
+39,male,48:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Marketer Manager,"$16,683",True,True,False,Rural-INSTAGRAM
+45,male,144:00:00,YOUTUBE,Travel,United States,Rural,Student,"$11,507",False,True,True,Rural-YOUTUBE
+19,non-binary,120:00:00,FACEBOOK,Travel,Australia,Rural,Marketer Manager,"$12,063",False,False,True,Rural-FACEBOOK
+59,female,216:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$13,642",True,False,True,Sub_Urban-FACEBOOK
+62,non-binary,120:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$12,000",False,False,True,Sub_Urban-FACEBOOK
+23,non-binary,48:00:00,FACEBOOK,Sports,United States,Urban,Marketer Manager,"$11,294",False,True,True,Urban-FACEBOOK
+45,non-binary,120:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Software Engineer,"$14,065",True,False,False,Sub_Urban-INSTAGRAM
+45,male,96:00:00,YOUTUBE,Travel,United Kingdom,Urban,Marketer Manager,"$18,014",True,True,True,Urban-YOUTUBE
+61,non-binary,168:00:00,FACEBOOK,Lifestlye,Australia,Rural,Marketer Manager,"$19,945",True,True,True,Rural-FACEBOOK
+61,male,144:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$11,603",False,False,True,Rural-INSTAGRAM
+37,male,48:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Marketer Manager,"$11,322",False,False,True,Sub_Urban-YOUTUBE
+47,male,120:00:00,YOUTUBE,Lifestlye,Australia,Rural,Marketer Manager,"$15,956",False,False,True,Rural-YOUTUBE
+28,female,168:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Software Engineer,"$12,441",False,True,False,Rural-INSTAGRAM
+45,male,168:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Student,"$11,098",True,False,True,Sub_Urban-INSTAGRAM
+42,male,120:00:00,FACEBOOK,Travel,Australia,Urban,Student,"$15,073",False,True,False,Urban-FACEBOOK
+56,female,216:00:00,YOUTUBE,Sports,United States,Sub_Urban,Student,"$19,697",True,False,True,Sub_Urban-YOUTUBE
+50,male,96:00:00,YOUTUBE,Sports,United States,Urban,Marketer Manager,"$19,318",False,False,False,Urban-YOUTUBE
+18,non-binary,72:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Student,"$18,488",False,True,False,Sub_Urban-INSTAGRAM
+44,non-binary,96:00:00,YOUTUBE,Sports,United States,Sub_Urban,Software Engineer,"$13,787",True,True,True,Sub_Urban-YOUTUBE
+30,male,120:00:00,FACEBOOK,Lifestlye,United States,Rural,Student,"$12,096",False,False,True,Rural-FACEBOOK
+58,female,144:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Software Engineer,"$12,208",False,False,True,Sub_Urban-YOUTUBE
+20,non-binary,72:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Student,"$15,988",True,False,True,Sub_Urban-INSTAGRAM
+56,female,48:00:00,INSTAGRAM,Sports,United States,Urban,Student,"$10,175",False,False,True,Urban-INSTAGRAM
+23,female,96:00:00,FACEBOOK,Travel,Australia,Rural,Software Engineer,"$17,169",True,False,False,Rural-FACEBOOK
+25,non-binary,120:00:00,FACEBOOK,Sports,United Kingdom,Urban,Student,"$16,014",True,True,True,Urban-FACEBOOK
+44,female,96:00:00,YOUTUBE,Sports,United Kingdom,Urban,Student,"$11,667",True,True,True,Urban-YOUTUBE
+26,non-binary,72:00:00,YOUTUBE,Sports,Australia,Rural,Student,"$18,867",True,True,False,Rural-YOUTUBE
+54,female,192:00:00,INSTAGRAM,Travel,Australia,Rural,Marketer Manager,"$11,823",False,True,True,Rural-INSTAGRAM
+50,non-binary,96:00:00,FACEBOOK,Sports,Australia,Rural,Software Engineer,"$15,147",False,False,False,Rural-FACEBOOK
+59,male,48:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Student,"$11,356",False,True,True,Sub_Urban-FACEBOOK
+61,non-binary,48:00:00,FACEBOOK,Lifestlye,Australia,Rural,Software Engineer,"$13,072",True,True,False,Rural-FACEBOOK
+41,non-binary,24:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$13,259",False,True,True,Rural-YOUTUBE
+32,non-binary,96:00:00,FACEBOOK,Travel,United States,Rural,Software Engineer,"$16,199",False,False,False,Rural-FACEBOOK
+49,non-binary,216:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Student,"$10,546",False,True,False,Urban-INSTAGRAM
+49,female,168:00:00,INSTAGRAM,Sports,United States,Urban,Student,"$15,231",False,False,True,Urban-INSTAGRAM
+41,male,168:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Software Engineer,"$17,965",True,True,True,Sub_Urban-YOUTUBE
+58,non-binary,168:00:00,YOUTUBE,Travel,United States,Urban,Marketer Manager,"$12,083",True,False,True,Urban-YOUTUBE
+29,female,192:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Software Engineer,"$12,040",False,True,False,Sub_Urban-FACEBOOK
+56,male,24:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Marketer Manager,"$14,534",True,False,False,Urban-YOUTUBE
+19,male,192:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Software Engineer,"$11,752",False,True,False,Rural-INSTAGRAM
+20,male,96:00:00,FACEBOOK,Travel,United Kingdom,Urban,Software Engineer,"$19,807",False,False,True,Urban-FACEBOOK
+54,male,96:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$11,849",False,False,True,Sub_Urban-INSTAGRAM
+34,non-binary,96:00:00,FACEBOOK,Lifestlye,United States,Urban,Student,"$12,642",True,True,False,Urban-FACEBOOK
+19,non-binary,144:00:00,YOUTUBE,Sports,United States,Rural,Marketer Manager,"$11,600",False,False,True,Rural-YOUTUBE
+19,female,168:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$14,402",True,False,False,Sub_Urban-FACEBOOK
+45,female,144:00:00,FACEBOOK,Travel,United Kingdom,Rural,Software Engineer,"$13,799",True,True,True,Rural-FACEBOOK
+40,female,24:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$10,618",False,True,True,Rural-INSTAGRAM
+54,male,192:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Student,"$11,132",True,False,False,Sub_Urban-INSTAGRAM
+49,male,168:00:00,FACEBOOK,Lifestlye,Australia,Rural,Marketer Manager,"$15,491",True,True,True,Rural-FACEBOOK
+50,non-binary,144:00:00,YOUTUBE,Travel,Australia,Rural,Student,"$15,795",False,True,True,Rural-YOUTUBE
+18,male,144:00:00,YOUTUBE,Lifestlye,Australia,Urban,Marketer Manager,"$17,633",True,True,True,Urban-YOUTUBE
+36,male,120:00:00,INSTAGRAM,Lifestlye,United States,Rural,Marketer Manager,"$11,487",True,False,True,Rural-INSTAGRAM
+19,male,144:00:00,YOUTUBE,Travel,United States,Rural,Marketer Manager,"$17,848",False,False,True,Rural-YOUTUBE
+61,female,216:00:00,INSTAGRAM,Sports,Australia,Rural,Student,"$15,009",False,False,False,Rural-INSTAGRAM
+43,female,216:00:00,YOUTUBE,Sports,United Kingdom,Rural,Marketer Manager,"$19,749",True,False,True,Rural-YOUTUBE
+49,non-binary,192:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Marketer Manager,"$12,113",False,False,False,Sub_Urban-FACEBOOK
+23,male,216:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Software Engineer,"$11,044",False,False,True,Urban-INSTAGRAM
+49,male,192:00:00,INSTAGRAM,Travel,Australia,Rural,Marketer Manager,"$12,431",True,False,True,Rural-INSTAGRAM
+21,non-binary,192:00:00,FACEBOOK,Sports,Australia,Rural,Marketer Manager,"$17,979",True,True,False,Rural-FACEBOOK
+28,male,24:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Software Engineer,"$11,582",False,False,False,Sub_Urban-INSTAGRAM
+34,male,120:00:00,YOUTUBE,Travel,United Kingdom,Rural,Software Engineer,"$11,308",True,False,True,Rural-YOUTUBE
+55,female,96:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Student,"$14,917",False,True,True,Sub_Urban-YOUTUBE
+41,non-binary,48:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Marketer Manager,"$18,793",False,True,False,Urban-INSTAGRAM
+22,non-binary,192:00:00,YOUTUBE,Travel,United Kingdom,Urban,Student,"$11,620",True,True,False,Urban-YOUTUBE
+51,non-binary,72:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Student,"$17,503",True,False,False,Rural-INSTAGRAM
+23,non-binary,96:00:00,FACEBOOK,Travel,Australia,Rural,Software Engineer,"$14,766",False,True,False,Rural-FACEBOOK
+39,female,168:00:00,INSTAGRAM,Travel,United States,Rural,Student,"$15,362",False,False,True,Rural-INSTAGRAM
+28,female,216:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Marketer Manager,"$15,192",False,False,True,Sub_Urban-FACEBOOK
+33,male,48:00:00,YOUTUBE,Sports,United Kingdom,Rural,Software Engineer,"$16,622",False,False,True,Rural-YOUTUBE
+50,male,72:00:00,FACEBOOK,Travel,United Kingdom,Rural,Marketer Manager,"$16,093",True,True,True,Rural-FACEBOOK
+26,male,96:00:00,YOUTUBE,Sports,United States,Urban,Marketer Manager,"$16,704",False,True,True,Urban-YOUTUBE
+23,male,24:00:00,INSTAGRAM,Sports,Australia,Rural,Software Engineer,"$10,100",True,False,False,Rural-INSTAGRAM
+33,female,168:00:00,YOUTUBE,Travel,United Kingdom,Urban,Marketer Manager,"$16,657",True,False,False,Urban-YOUTUBE
+46,non-binary,48:00:00,INSTAGRAM,Travel,United States,Rural,Software Engineer,"$15,875",False,False,False,Rural-INSTAGRAM
+20,female,120:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Marketer Manager,"$14,271",True,True,True,Urban-INSTAGRAM
+37,male,24:00:00,FACEBOOK,Sports,United States,Rural,Software Engineer,"$10,237",True,False,False,Rural-FACEBOOK
+53,female,72:00:00,FACEBOOK,Lifestlye,United States,Urban,Student,"$17,226",False,True,True,Urban-FACEBOOK
+36,non-binary,48:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$18,032",True,False,True,Sub_Urban-FACEBOOK
+43,non-binary,24:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Software Engineer,"$15,218",True,True,True,Urban-FACEBOOK
+20,female,168:00:00,YOUTUBE,Lifestlye,Australia,Urban,Marketer Manager,"$14,025",False,False,False,Urban-YOUTUBE
+36,female,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Marketer Manager,"$16,073",False,True,True,Urban-YOUTUBE
+37,female,24:00:00,YOUTUBE,Travel,Australia,Rural,Marketer Manager,"$12,542",False,True,True,Rural-YOUTUBE
+49,male,144:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Software Engineer,"$11,537",False,True,False,Rural-INSTAGRAM
+24,female,120:00:00,YOUTUBE,Sports,Australia,Rural,Student,"$10,754",False,True,True,Rural-YOUTUBE
+58,female,72:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Student,"$17,396",False,True,False,Sub_Urban-YOUTUBE
+50,female,168:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Student,"$17,823",False,True,True,Sub_Urban-YOUTUBE
+57,non-binary,216:00:00,FACEBOOK,Travel,United Kingdom,Urban,Software Engineer,"$15,507",True,False,False,Urban-FACEBOOK
+56,non-binary,216:00:00,YOUTUBE,Travel,United States,Sub_Urban,Student,"$14,235",True,False,True,Sub_Urban-YOUTUBE
+35,male,216:00:00,INSTAGRAM,Travel,Australia,Urban,Software Engineer,"$10,540",False,False,True,Urban-INSTAGRAM
+57,male,48:00:00,FACEBOOK,Travel,United Kingdom,Urban,Marketer Manager,"$15,510",True,False,False,Urban-FACEBOOK
+18,non-binary,72:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Marketer Manager,"$18,461",True,True,True,Urban-INSTAGRAM
+28,non-binary,168:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Student,"$17,926",False,False,False,Sub_Urban-YOUTUBE
+45,non-binary,120:00:00,FACEBOOK,Lifestlye,United States,Rural,Software Engineer,"$15,131",True,True,True,Rural-FACEBOOK
+42,female,48:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,697",False,True,False,Sub_Urban-INSTAGRAM
+40,female,72:00:00,YOUTUBE,Sports,Australia,Urban,Software Engineer,"$11,129",True,True,True,Urban-YOUTUBE
+48,non-binary,144:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Software Engineer,"$13,145",False,False,True,Urban-INSTAGRAM
+47,female,168:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$18,553",True,True,True,Sub_Urban-INSTAGRAM
+59,female,216:00:00,INSTAGRAM,Lifestlye,United States,Urban,Software Engineer,"$13,720",True,False,False,Urban-INSTAGRAM
+52,male,24:00:00,YOUTUBE,Sports,United States,Urban,Marketer Manager,"$19,648",True,False,False,Urban-YOUTUBE
+24,non-binary,168:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Marketer Manager,"$14,067",False,False,False,Sub_Urban-YOUTUBE
+33,non-binary,192:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$14,195",True,False,False,Sub_Urban-INSTAGRAM
+43,female,72:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,873",True,False,False,Sub_Urban-FACEBOOK
+19,non-binary,96:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,244",False,True,True,Urban-FACEBOOK
+18,male,144:00:00,YOUTUBE,Travel,United Kingdom,Urban,Software Engineer,"$17,281",False,True,True,Urban-YOUTUBE
+29,male,168:00:00,YOUTUBE,Travel,United Kingdom,Rural,Marketer Manager,"$12,509",True,False,True,Rural-YOUTUBE
+22,male,96:00:00,YOUTUBE,Sports,United Kingdom,Rural,Marketer Manager,"$15,016",True,True,True,Rural-YOUTUBE
+54,non-binary,192:00:00,YOUTUBE,Travel,United States,Sub_Urban,Student,"$16,533",True,False,True,Sub_Urban-YOUTUBE
+49,non-binary,120:00:00,YOUTUBE,Travel,United Kingdom,Rural,Student,"$14,727",True,True,False,Rural-YOUTUBE
+26,non-binary,24:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Student,"$10,681",False,True,True,Urban-FACEBOOK
+58,non-binary,96:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$13,932",True,True,False,Rural-YOUTUBE
+52,non-binary,72:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Software Engineer,"$15,560",True,True,True,Urban-INSTAGRAM
+36,male,216:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Marketer Manager,"$14,016",False,True,False,Sub_Urban-INSTAGRAM
+33,female,192:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Marketer Manager,"$17,339",True,True,False,Sub_Urban-FACEBOOK
+20,male,24:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Marketer Manager,"$10,719",True,True,False,Urban-INSTAGRAM
+37,non-binary,144:00:00,FACEBOOK,Sports,Australia,Rural,Marketer Manager,"$10,074",True,True,True,Rural-FACEBOOK
+41,male,216:00:00,FACEBOOK,Travel,United States,Sub_Urban,Software Engineer,"$19,485",False,True,True,Sub_Urban-FACEBOOK
+50,non-binary,168:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Marketer Manager,"$14,157",False,True,True,Sub_Urban-INSTAGRAM
+41,non-binary,96:00:00,YOUTUBE,Lifestlye,Australia,Rural,Marketer Manager,"$18,511",True,True,True,Rural-YOUTUBE
+28,male,24:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$12,149",True,True,False,Rural-INSTAGRAM
+25,non-binary,48:00:00,INSTAGRAM,Travel,United States,Urban,Marketer Manager,"$19,644",False,True,False,Urban-INSTAGRAM
+53,female,120:00:00,FACEBOOK,Sports,United Kingdom,Rural,Marketer Manager,"$19,747",True,False,False,Rural-FACEBOOK
+55,non-binary,120:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$16,713",True,True,False,Rural-INSTAGRAM
+57,female,192:00:00,FACEBOOK,Lifestlye,United Kingdom,Rural,Software Engineer,"$14,207",False,True,True,Rural-FACEBOOK
+37,female,144:00:00,YOUTUBE,Travel,Australia,Urban,Student,"$17,141",False,True,False,Urban-YOUTUBE
+52,non-binary,192:00:00,YOUTUBE,Sports,Australia,Urban,Marketer Manager,"$18,652",False,True,True,Urban-YOUTUBE
+42,male,48:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$19,078",True,True,False,Sub_Urban-YOUTUBE
+52,female,72:00:00,INSTAGRAM,Sports,Australia,Urban,Student,"$13,936",True,True,False,Urban-INSTAGRAM
+42,male,144:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$19,307",True,False,False,Sub_Urban-FACEBOOK
+46,female,72:00:00,YOUTUBE,Lifestlye,Australia,Rural,Software Engineer,"$11,075",True,False,True,Rural-YOUTUBE
+35,non-binary,144:00:00,FACEBOOK,Travel,United States,Sub_Urban,Marketer Manager,"$13,876",False,False,True,Sub_Urban-FACEBOOK
+63,non-binary,144:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$14,615",True,True,False,Sub_Urban-FACEBOOK
+35,female,48:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$17,265",True,True,False,Rural-YOUTUBE
+19,non-binary,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$16,379",False,True,False,Sub_Urban-YOUTUBE
+52,female,48:00:00,FACEBOOK,Travel,United Kingdom,Urban,Student,"$19,118",False,False,True,Urban-FACEBOOK
+33,non-binary,144:00:00,YOUTUBE,Travel,Australia,Urban,Software Engineer,"$14,652",True,True,True,Urban-YOUTUBE
+58,male,24:00:00,FACEBOOK,Travel,United Kingdom,Urban,Student,"$16,792",False,True,True,Urban-FACEBOOK
+53,non-binary,72:00:00,FACEBOOK,Sports,United States,Urban,Marketer Manager,"$19,247",False,False,False,Urban-FACEBOOK
+50,male,48:00:00,YOUTUBE,Sports,United States,Sub_Urban,Software Engineer,"$17,456",True,False,True,Sub_Urban-YOUTUBE
+21,non-binary,168:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Marketer Manager,"$14,674",True,True,False,Sub_Urban-INSTAGRAM
+50,male,96:00:00,YOUTUBE,Sports,United Kingdom,Rural,Student,"$10,541",True,True,True,Rural-YOUTUBE
+31,non-binary,192:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Marketer Manager,"$12,161",True,True,False,Sub_Urban-INSTAGRAM
+38,male,144:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$12,251",False,True,False,Sub_Urban-FACEBOOK
+37,female,96:00:00,FACEBOOK,Sports,United States,Sub_Urban,Software Engineer,"$19,244",False,False,True,Sub_Urban-FACEBOOK
+25,female,120:00:00,INSTAGRAM,Sports,United States,Rural,Marketer Manager,"$14,569",True,True,False,Rural-INSTAGRAM
+24,male,216:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Marketer Manager,"$12,744",True,True,False,Urban-FACEBOOK
+20,non-binary,168:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Marketer Manager,"$16,041",False,False,False,Sub_Urban-INSTAGRAM
+34,male,216:00:00,INSTAGRAM,Travel,Australia,Rural,Software Engineer,"$14,675",True,True,True,Rural-INSTAGRAM
+50,non-binary,168:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$11,560",True,True,False,Rural-FACEBOOK
+29,female,24:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Student,"$11,164",True,False,True,Rural-INSTAGRAM
+39,non-binary,192:00:00,YOUTUBE,Travel,United Kingdom,Urban,Marketer Manager,"$15,419",True,False,True,Urban-YOUTUBE
+39,female,96:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Software Engineer,"$12,722",False,True,False,Sub_Urban-YOUTUBE
+63,non-binary,72:00:00,FACEBOOK,Travel,United Kingdom,Rural,Marketer Manager,"$10,470",True,False,True,Rural-FACEBOOK
+47,non-binary,168:00:00,FACEBOOK,Travel,United States,Urban,Student,"$19,608",False,False,False,Urban-FACEBOOK
+55,non-binary,72:00:00,INSTAGRAM,Sports,United States,Rural,Software Engineer,"$11,468",True,True,True,Rural-INSTAGRAM
+55,male,192:00:00,INSTAGRAM,Travel,United States,Rural,Student,"$17,925",True,False,False,Rural-INSTAGRAM
+62,male,144:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Student,"$10,808",False,True,True,Rural-INSTAGRAM
+25,female,120:00:00,INSTAGRAM,Lifestlye,United States,Rural,Software Engineer,"$18,363",True,True,False,Rural-INSTAGRAM
+44,female,96:00:00,YOUTUBE,Travel,United Kingdom,Rural,Software Engineer,"$16,719",False,True,False,Rural-YOUTUBE
+44,male,192:00:00,YOUTUBE,Travel,United States,Urban,Marketer Manager,"$15,073",True,True,False,Urban-YOUTUBE
+51,female,192:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,012",True,False,False,Sub_Urban-FACEBOOK
+38,male,24:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Student,"$11,645",True,True,True,Sub_Urban-INSTAGRAM
+47,non-binary,216:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$18,249",True,True,True,Sub_Urban-INSTAGRAM
+50,female,120:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Software Engineer,"$11,129",True,True,False,Sub_Urban-FACEBOOK
+45,female,96:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Marketer Manager,"$11,353",False,True,True,Urban-INSTAGRAM
+64,male,144:00:00,INSTAGRAM,Lifestlye,United States,Urban,Student,"$10,767",False,False,False,Urban-INSTAGRAM
+50,female,144:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Student,"$13,895",True,False,False,Urban-INSTAGRAM
+22,female,48:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$18,874",True,False,True,Rural-INSTAGRAM
+36,non-binary,192:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Software Engineer,"$13,454",False,True,True,Rural-INSTAGRAM
+21,female,168:00:00,FACEBOOK,Sports,Australia,Rural,Marketer Manager,"$17,329",False,False,False,Rural-FACEBOOK
+52,non-binary,24:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,790",True,False,True,Sub_Urban-INSTAGRAM
+34,male,120:00:00,FACEBOOK,Travel,United Kingdom,Rural,Marketer Manager,"$19,669",True,True,False,Rural-FACEBOOK
+61,female,144:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Marketer Manager,"$10,885",False,False,True,Sub_Urban-INSTAGRAM
+45,non-binary,96:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$17,734",True,True,True,Rural-YOUTUBE
+47,male,48:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$13,906",False,False,True,Sub_Urban-YOUTUBE
+46,female,96:00:00,YOUTUBE,Sports,Australia,Rural,Software Engineer,"$14,492",True,False,True,Rural-YOUTUBE
+63,male,24:00:00,YOUTUBE,Sports,United States,Rural,Marketer Manager,"$19,730",False,False,True,Rural-YOUTUBE
+23,female,168:00:00,FACEBOOK,Travel,United States,Urban,Student,"$12,073",False,False,False,Urban-FACEBOOK
+52,male,48:00:00,FACEBOOK,Travel,United Kingdom,Rural,Software Engineer,"$10,312",True,True,True,Rural-FACEBOOK
+58,male,48:00:00,INSTAGRAM,Sports,United States,Rural,Student,"$16,269",False,True,True,Rural-INSTAGRAM
+54,non-binary,216:00:00,YOUTUBE,Lifestlye,United States,Urban,Marketer Manager,"$15,317",True,False,False,Urban-YOUTUBE
+41,male,120:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$10,810",True,True,False,Sub_Urban-FACEBOOK
+46,female,48:00:00,INSTAGRAM,Sports,United States,Urban,Marketer Manager,"$16,841",True,False,False,Urban-INSTAGRAM
+63,female,216:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Software Engineer,"$12,032",True,False,True,Urban-INSTAGRAM
+48,non-binary,216:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Student,"$19,699",False,False,True,Sub_Urban-FACEBOOK
+52,female,24:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Software Engineer,"$17,129",True,False,False,Rural-YOUTUBE
+50,female,72:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Software Engineer,"$12,705",True,False,False,Sub_Urban-INSTAGRAM
+38,female,96:00:00,YOUTUBE,Sports,United States,Rural,Marketer Manager,"$18,788",True,False,False,Rural-YOUTUBE
+49,male,168:00:00,YOUTUBE,Sports,United States,Rural,Student,"$12,147",True,True,False,Rural-YOUTUBE
+40,male,96:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Marketer Manager,"$10,615",False,True,True,Sub_Urban-YOUTUBE
+50,female,48:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Software Engineer,"$10,947",True,False,True,Urban-INSTAGRAM
+20,non-binary,168:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Marketer Manager,"$15,677",False,True,True,Sub_Urban-YOUTUBE
+35,male,144:00:00,INSTAGRAM,Travel,Australia,Rural,Student,"$14,651",False,False,True,Rural-INSTAGRAM
+42,non-binary,72:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$17,866",False,True,True,Sub_Urban-YOUTUBE
+59,female,144:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Student,"$12,013",True,True,False,Sub_Urban-INSTAGRAM
+48,female,144:00:00,YOUTUBE,Travel,Australia,Rural,Student,"$13,697",True,True,True,Rural-YOUTUBE
+20,male,120:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Marketer Manager,"$10,490",True,False,False,Urban-FACEBOOK
+57,female,96:00:00,YOUTUBE,Travel,United States,Sub_Urban,Software Engineer,"$14,350",True,True,False,Sub_Urban-YOUTUBE
+63,male,24:00:00,YOUTUBE,Travel,Australia,Rural,Marketer Manager,"$12,428",False,False,False,Rural-YOUTUBE
+41,female,144:00:00,INSTAGRAM,Sports,Australia,Rural,Software Engineer,"$14,987",False,False,True,Rural-INSTAGRAM
+49,female,48:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Software Engineer,"$18,733",True,False,False,Sub_Urban-INSTAGRAM
+64,male,72:00:00,YOUTUBE,Travel,United States,Urban,Marketer Manager,"$19,479",True,True,True,Urban-YOUTUBE
+39,male,192:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Software Engineer,"$19,825",True,True,False,Sub_Urban-FACEBOOK
+40,male,144:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Software Engineer,"$14,920",True,True,True,Urban-FACEBOOK
+19,female,72:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Marketer Manager,"$12,926",True,False,False,Urban-INSTAGRAM
+44,female,168:00:00,FACEBOOK,Travel,United States,Urban,Marketer Manager,"$19,544",True,False,True,Urban-FACEBOOK
+59,non-binary,96:00:00,YOUTUBE,Travel,Australia,Urban,Marketer Manager,"$17,282",True,True,False,Urban-YOUTUBE
+19,male,216:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Software Engineer,"$14,376",False,False,False,Sub_Urban-INSTAGRAM
+43,female,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Student,"$19,490",False,True,False,Rural-YOUTUBE
+34,female,72:00:00,INSTAGRAM,Lifestlye,United States,Rural,Software Engineer,"$14,868",False,True,False,Rural-INSTAGRAM
+57,male,48:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Student,"$16,986",False,True,True,Rural-INSTAGRAM
+50,non-binary,48:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$16,862",True,True,True,Rural-INSTAGRAM
+26,male,72:00:00,INSTAGRAM,Travel,Australia,Rural,Student,"$14,423",True,False,True,Rural-INSTAGRAM
+60,non-binary,48:00:00,FACEBOOK,Lifestlye,Australia,Rural,Marketer Manager,"$16,870",True,True,False,Rural-FACEBOOK
+56,female,96:00:00,YOUTUBE,Travel,United States,Sub_Urban,Marketer Manager,"$18,159",True,True,False,Sub_Urban-YOUTUBE
+46,non-binary,48:00:00,YOUTUBE,Travel,United States,Urban,Student,"$12,073",True,True,False,Urban-YOUTUBE
+59,female,216:00:00,YOUTUBE,Sports,Australia,Rural,Marketer Manager,"$16,170",False,True,False,Rural-YOUTUBE
+43,male,48:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Student,"$10,701",True,True,False,Sub_Urban-INSTAGRAM
+52,male,216:00:00,FACEBOOK,Lifestlye,United States,Rural,Marketer Manager,"$18,113",False,True,False,Rural-FACEBOOK
+42,male,144:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$16,825",True,True,True,Rural-YOUTUBE
+41,non-binary,24:00:00,FACEBOOK,Lifestlye,United States,Urban,Software Engineer,"$17,867",False,False,True,Urban-FACEBOOK
+30,female,96:00:00,INSTAGRAM,Travel,United States,Urban,Marketer Manager,"$14,264",True,False,True,Urban-INSTAGRAM
+24,male,24:00:00,YOUTUBE,Travel,United States,Urban,Marketer Manager,"$17,968",False,False,True,Urban-YOUTUBE
+53,male,144:00:00,FACEBOOK,Sports,Australia,Rural,Student,"$18,146",True,False,True,Rural-FACEBOOK
+62,female,96:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$17,776",True,True,True,Rural-INSTAGRAM
+37,male,72:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$18,558",True,False,True,Rural-FACEBOOK
+18,female,72:00:00,YOUTUBE,Travel,United Kingdom,Urban,Marketer Manager,"$18,719",True,False,True,Urban-YOUTUBE
+25,female,216:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Marketer Manager,"$14,886",False,False,False,Sub_Urban-YOUTUBE
+63,female,144:00:00,INSTAGRAM,Sports,Australia,Rural,Student,"$13,935",True,True,False,Rural-INSTAGRAM
+33,female,216:00:00,INSTAGRAM,Lifestlye,United States,Rural,Marketer Manager,"$14,619",False,False,False,Rural-INSTAGRAM
+31,female,120:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$15,191",True,False,False,Rural-INSTAGRAM
+29,non-binary,48:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Student,"$16,875",False,True,False,Sub_Urban-FACEBOOK
+40,male,192:00:00,FACEBOOK,Travel,Australia,Rural,Software Engineer,"$17,856",True,False,False,Rural-FACEBOOK
+32,non-binary,120:00:00,FACEBOOK,Sports,United States,Sub_Urban,Software Engineer,"$15,401",True,True,False,Sub_Urban-FACEBOOK
+45,male,48:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$13,022",False,False,True,Rural-INSTAGRAM
+51,non-binary,96:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Student,"$15,738",True,True,True,Sub_Urban-YOUTUBE
+19,female,216:00:00,YOUTUBE,Lifestlye,United States,Rural,Marketer Manager,"$15,984",True,False,False,Rural-YOUTUBE
+49,male,96:00:00,FACEBOOK,Sports,United States,Urban,Software Engineer,"$11,770",False,False,True,Urban-FACEBOOK
+40,male,96:00:00,FACEBOOK,Travel,United Kingdom,Urban,Software Engineer,"$19,969",True,False,True,Urban-FACEBOOK
+39,non-binary,48:00:00,YOUTUBE,Sports,United Kingdom,Urban,Software Engineer,"$18,989",False,True,True,Urban-YOUTUBE
+42,non-binary,144:00:00,YOUTUBE,Travel,United States,Urban,Marketer Manager,"$13,215",True,False,True,Urban-YOUTUBE
+39,male,48:00:00,FACEBOOK,Lifestlye,United States,Rural,Marketer Manager,"$16,694",False,True,True,Rural-FACEBOOK
+39,non-binary,168:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Student,"$12,976",False,True,False,Urban-FACEBOOK
+59,non-binary,72:00:00,YOUTUBE,Travel,United States,Sub_Urban,Marketer Manager,"$13,737",False,True,True,Sub_Urban-YOUTUBE
+23,non-binary,72:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Student,"$19,903",False,True,False,Urban-INSTAGRAM
+32,female,120:00:00,FACEBOOK,Travel,United States,Urban,Student,"$10,752",True,False,False,Urban-FACEBOOK
+60,female,72:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Student,"$11,392",True,False,False,Urban-YOUTUBE
+54,non-binary,48:00:00,YOUTUBE,Sports,Australia,Rural,Student,"$16,789",False,False,True,Rural-YOUTUBE
+50,non-binary,216:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Student,"$10,677",True,True,False,Urban-YOUTUBE
+25,female,48:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Software Engineer,"$10,105",True,False,False,Sub_Urban-YOUTUBE
+61,female,48:00:00,INSTAGRAM,Travel,Australia,Urban,Marketer Manager,"$14,753",True,True,False,Urban-INSTAGRAM
+61,male,192:00:00,YOUTUBE,Lifestlye,United States,Urban,Software Engineer,"$11,946",False,True,False,Urban-YOUTUBE
+22,male,216:00:00,FACEBOOK,Travel,Australia,Urban,Student,"$15,544",True,True,True,Urban-FACEBOOK
+56,female,168:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,095",True,False,False,Sub_Urban-INSTAGRAM
+21,non-binary,72:00:00,YOUTUBE,Travel,United States,Urban,Software Engineer,"$16,985",False,False,False,Urban-YOUTUBE
+23,non-binary,216:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$11,782",True,True,False,Sub_Urban-INSTAGRAM
+62,non-binary,72:00:00,FACEBOOK,Sports,United States,Sub_Urban,Student,"$14,541",False,False,False,Sub_Urban-FACEBOOK
+49,non-binary,120:00:00,YOUTUBE,Travel,United States,Urban,Software Engineer,"$13,257",False,False,True,Urban-YOUTUBE
+47,male,216:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Software Engineer,"$16,213",False,True,False,Sub_Urban-FACEBOOK
+64,female,72:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$14,869",True,True,False,Rural-YOUTUBE
+52,non-binary,168:00:00,YOUTUBE,Lifestlye,Australia,Urban,Software Engineer,"$11,561",True,False,False,Urban-YOUTUBE
+57,male,24:00:00,YOUTUBE,Travel,United Kingdom,Urban,Software Engineer,"$14,006",False,True,False,Urban-YOUTUBE
+33,non-binary,96:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Student,"$19,867",False,True,False,Sub_Urban-YOUTUBE
+30,female,96:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Student,"$19,314",False,False,False,Sub_Urban-YOUTUBE
+59,male,168:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Software Engineer,"$13,981",False,False,True,Urban-INSTAGRAM
+47,female,192:00:00,YOUTUBE,Lifestlye,United States,Rural,Student,"$19,493",False,True,False,Rural-YOUTUBE
+36,female,24:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Student,"$15,682",False,False,True,Sub_Urban-YOUTUBE
+34,male,120:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Marketer Manager,"$15,782",True,True,True,Sub_Urban-INSTAGRAM
+36,male,168:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Software Engineer,"$10,943",False,True,False,Rural-INSTAGRAM
+45,male,96:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Student,"$14,550",False,False,True,Rural-INSTAGRAM
+43,male,96:00:00,INSTAGRAM,Sports,Australia,Urban,Student,"$19,137",False,True,False,Urban-INSTAGRAM
+54,male,96:00:00,INSTAGRAM,Travel,United States,Rural,Software Engineer,"$10,600",True,True,True,Rural-INSTAGRAM
+43,male,144:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Marketer Manager,"$16,376",True,True,False,Urban-INSTAGRAM
+40,male,168:00:00,YOUTUBE,Sports,United Kingdom,Rural,Software Engineer,"$19,609",True,False,True,Rural-YOUTUBE
+26,non-binary,48:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$11,524",True,False,True,Sub_Urban-YOUTUBE
+29,female,120:00:00,FACEBOOK,Sports,Australia,Urban,Software Engineer,"$13,766",False,False,False,Urban-FACEBOOK
+18,male,96:00:00,YOUTUBE,Sports,United Kingdom,Urban,Software Engineer,"$10,250",True,True,True,Urban-YOUTUBE
+18,non-binary,72:00:00,YOUTUBE,Travel,United Kingdom,Urban,Software Engineer,"$19,736",False,True,True,Urban-YOUTUBE
+64,non-binary,168:00:00,INSTAGRAM,Sports,United States,Rural,Software Engineer,"$10,078",False,False,True,Rural-INSTAGRAM
+51,non-binary,144:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Marketer Manager,"$13,123",False,False,True,Sub_Urban-INSTAGRAM
+49,female,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,089",False,False,True,Urban-YOUTUBE
+42,male,120:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Student,"$17,064",False,True,False,Urban-FACEBOOK
+57,non-binary,144:00:00,INSTAGRAM,Sports,United States,Urban,Software Engineer,"$18,417",False,False,True,Urban-INSTAGRAM
+62,female,120:00:00,YOUTUBE,Lifestlye,Australia,Urban,Marketer Manager,"$11,209",True,True,True,Urban-YOUTUBE
+18,female,168:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$15,153",True,False,False,Sub_Urban-YOUTUBE
+33,female,48:00:00,FACEBOOK,Lifestlye,Australia,Rural,Marketer Manager,"$14,898",True,True,False,Rural-FACEBOOK
+56,non-binary,120:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Software Engineer,"$12,178",True,True,False,Sub_Urban-FACEBOOK
+22,male,144:00:00,INSTAGRAM,Sports,Australia,Urban,Student,"$17,610",True,False,True,Urban-INSTAGRAM
+39,non-binary,144:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,895",False,True,True,Sub_Urban-FACEBOOK
+46,non-binary,120:00:00,YOUTUBE,Travel,Australia,Urban,Software Engineer,"$12,544",True,False,True,Urban-YOUTUBE
+20,male,168:00:00,YOUTUBE,Lifestlye,Australia,Rural,Marketer Manager,"$15,522",True,True,True,Rural-YOUTUBE
+29,male,192:00:00,FACEBOOK,Sports,United States,Rural,Marketer Manager,"$12,370",True,True,False,Rural-FACEBOOK
+43,male,168:00:00,FACEBOOK,Sports,Australia,Rural,Student,"$13,281",False,False,False,Rural-FACEBOOK
+33,female,120:00:00,FACEBOOK,Sports,Australia,Urban,Marketer Manager,"$14,710",False,True,True,Urban-FACEBOOK
+54,male,24:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$10,328",False,False,True,Sub_Urban-FACEBOOK
+39,non-binary,120:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Software Engineer,"$15,579",True,False,True,Rural-INSTAGRAM
+46,male,48:00:00,FACEBOOK,Sports,United States,Urban,Software Engineer,"$14,228",True,False,True,Urban-FACEBOOK
+31,non-binary,120:00:00,INSTAGRAM,Sports,United States,Urban,Student,"$16,794",True,True,False,Urban-INSTAGRAM
+45,female,120:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Software Engineer,"$10,120",True,True,False,Sub_Urban-YOUTUBE
+22,non-binary,48:00:00,FACEBOOK,Travel,Australia,Rural,Software Engineer,"$16,749",True,True,True,Rural-FACEBOOK
+64,non-binary,120:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Student,"$10,964",False,False,False,Urban-INSTAGRAM
+47,male,96:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$14,224",True,False,True,Sub_Urban-FACEBOOK
+63,male,24:00:00,YOUTUBE,Travel,United States,Rural,Student,"$13,675",False,True,True,Rural-YOUTUBE
+22,non-binary,72:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Software Engineer,"$15,694",True,True,False,Sub_Urban-YOUTUBE
+29,male,24:00:00,YOUTUBE,Sports,United States,Sub_Urban,Student,"$12,076",False,False,True,Sub_Urban-YOUTUBE
+33,female,120:00:00,FACEBOOK,Travel,United Kingdom,Urban,Marketer Manager,"$16,865",False,True,False,Urban-FACEBOOK
+43,female,96:00:00,FACEBOOK,Travel,United Kingdom,Urban,Student,"$15,643",False,False,True,Urban-FACEBOOK
+43,male,168:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Software Engineer,"$18,524",False,True,False,Urban-INSTAGRAM
+38,female,120:00:00,YOUTUBE,Sports,United States,Sub_Urban,Software Engineer,"$15,249",True,False,True,Sub_Urban-YOUTUBE
+56,male,96:00:00,FACEBOOK,Sports,Australia,Urban,Student,"$11,316",True,True,False,Urban-FACEBOOK
+53,non-binary,48:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Marketer Manager,"$11,196",True,True,True,Sub_Urban-YOUTUBE
+50,non-binary,96:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Student,"$13,170",False,False,True,Sub_Urban-YOUTUBE
+47,female,48:00:00,INSTAGRAM,Sports,Australia,Urban,Marketer Manager,"$19,621",True,False,False,Urban-INSTAGRAM
+54,male,192:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Marketer Manager,"$10,355",True,False,True,Rural-INSTAGRAM
+40,male,72:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$19,718",True,True,False,Rural-INSTAGRAM
+27,female,216:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$10,028",True,False,False,Rural-INSTAGRAM
+22,non-binary,96:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Software Engineer,"$11,013",False,False,True,Sub_Urban-YOUTUBE
+53,female,144:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Student,"$19,019",False,True,True,Sub_Urban-INSTAGRAM
+51,non-binary,120:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Marketer Manager,"$12,024",True,False,True,Sub_Urban-INSTAGRAM
+48,male,24:00:00,INSTAGRAM,Sports,Australia,Urban,Software Engineer,"$18,490",True,False,True,Urban-INSTAGRAM
+27,non-binary,216:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Student,"$15,839",True,False,False,Sub_Urban-INSTAGRAM
+36,female,24:00:00,YOUTUBE,Sports,Australia,Urban,Software Engineer,"$15,791",False,True,True,Urban-YOUTUBE
+49,male,192:00:00,INSTAGRAM,Travel,Australia,Urban,Software Engineer,"$10,754",False,True,True,Urban-INSTAGRAM
+18,female,216:00:00,YOUTUBE,Lifestlye,Australia,Rural,Software Engineer,"$18,961",False,True,True,Rural-YOUTUBE
+22,female,216:00:00,FACEBOOK,Sports,United States,Rural,Marketer Manager,"$13,735",True,False,False,Rural-FACEBOOK
+62,non-binary,24:00:00,YOUTUBE,Lifestlye,Australia,Rural,Student,"$11,238",False,True,True,Rural-YOUTUBE
+21,female,48:00:00,YOUTUBE,Lifestlye,United States,Urban,Student,"$11,906",False,False,False,Urban-YOUTUBE
+33,non-binary,24:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Marketer Manager,"$17,399",False,False,True,Urban-INSTAGRAM
+41,male,48:00:00,FACEBOOK,Sports,Australia,Urban,Student,"$17,961",False,False,False,Urban-FACEBOOK
+33,non-binary,192:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,756",False,True,True,Sub_Urban-FACEBOOK
+19,male,120:00:00,FACEBOOK,Travel,Australia,Urban,Student,"$19,410",True,True,True,Urban-FACEBOOK
+45,non-binary,168:00:00,FACEBOOK,Sports,United Kingdom,Rural,Marketer Manager,"$14,601",True,False,False,Rural-FACEBOOK
+49,female,48:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$19,549",True,False,True,Rural-YOUTUBE
+44,non-binary,192:00:00,FACEBOOK,Lifestlye,United States,Urban,Marketer Manager,"$11,460",True,True,True,Urban-FACEBOOK
+37,non-binary,144:00:00,YOUTUBE,Sports,Australia,Urban,Software Engineer,"$17,669",False,True,True,Urban-YOUTUBE
+41,male,192:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Software Engineer,"$11,416",True,True,False,Rural-YOUTUBE
+29,female,24:00:00,YOUTUBE,Sports,United Kingdom,Urban,Student,"$17,766",True,False,True,Urban-YOUTUBE
+52,non-binary,24:00:00,FACEBOOK,Travel,United Kingdom,Rural,Software Engineer,"$11,428",True,True,False,Rural-FACEBOOK
+50,female,168:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$14,378",False,True,False,Sub_Urban-INSTAGRAM
+50,non-binary,192:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Student,"$17,529",True,True,False,Rural-INSTAGRAM
+60,non-binary,72:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$14,474",False,False,True,Sub_Urban-FACEBOOK
+54,female,120:00:00,INSTAGRAM,Sports,United States,Urban,Software Engineer,"$13,071",False,True,False,Urban-INSTAGRAM
+29,non-binary,24:00:00,INSTAGRAM,Lifestlye,United States,Urban,Marketer Manager,"$10,555",False,False,False,Urban-INSTAGRAM
+20,female,168:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Marketer Manager,"$18,547",True,False,True,Sub_Urban-YOUTUBE
+18,non-binary,120:00:00,YOUTUBE,Travel,United Kingdom,Urban,Software Engineer,"$11,563",False,False,False,Urban-YOUTUBE
+50,male,192:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Student,"$11,040",True,True,False,Sub_Urban-FACEBOOK
+57,female,192:00:00,FACEBOOK,Travel,United Kingdom,Urban,Marketer Manager,"$12,686",True,True,True,Urban-FACEBOOK
+27,non-binary,216:00:00,INSTAGRAM,Travel,United States,Rural,Software Engineer,"$12,553",True,True,True,Rural-INSTAGRAM
+60,non-binary,168:00:00,YOUTUBE,Travel,Australia,Urban,Student,"$11,779",False,False,False,Urban-YOUTUBE
+61,male,24:00:00,FACEBOOK,Travel,United States,Rural,Student,"$10,075",False,True,True,Rural-FACEBOOK
+46,female,72:00:00,FACEBOOK,Travel,United Kingdom,Rural,Student,"$14,326",True,False,True,Rural-FACEBOOK
+30,non-binary,192:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$15,835",False,True,True,Sub_Urban-FACEBOOK
+29,male,72:00:00,FACEBOOK,Travel,United Kingdom,Urban,Marketer Manager,"$15,057",False,True,False,Urban-FACEBOOK
+48,non-binary,192:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$12,349",False,True,False,Sub_Urban-FACEBOOK
+63,female,24:00:00,FACEBOOK,Travel,United Kingdom,Urban,Student,"$12,773",True,True,True,Urban-FACEBOOK
+19,non-binary,120:00:00,INSTAGRAM,Lifestlye,United States,Rural,Marketer Manager,"$12,262",False,False,False,Rural-INSTAGRAM
+52,non-binary,96:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$13,229",False,False,True,Rural-YOUTUBE
+40,non-binary,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Marketer Manager,"$10,392",True,False,True,Urban-YOUTUBE
+34,non-binary,192:00:00,FACEBOOK,Travel,United Kingdom,Urban,Marketer Manager,"$11,108",False,False,True,Urban-FACEBOOK
+43,male,96:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Student,"$14,362",True,True,True,Sub_Urban-YOUTUBE
+25,male,96:00:00,YOUTUBE,Travel,Australia,Urban,Marketer Manager,"$15,188",False,False,True,Urban-YOUTUBE
+46,female,72:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Software Engineer,"$18,802",False,False,False,Urban-YOUTUBE
+43,male,168:00:00,FACEBOOK,Lifestlye,United States,Urban,Student,"$15,057",False,False,False,Urban-FACEBOOK
+27,male,72:00:00,FACEBOOK,Travel,United States,Sub_Urban,Software Engineer,"$13,998",False,True,False,Sub_Urban-FACEBOOK
+43,female,72:00:00,YOUTUBE,Sports,United Kingdom,Urban,Student,"$18,864",False,False,False,Urban-YOUTUBE
+51,male,120:00:00,YOUTUBE,Travel,United Kingdom,Rural,Student,"$16,566",False,False,True,Rural-YOUTUBE
+58,male,120:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$13,677",True,True,True,Sub_Urban-FACEBOOK
+24,female,144:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Software Engineer,"$15,796",False,True,False,Sub_Urban-INSTAGRAM
+21,female,192:00:00,YOUTUBE,Lifestlye,Australia,Rural,Student,"$16,363",False,False,False,Rural-YOUTUBE
+62,female,144:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Marketer Manager,"$18,123",False,False,True,Rural-INSTAGRAM
+28,non-binary,24:00:00,YOUTUBE,Lifestlye,Australia,Rural,Student,"$18,222",True,True,True,Rural-YOUTUBE
+46,non-binary,192:00:00,INSTAGRAM,Travel,Australia,Urban,Student,"$17,690",True,False,True,Urban-INSTAGRAM
+53,female,192:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$11,400",True,True,False,Rural-INSTAGRAM
+42,female,216:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Student,"$14,071",False,False,True,Urban-INSTAGRAM
+38,female,216:00:00,FACEBOOK,Travel,United States,Sub_Urban,Student,"$18,808",False,False,True,Sub_Urban-FACEBOOK
+53,non-binary,48:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Student,"$12,786",True,False,False,Sub_Urban-INSTAGRAM
+27,non-binary,48:00:00,INSTAGRAM,Travel,Australia,Rural,Marketer Manager,"$17,169",True,False,False,Rural-INSTAGRAM
+54,male,72:00:00,INSTAGRAM,Lifestlye,United States,Urban,Student,"$10,870",True,False,False,Urban-INSTAGRAM
+26,male,24:00:00,YOUTUBE,Sports,United Kingdom,Rural,Software Engineer,"$14,196",False,True,True,Rural-YOUTUBE
+41,female,96:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$19,604",True,True,True,Rural-INSTAGRAM
+52,non-binary,96:00:00,YOUTUBE,Lifestlye,Australia,Urban,Software Engineer,"$12,739",False,False,False,Urban-YOUTUBE
+52,non-binary,216:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Student,"$10,940",False,False,True,Rural-INSTAGRAM
+53,non-binary,216:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Software Engineer,"$10,340",False,False,True,Sub_Urban-INSTAGRAM
+35,female,216:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$17,422",True,True,True,Rural-FACEBOOK
+56,male,168:00:00,YOUTUBE,Lifestlye,Australia,Urban,Student,"$14,133",False,True,False,Urban-YOUTUBE
+49,female,48:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Marketer Manager,"$10,659",True,True,False,Urban-INSTAGRAM
+41,male,120:00:00,YOUTUBE,Travel,United States,Sub_Urban,Marketer Manager,"$19,752",True,True,True,Sub_Urban-YOUTUBE
+40,male,96:00:00,YOUTUBE,Lifestlye,Australia,Urban,Student,"$13,457",True,True,True,Urban-YOUTUBE
+49,female,192:00:00,FACEBOOK,Travel,United Kingdom,Urban,Marketer Manager,"$19,848",True,True,True,Urban-FACEBOOK
+54,male,48:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Software Engineer,"$12,975",False,True,True,Sub_Urban-FACEBOOK
+29,male,144:00:00,FACEBOOK,Sports,United States,Rural,Marketer Manager,"$19,241",False,True,False,Rural-FACEBOOK
+30,non-binary,120:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Marketer Manager,"$10,453",False,False,False,Sub_Urban-FACEBOOK
+40,male,48:00:00,FACEBOOK,Travel,United Kingdom,Rural,Software Engineer,"$19,896",False,True,True,Rural-FACEBOOK
+42,female,24:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Marketer Manager,"$18,184",True,True,True,Sub_Urban-FACEBOOK
+52,female,192:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$15,442",True,True,False,Rural-FACEBOOK
+58,male,48:00:00,FACEBOOK,Travel,United States,Sub_Urban,Software Engineer,"$10,818",True,True,True,Sub_Urban-FACEBOOK
+47,non-binary,168:00:00,INSTAGRAM,Sports,Australia,Rural,Student,"$14,868",True,False,False,Rural-INSTAGRAM
+34,non-binary,216:00:00,YOUTUBE,Travel,United States,Sub_Urban,Software Engineer,"$10,012",False,True,True,Sub_Urban-YOUTUBE
+37,male,216:00:00,FACEBOOK,Sports,United States,Rural,Student,"$17,727",True,False,False,Rural-FACEBOOK
+42,male,192:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Student,"$10,920",False,False,True,Sub_Urban-FACEBOOK
+39,female,216:00:00,YOUTUBE,Sports,United Kingdom,Urban,Marketer Manager,"$14,920",True,False,True,Urban-YOUTUBE
+30,male,48:00:00,INSTAGRAM,Sports,Australia,Rural,Student,"$12,418",True,True,False,Rural-INSTAGRAM
+36,non-binary,144:00:00,YOUTUBE,Sports,United States,Sub_Urban,Marketer Manager,"$19,506",True,True,False,Sub_Urban-YOUTUBE
+53,male,96:00:00,YOUTUBE,Sports,Australia,Rural,Software Engineer,"$16,475",True,True,True,Rural-YOUTUBE
+29,female,96:00:00,FACEBOOK,Sports,United States,Rural,Student,"$12,017",False,False,True,Rural-FACEBOOK
+58,female,120:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Student,"$17,957",False,False,False,Sub_Urban-YOUTUBE
+36,female,72:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$19,420",False,False,False,Rural-YOUTUBE
+29,female,24:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Software Engineer,"$14,792",False,False,True,Sub_Urban-FACEBOOK
+26,female,192:00:00,FACEBOOK,Lifestlye,United States,Urban,Student,"$16,830",True,True,True,Urban-FACEBOOK
+24,male,120:00:00,FACEBOOK,Sports,United Kingdom,Rural,Software Engineer,"$12,434",True,True,False,Rural-FACEBOOK
+45,male,72:00:00,FACEBOOK,Sports,United States,Urban,Marketer Manager,"$12,868",False,True,False,Urban-FACEBOOK
+31,male,168:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$11,438",False,False,False,Rural-YOUTUBE
+48,male,168:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$13,543",True,False,False,Rural-YOUTUBE
+36,female,24:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Student,"$11,781",True,True,False,Rural-INSTAGRAM
+64,non-binary,216:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$16,343",False,True,True,Sub_Urban-INSTAGRAM
+33,male,48:00:00,YOUTUBE,Travel,United Kingdom,Urban,Software Engineer,"$12,263",False,False,True,Urban-YOUTUBE
+22,non-binary,120:00:00,INSTAGRAM,Sports,United States,Rural,Marketer Manager,"$10,211",False,True,False,Rural-INSTAGRAM
+52,male,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$18,699",True,True,True,Sub_Urban-YOUTUBE
+29,male,192:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$16,159",False,False,True,Rural-INSTAGRAM
+42,non-binary,192:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Student,"$17,027",False,False,False,Sub_Urban-FACEBOOK
+38,female,168:00:00,INSTAGRAM,Sports,Australia,Rural,Software Engineer,"$10,331",False,False,True,Rural-INSTAGRAM
+53,male,168:00:00,FACEBOOK,Travel,Australia,Urban,Student,"$16,860",False,True,True,Urban-FACEBOOK
+40,male,144:00:00,FACEBOOK,Sports,United States,Urban,Software Engineer,"$18,044",False,False,True,Urban-FACEBOOK
+33,male,144:00:00,FACEBOOK,Lifestlye,United States,Rural,Software Engineer,"$18,169",True,True,False,Rural-FACEBOOK
+56,non-binary,216:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Student,"$18,742",False,True,False,Sub_Urban-FACEBOOK
+62,female,144:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Marketer Manager,"$15,720",True,False,True,Rural-INSTAGRAM
+59,non-binary,48:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$19,133",False,True,True,Sub_Urban-YOUTUBE
+56,non-binary,48:00:00,FACEBOOK,Lifestlye,United Kingdom,Rural,Software Engineer,"$10,727",False,False,True,Rural-FACEBOOK
+31,female,120:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Student,"$14,975",False,False,True,Sub_Urban-INSTAGRAM
+48,non-binary,96:00:00,FACEBOOK,Sports,Australia,Urban,Marketer Manager,"$13,243",True,True,True,Urban-FACEBOOK
+22,female,48:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$10,648",True,True,True,Rural-INSTAGRAM
+52,male,72:00:00,INSTAGRAM,Lifestlye,United States,Urban,Software Engineer,"$15,095",True,False,False,Urban-INSTAGRAM
+40,female,168:00:00,INSTAGRAM,Travel,United States,Urban,Software Engineer,"$16,614",False,False,True,Urban-INSTAGRAM
+46,male,192:00:00,YOUTUBE,Sports,United Kingdom,Rural,Student,"$17,135",False,False,True,Rural-YOUTUBE
+60,non-binary,144:00:00,INSTAGRAM,Travel,United States,Rural,Software Engineer,"$11,009",True,False,False,Rural-INSTAGRAM
+28,non-binary,120:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Marketer Manager,"$11,550",True,False,True,Sub_Urban-INSTAGRAM
+35,male,24:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Marketer Manager,"$18,995",False,False,True,Sub_Urban-YOUTUBE
+64,non-binary,192:00:00,YOUTUBE,Sports,United States,Urban,Marketer Manager,"$17,492",True,True,True,Urban-YOUTUBE
+29,female,72:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$13,401",False,True,True,Sub_Urban-INSTAGRAM
+26,male,144:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Student,"$17,447",True,True,False,Sub_Urban-YOUTUBE
+27,non-binary,72:00:00,FACEBOOK,Sports,United States,Rural,Student,"$15,424",True,True,True,Rural-FACEBOOK
+61,male,168:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$14,241",True,False,False,Sub_Urban-FACEBOOK
+34,female,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Software Engineer,"$13,161",False,True,True,Urban-YOUTUBE
+55,female,216:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Software Engineer,"$14,155",False,True,True,Sub_Urban-YOUTUBE
+24,non-binary,120:00:00,INSTAGRAM,Sports,Australia,Urban,Student,"$17,478",True,False,False,Urban-INSTAGRAM
+63,female,192:00:00,YOUTUBE,Lifestlye,Australia,Rural,Marketer Manager,"$18,719",False,True,True,Rural-YOUTUBE
+30,male,192:00:00,INSTAGRAM,Travel,United States,Urban,Software Engineer,"$19,215",False,False,False,Urban-INSTAGRAM
+57,female,24:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$16,617",False,False,False,Sub_Urban-FACEBOOK
+59,male,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Software Engineer,"$15,660",False,False,False,Rural-YOUTUBE
+26,male,72:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Software Engineer,"$18,624",True,False,True,Sub_Urban-INSTAGRAM
+44,female,24:00:00,INSTAGRAM,Travel,United States,Rural,Software Engineer,"$11,176",False,False,True,Rural-INSTAGRAM
+19,non-binary,96:00:00,FACEBOOK,Sports,Australia,Rural,Software Engineer,"$17,956",False,True,True,Rural-FACEBOOK
+22,female,192:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Software Engineer,"$18,592",True,True,True,Sub_Urban-YOUTUBE
+46,male,72:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$12,233",False,True,False,Sub_Urban-FACEBOOK
+54,male,48:00:00,INSTAGRAM,Lifestlye,United States,Rural,Software Engineer,"$14,700",False,False,True,Rural-INSTAGRAM
+55,female,216:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Marketer Manager,"$15,906",False,True,True,Rural-INSTAGRAM
+36,non-binary,120:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Student,"$17,860",True,True,False,Sub_Urban-YOUTUBE
+25,non-binary,168:00:00,INSTAGRAM,Travel,Australia,Urban,Software Engineer,"$17,526",True,True,False,Urban-INSTAGRAM
+62,male,48:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$15,559",False,True,True,Sub_Urban-YOUTUBE
+18,male,216:00:00,FACEBOOK,Sports,United States,Rural,Student,"$16,732",False,False,False,Rural-FACEBOOK
+39,non-binary,216:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Student,"$12,513",True,True,False,Sub_Urban-YOUTUBE
+34,female,96:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Student,"$17,830",True,False,False,Urban-YOUTUBE
+24,male,96:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$19,965",True,False,False,Sub_Urban-INSTAGRAM
+42,male,144:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Software Engineer,"$16,944",False,True,False,Rural-INSTAGRAM
+62,non-binary,144:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Software Engineer,"$17,910",False,False,True,Sub_Urban-YOUTUBE
+21,female,24:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Marketer Manager,"$15,649",True,False,True,Rural-INSTAGRAM
+53,non-binary,216:00:00,INSTAGRAM,Sports,Australia,Rural,Software Engineer,"$11,096",False,False,True,Rural-INSTAGRAM
+23,female,48:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$19,120",False,False,True,Sub_Urban-INSTAGRAM
+48,female,120:00:00,YOUTUBE,Sports,Australia,Rural,Software Engineer,"$11,951",False,False,True,Rural-YOUTUBE
+36,female,216:00:00,INSTAGRAM,Sports,Australia,Rural,Student,"$19,746",False,False,True,Rural-INSTAGRAM
+61,male,96:00:00,YOUTUBE,Sports,Australia,Urban,Software Engineer,"$19,186",False,False,True,Urban-YOUTUBE
+56,non-binary,72:00:00,INSTAGRAM,Travel,Australia,Urban,Marketer Manager,"$17,799",False,True,False,Urban-INSTAGRAM
+44,non-binary,168:00:00,FACEBOOK,Travel,Australia,Urban,Marketer Manager,"$18,804",False,True,True,Urban-FACEBOOK
+27,female,144:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Student,"$10,595",True,False,True,Urban-INSTAGRAM
+43,male,192:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$17,875",True,False,True,Rural-INSTAGRAM
+36,male,72:00:00,YOUTUBE,Travel,United States,Sub_Urban,Software Engineer,"$19,033",True,True,False,Sub_Urban-YOUTUBE
+56,non-binary,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Software Engineer,"$14,439",True,True,True,Rural-YOUTUBE
+20,male,96:00:00,INSTAGRAM,Sports,Australia,Rural,Student,"$15,972",True,True,True,Rural-INSTAGRAM
+62,male,96:00:00,FACEBOOK,Lifestlye,United States,Rural,Marketer Manager,"$10,858",True,True,False,Rural-FACEBOOK
+30,female,96:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Student,"$15,519",True,False,True,Sub_Urban-INSTAGRAM
+45,male,192:00:00,INSTAGRAM,Sports,United States,Urban,Software Engineer,"$17,385",True,False,True,Urban-INSTAGRAM
+37,female,144:00:00,FACEBOOK,Lifestlye,United States,Rural,Student,"$18,636",True,True,False,Rural-FACEBOOK
+45,non-binary,72:00:00,YOUTUBE,Lifestlye,United States,Rural,Marketer Manager,"$19,980",False,True,True,Rural-YOUTUBE
+25,male,120:00:00,INSTAGRAM,Lifestlye,United States,Urban,Student,"$14,317",False,True,False,Urban-INSTAGRAM
+58,non-binary,144:00:00,YOUTUBE,Travel,United Kingdom,Rural,Marketer Manager,"$13,454",True,True,True,Rural-YOUTUBE
+56,non-binary,120:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$11,030",False,False,True,Sub_Urban-YOUTUBE
+18,male,144:00:00,FACEBOOK,Lifestlye,United States,Rural,Software Engineer,"$19,487",False,True,True,Rural-FACEBOOK
+20,male,192:00:00,FACEBOOK,Lifestlye,Australia,Rural,Software Engineer,"$17,906",True,True,False,Rural-FACEBOOK
+30,non-binary,168:00:00,YOUTUBE,Travel,United States,Urban,Software Engineer,"$11,447",True,True,False,Urban-YOUTUBE
+45,male,120:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Marketer Manager,"$12,850",True,False,False,Rural-INSTAGRAM
+42,female,144:00:00,YOUTUBE,Lifestlye,Australia,Rural,Student,"$18,106",False,False,True,Rural-YOUTUBE
+50,female,96:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$17,151",False,False,True,Sub_Urban-INSTAGRAM
+55,male,216:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Software Engineer,"$19,503",True,True,False,Urban-INSTAGRAM
+23,non-binary,96:00:00,FACEBOOK,Lifestlye,Australia,Urban,Software Engineer,"$16,952",False,True,False,Urban-FACEBOOK
+61,male,24:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Student,"$14,055",False,True,True,Sub_Urban-INSTAGRAM
+62,male,168:00:00,INSTAGRAM,Travel,United States,Rural,Software Engineer,"$15,402",False,False,True,Rural-INSTAGRAM
+49,non-binary,168:00:00,YOUTUBE,Lifestlye,United States,Urban,Software Engineer,"$19,281",True,False,True,Urban-YOUTUBE
+62,non-binary,96:00:00,FACEBOOK,Travel,United States,Urban,Software Engineer,"$11,672",False,True,True,Urban-FACEBOOK
+64,female,72:00:00,INSTAGRAM,Travel,Australia,Rural,Student,"$14,532",False,True,False,Rural-INSTAGRAM
+38,non-binary,192:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$14,924",False,False,True,Rural-INSTAGRAM
+33,female,120:00:00,FACEBOOK,Sports,Australia,Urban,Software Engineer,"$16,085",False,True,True,Urban-FACEBOOK
+38,non-binary,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Student,"$17,734",False,True,True,Rural-YOUTUBE
+28,male,96:00:00,FACEBOOK,Travel,Australia,Urban,Software Engineer,"$14,864",False,True,True,Urban-FACEBOOK
+54,female,96:00:00,FACEBOOK,Sports,United States,Rural,Student,"$19,316",False,False,True,Rural-FACEBOOK
+53,female,192:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Software Engineer,"$11,221",True,True,True,Rural-INSTAGRAM
+52,female,192:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Student,"$12,860",True,True,True,Sub_Urban-INSTAGRAM
+36,male,48:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$18,428",False,True,False,Rural-YOUTUBE
+37,male,48:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Marketer Manager,"$19,336",True,True,False,Sub_Urban-INSTAGRAM
+35,male,72:00:00,INSTAGRAM,Travel,Australia,Rural,Software Engineer,"$13,253",False,False,False,Rural-INSTAGRAM
+64,male,72:00:00,FACEBOOK,Sports,United States,Urban,Student,"$13,782",False,False,True,Urban-FACEBOOK
+58,male,24:00:00,INSTAGRAM,Sports,United States,Urban,Software Engineer,"$16,957",False,False,False,Urban-INSTAGRAM
+31,female,72:00:00,YOUTUBE,Travel,United Kingdom,Rural,Marketer Manager,"$10,766",True,True,True,Rural-YOUTUBE
+32,male,144:00:00,FACEBOOK,Lifestlye,Australia,Rural,Software Engineer,"$12,681",False,False,True,Rural-FACEBOOK
+48,female,192:00:00,YOUTUBE,Travel,United Kingdom,Urban,Student,"$17,710",False,True,True,Urban-YOUTUBE
+18,male,144:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$17,482",True,False,True,Rural-FACEBOOK
+20,non-binary,120:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$15,086",True,True,False,Sub_Urban-INSTAGRAM
+33,female,96:00:00,FACEBOOK,Sports,United States,Sub_Urban,Student,"$17,964",False,False,True,Sub_Urban-FACEBOOK
+40,non-binary,72:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$12,665",True,False,True,Sub_Urban-FACEBOOK
+28,female,96:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Software Engineer,"$19,951",True,False,False,Sub_Urban-INSTAGRAM
+29,non-binary,168:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Software Engineer,"$13,513",False,True,False,Sub_Urban-INSTAGRAM
+27,male,24:00:00,YOUTUBE,Lifestlye,Australia,Rural,Student,"$10,495",False,True,False,Rural-YOUTUBE
+49,male,168:00:00,YOUTUBE,Sports,Australia,Rural,Software Engineer,"$15,822",False,True,True,Rural-YOUTUBE
+33,male,24:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$12,072",True,False,False,Sub_Urban-INSTAGRAM
+25,female,48:00:00,INSTAGRAM,Travel,United States,Rural,Software Engineer,"$17,795",True,True,True,Rural-INSTAGRAM
+55,non-binary,96:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$18,529",True,True,True,Rural-INSTAGRAM
+29,male,24:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Student,"$13,949",False,True,False,Sub_Urban-FACEBOOK
+41,non-binary,216:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$16,033",True,True,False,Rural-FACEBOOK
+45,non-binary,144:00:00,FACEBOOK,Lifestlye,United States,Rural,Student,"$18,328",True,True,False,Rural-FACEBOOK
+25,male,24:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Marketer Manager,"$12,555",False,True,True,Rural-INSTAGRAM
+45,male,24:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Student,"$16,370",False,False,True,Sub_Urban-YOUTUBE
+53,non-binary,144:00:00,INSTAGRAM,Sports,United States,Rural,Marketer Manager,"$14,415",False,False,True,Rural-INSTAGRAM
+43,male,96:00:00,FACEBOOK,Travel,Australia,Urban,Marketer Manager,"$15,959",True,True,True,Urban-FACEBOOK
+25,male,96:00:00,FACEBOOK,Travel,Australia,Urban,Student,"$19,107",False,False,True,Urban-FACEBOOK
+45,male,144:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$15,993",True,False,True,Sub_Urban-INSTAGRAM
+45,female,168:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Software Engineer,"$15,021",True,True,False,Urban-INSTAGRAM
+54,non-binary,216:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Student,"$12,907",False,True,True,Sub_Urban-FACEBOOK
+58,non-binary,120:00:00,FACEBOOK,Travel,Australia,Urban,Student,"$12,914",False,False,False,Urban-FACEBOOK
+53,female,216:00:00,FACEBOOK,Travel,Australia,Urban,Marketer Manager,"$13,870",False,True,False,Urban-FACEBOOK
+44,non-binary,96:00:00,INSTAGRAM,Travel,United States,Urban,Student,"$19,190",False,False,False,Urban-INSTAGRAM
+34,male,48:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$15,085",False,False,False,Sub_Urban-FACEBOOK
+26,non-binary,72:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Student,"$16,546",True,False,False,Sub_Urban-FACEBOOK
+50,male,24:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Software Engineer,"$10,395",True,True,True,Rural-YOUTUBE
+37,female,144:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Software Engineer,"$10,938",True,False,True,Sub_Urban-INSTAGRAM
+30,male,144:00:00,YOUTUBE,Lifestlye,Australia,Urban,Student,"$19,828",False,True,True,Urban-YOUTUBE
+45,non-binary,24:00:00,YOUTUBE,Sports,United Kingdom,Urban,Marketer Manager,"$12,510",True,True,True,Urban-YOUTUBE
+46,non-binary,72:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Software Engineer,"$14,636",False,True,False,Sub_Urban-FACEBOOK
+30,non-binary,120:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,649",False,True,False,Sub_Urban-INSTAGRAM
+63,female,72:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Student,"$13,690",True,True,False,Sub_Urban-FACEBOOK
+52,female,72:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Student,"$13,435",True,False,True,Rural-INSTAGRAM
+23,non-binary,72:00:00,YOUTUBE,Travel,United States,Urban,Software Engineer,"$13,201",False,True,True,Urban-YOUTUBE
+35,male,120:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Student,"$14,179",True,True,True,Rural-INSTAGRAM
+22,female,120:00:00,FACEBOOK,Lifestlye,United States,Rural,Software Engineer,"$18,405",False,True,True,Rural-FACEBOOK
+64,non-binary,96:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Marketer Manager,"$13,237",True,True,False,Urban-FACEBOOK
+42,non-binary,24:00:00,FACEBOOK,Sports,United States,Urban,Software Engineer,"$13,862",True,True,False,Urban-FACEBOOK
+19,female,120:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Software Engineer,"$10,058",True,False,True,Sub_Urban-INSTAGRAM
+27,female,120:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Marketer Manager,"$14,938",True,True,True,Sub_Urban-YOUTUBE
+47,female,96:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$12,971",True,True,False,Rural-YOUTUBE
+62,male,144:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,719",False,False,False,Sub_Urban-INSTAGRAM
+22,male,96:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Student,"$18,314",True,True,False,Sub_Urban-FACEBOOK
+50,non-binary,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,628",True,False,False,Urban-YOUTUBE
+18,female,168:00:00,FACEBOOK,Travel,Australia,Urban,Software Engineer,"$19,354",True,False,True,Urban-FACEBOOK
+35,male,48:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Marketer Manager,"$13,345",False,False,False,Sub_Urban-INSTAGRAM
+49,female,72:00:00,FACEBOOK,Sports,United States,Urban,Marketer Manager,"$12,486",False,False,False,Urban-FACEBOOK
+64,non-binary,24:00:00,YOUTUBE,Travel,United States,Sub_Urban,Software Engineer,"$10,561",False,True,False,Sub_Urban-YOUTUBE
+28,male,192:00:00,YOUTUBE,Travel,United States,Urban,Student,"$13,981",False,True,False,Urban-YOUTUBE
+38,male,216:00:00,FACEBOOK,Sports,Australia,Urban,Marketer Manager,"$16,261",False,False,True,Urban-FACEBOOK
+43,male,96:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Software Engineer,"$11,737",True,False,True,Urban-INSTAGRAM
+42,non-binary,144:00:00,FACEBOOK,Lifestlye,Australia,Urban,Marketer Manager,"$19,096",True,True,True,Urban-FACEBOOK
+39,female,216:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Student,"$13,554",True,False,True,Sub_Urban-INSTAGRAM
+44,male,144:00:00,FACEBOOK,Lifestlye,United Kingdom,Rural,Student,"$19,918",False,False,True,Rural-FACEBOOK
+30,non-binary,216:00:00,YOUTUBE,Travel,Australia,Urban,Student,"$19,126",False,False,True,Urban-YOUTUBE
+50,female,96:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Software Engineer,"$17,095",True,True,False,Sub_Urban-INSTAGRAM
+51,non-binary,192:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Software Engineer,"$18,266",False,False,False,Sub_Urban-INSTAGRAM
+58,female,216:00:00,INSTAGRAM,Travel,United Kingdom,Urban,Student,"$10,294",False,True,False,Urban-INSTAGRAM
+52,non-binary,96:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$18,212",False,True,False,Rural-YOUTUBE
+18,female,120:00:00,FACEBOOK,Sports,United Kingdom,Urban,Student,"$19,230",True,True,True,Urban-FACEBOOK
+38,male,192:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Software Engineer,"$15,330",True,False,False,Sub_Urban-YOUTUBE
+23,female,144:00:00,INSTAGRAM,Travel,United States,Rural,Student,"$14,655",False,False,True,Rural-INSTAGRAM
+45,non-binary,168:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$11,109",False,True,False,Sub_Urban-FACEBOOK
+34,non-binary,72:00:00,YOUTUBE,Lifestlye,Australia,Urban,Student,"$13,771",False,True,False,Urban-YOUTUBE
+22,female,168:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$18,563",False,True,False,Rural-INSTAGRAM
+48,male,192:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Software Engineer,"$16,123",True,False,True,Sub_Urban-INSTAGRAM
+22,male,144:00:00,YOUTUBE,Travel,Australia,Sub_Urban,Software Engineer,"$17,647",False,False,False,Sub_Urban-YOUTUBE
+55,female,216:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Software Engineer,"$11,174",True,True,True,Sub_Urban-YOUTUBE
+20,female,144:00:00,YOUTUBE,Sports,Australia,Urban,Software Engineer,"$11,164",True,True,True,Urban-YOUTUBE
+40,non-binary,216:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Software Engineer,"$19,284",True,False,False,Rural-INSTAGRAM
+54,male,96:00:00,YOUTUBE,Lifestlye,Australia,Urban,Software Engineer,"$19,475",False,True,True,Urban-YOUTUBE
+54,female,192:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,037",True,False,True,Urban-INSTAGRAM
+27,male,96:00:00,YOUTUBE,Lifestlye,Australia,Urban,Student,"$18,712",True,False,False,Urban-YOUTUBE
+27,female,48:00:00,INSTAGRAM,Travel,United States,Rural,Student,"$14,466",False,True,False,Rural-INSTAGRAM
+36,female,216:00:00,INSTAGRAM,Travel,United States,Urban,Student,"$15,538",False,True,False,Urban-INSTAGRAM
+34,male,120:00:00,FACEBOOK,Sports,Australia,Urban,Marketer Manager,"$17,111",False,False,False,Urban-FACEBOOK
+38,female,96:00:00,YOUTUBE,Sports,United States,Urban,Student,"$18,434",True,False,False,Urban-YOUTUBE
+31,female,48:00:00,YOUTUBE,Sports,Australia,Urban,Marketer Manager,"$12,800",False,False,False,Urban-YOUTUBE
+26,non-binary,24:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Marketer Manager,"$14,607",True,False,True,Sub_Urban-INSTAGRAM
+63,female,168:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Marketer Manager,"$17,262",True,False,False,Urban-INSTAGRAM
+18,female,144:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Student,"$11,541",False,True,False,Sub_Urban-INSTAGRAM
+62,female,48:00:00,FACEBOOK,Travel,United Kingdom,Urban,Marketer Manager,"$12,765",True,False,True,Urban-FACEBOOK
+30,non-binary,192:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$14,491",True,False,False,Rural-FACEBOOK
+21,male,96:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Student,"$13,083",True,False,True,Sub_Urban-INSTAGRAM
+18,non-binary,192:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$15,356",True,True,False,Sub_Urban-YOUTUBE
+57,non-binary,168:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Software Engineer,"$11,857",False,True,False,Sub_Urban-YOUTUBE
+49,male,120:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$10,769",True,False,True,Sub_Urban-FACEBOOK
+51,non-binary,192:00:00,FACEBOOK,Travel,Australia,Rural,Marketer Manager,"$11,422",False,False,False,Rural-FACEBOOK
+45,male,216:00:00,INSTAGRAM,Travel,Australia,Urban,Student,"$18,598",True,True,True,Urban-INSTAGRAM
+48,non-binary,120:00:00,YOUTUBE,Travel,United States,Sub_Urban,Marketer Manager,"$12,972",True,True,False,Sub_Urban-YOUTUBE
+25,male,120:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$11,872",False,True,False,Rural-INSTAGRAM
+56,female,48:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Student,"$15,599",True,True,True,Sub_Urban-FACEBOOK
+43,non-binary,120:00:00,YOUTUBE,Lifestlye,United Kingdom,Urban,Marketer Manager,"$12,269",True,False,False,Urban-YOUTUBE
+51,non-binary,72:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$15,275",True,True,False,Sub_Urban-YOUTUBE
+20,non-binary,168:00:00,FACEBOOK,Sports,United States,Rural,Student,"$14,749",True,False,True,Rural-FACEBOOK
+29,non-binary,120:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Student,"$16,571",True,False,False,Urban-INSTAGRAM
+18,female,192:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$19,373",True,True,True,Rural-INSTAGRAM
+61,non-binary,24:00:00,YOUTUBE,Travel,United States,Urban,Student,"$15,072",False,True,False,Urban-YOUTUBE
+22,female,72:00:00,FACEBOOK,Travel,United Kingdom,Urban,Software Engineer,"$19,631",False,True,True,Urban-FACEBOOK
+47,female,72:00:00,YOUTUBE,Travel,United Kingdom,Urban,Marketer Manager,"$15,463",False,True,False,Urban-YOUTUBE
+47,female,216:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Student,"$17,450",True,False,True,Sub_Urban-FACEBOOK
+34,female,120:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Student,"$18,420",True,False,True,Rural-INSTAGRAM
+64,male,216:00:00,FACEBOOK,Travel,United States,Rural,Student,"$13,959",True,False,False,Rural-FACEBOOK
+40,male,216:00:00,INSTAGRAM,Sports,United States,Rural,Marketer Manager,"$11,313",False,True,False,Rural-INSTAGRAM
+32,non-binary,24:00:00,FACEBOOK,Travel,United Kingdom,Urban,Software Engineer,"$17,847",True,False,True,Urban-FACEBOOK
+54,male,48:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$11,070",False,True,False,Sub_Urban-YOUTUBE
+38,male,120:00:00,INSTAGRAM,Lifestlye,United States,Urban,Marketer Manager,"$19,166",True,False,True,Urban-INSTAGRAM
+31,non-binary,96:00:00,YOUTUBE,Sports,United States,Rural,Student,"$19,930",True,True,False,Rural-YOUTUBE
+19,non-binary,216:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Software Engineer,"$13,285",True,False,False,Sub_Urban-YOUTUBE
+28,non-binary,168:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$18,949",False,False,True,Sub_Urban-INSTAGRAM
+56,male,144:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Student,"$13,095",True,True,True,Sub_Urban-INSTAGRAM
+55,male,168:00:00,YOUTUBE,Travel,Australia,Rural,Marketer Manager,"$10,320",False,False,False,Rural-YOUTUBE
+51,non-binary,24:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Marketer Manager,"$12,321",True,False,False,Sub_Urban-YOUTUBE
+55,female,24:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Student,"$10,555",True,True,False,Sub_Urban-YOUTUBE
+51,non-binary,192:00:00,YOUTUBE,Lifestlye,United States,Urban,Student,"$14,939",False,True,False,Urban-YOUTUBE
+35,female,48:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Software Engineer,"$15,432",True,True,False,Urban-INSTAGRAM
+47,female,216:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,386",True,True,True,Sub_Urban-INSTAGRAM
+32,non-binary,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Student,"$14,763",True,True,False,Sub_Urban-YOUTUBE
+44,non-binary,144:00:00,FACEBOOK,Sports,Australia,Urban,Student,"$16,854",True,False,False,Urban-FACEBOOK
+51,non-binary,24:00:00,FACEBOOK,Sports,Australia,Urban,Software Engineer,"$17,637",False,True,True,Urban-FACEBOOK
+55,male,24:00:00,INSTAGRAM,Sports,United States,Urban,Software Engineer,"$14,841",False,False,True,Urban-INSTAGRAM
+50,female,48:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Student,"$13,867",True,False,True,Rural-YOUTUBE
+41,male,144:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Software Engineer,"$13,793",True,True,False,Rural-YOUTUBE
+32,male,144:00:00,INSTAGRAM,Lifestlye,United States,Urban,Student,"$17,373",False,False,True,Urban-INSTAGRAM
+47,non-binary,48:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$12,513",True,False,True,Sub_Urban-FACEBOOK
+59,male,24:00:00,FACEBOOK,Lifestlye,United States,Urban,Software Engineer,"$13,803",False,True,True,Urban-FACEBOOK
+34,non-binary,120:00:00,FACEBOOK,Travel,United Kingdom,Rural,Marketer Manager,"$12,327",True,False,True,Rural-FACEBOOK
+22,female,120:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Marketer Manager,"$18,809",False,True,False,Sub_Urban-INSTAGRAM
+46,non-binary,48:00:00,FACEBOOK,Travel,United Kingdom,Rural,Marketer Manager,"$12,165",False,True,False,Rural-FACEBOOK
+21,male,144:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Student,"$13,308",False,True,False,Sub_Urban-INSTAGRAM
+27,male,216:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Marketer Manager,"$16,452",False,False,True,Rural-INSTAGRAM
+34,non-binary,48:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$18,067",True,False,True,Sub_Urban-YOUTUBE
+27,non-binary,48:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$17,642",True,False,True,Sub_Urban-FACEBOOK
+34,male,72:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Student,"$16,404",False,False,True,Sub_Urban-INSTAGRAM
+37,female,168:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$10,992",False,True,True,Sub_Urban-FACEBOOK
+41,female,144:00:00,FACEBOOK,Travel,United Kingdom,Rural,Marketer Manager,"$15,424",False,False,True,Rural-FACEBOOK
+22,non-binary,192:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$19,569",False,True,False,Rural-YOUTUBE
+51,female,192:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Student,"$14,381",True,False,False,Sub_Urban-FACEBOOK
+23,male,144:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$13,174",False,False,True,Sub_Urban-YOUTUBE
+19,non-binary,72:00:00,INSTAGRAM,Lifestlye,United States,Rural,Software Engineer,"$14,782",False,False,False,Rural-INSTAGRAM
+30,male,72:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Student,"$19,497",False,False,True,Sub_Urban-FACEBOOK
+60,male,24:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Student,"$15,560",False,False,True,Sub_Urban-INSTAGRAM
+60,female,168:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Student,"$17,460",False,True,False,Sub_Urban-FACEBOOK
+28,non-binary,120:00:00,INSTAGRAM,Lifestlye,Australia,Urban,Student,"$13,078",False,False,True,Urban-INSTAGRAM
+64,non-binary,96:00:00,FACEBOOK,Sports,United States,Sub_Urban,Student,"$12,983",False,False,False,Sub_Urban-FACEBOOK
+40,female,96:00:00,FACEBOOK,Sports,United States,Urban,Student,"$17,259",True,False,True,Urban-FACEBOOK
+33,male,96:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$16,054",False,False,True,Sub_Urban-FACEBOOK
+48,male,144:00:00,FACEBOOK,Travel,United States,Rural,Marketer Manager,"$12,523",False,True,False,Rural-FACEBOOK
+28,male,192:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Marketer Manager,"$19,677",False,False,True,Urban-FACEBOOK
+33,male,192:00:00,FACEBOOK,Sports,United Kingdom,Urban,Marketer Manager,"$14,581",True,True,True,Urban-FACEBOOK
+25,non-binary,120:00:00,FACEBOOK,Sports,United Kingdom,Sub_Urban,Software Engineer,"$15,609",True,False,True,Sub_Urban-FACEBOOK
+21,non-binary,144:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$12,001",True,True,False,Sub_Urban-FACEBOOK
+57,female,96:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Student,"$11,387",False,True,True,Urban-FACEBOOK
+21,female,216:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Marketer Manager,"$16,552",False,True,True,Rural-INSTAGRAM
+42,non-binary,192:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Marketer Manager,"$11,030",False,True,True,Rural-YOUTUBE
+20,non-binary,24:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Student,"$19,957",True,True,False,Sub_Urban-FACEBOOK
+49,male,48:00:00,YOUTUBE,Travel,United Kingdom,Rural,Marketer Manager,"$11,220",False,False,False,Rural-YOUTUBE
+20,male,216:00:00,FACEBOOK,Sports,United Kingdom,Rural,Marketer Manager,"$16,035",True,True,False,Rural-FACEBOOK
+44,female,192:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Marketer Manager,"$19,810",True,False,False,Sub_Urban-FACEBOOK
+46,non-binary,72:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$19,455",True,True,False,Rural-INSTAGRAM
+49,female,192:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$16,523",True,True,True,Sub_Urban-INSTAGRAM
+36,non-binary,24:00:00,YOUTUBE,Lifestlye,Australia,Urban,Student,"$18,074",True,False,False,Urban-YOUTUBE
+38,male,96:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Student,"$19,063",False,True,False,Sub_Urban-INSTAGRAM
+22,female,72:00:00,INSTAGRAM,Travel,United States,Urban,Marketer Manager,"$10,834",False,True,True,Urban-INSTAGRAM
+35,female,144:00:00,YOUTUBE,Travel,United States,Urban,Marketer Manager,"$19,110",True,True,False,Urban-YOUTUBE
+45,non-binary,168:00:00,INSTAGRAM,Lifestlye,United States,Rural,Marketer Manager,"$11,724",False,True,True,Rural-INSTAGRAM
+59,male,96:00:00,FACEBOOK,Sports,United Kingdom,Rural,Student,"$16,598",False,False,False,Rural-FACEBOOK
+39,female,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Student,"$12,413",True,True,True,Rural-YOUTUBE
+38,male,216:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,505",True,True,True,Sub_Urban-YOUTUBE
+23,female,48:00:00,FACEBOOK,Sports,Australia,Rural,Software Engineer,"$15,993",False,False,False,Rural-FACEBOOK
+18,male,72:00:00,INSTAGRAM,Lifestlye,United States,Urban,Software Engineer,"$14,498",False,False,False,Urban-INSTAGRAM
+22,non-binary,120:00:00,YOUTUBE,Sports,Australia,Rural,Student,"$12,105",False,True,True,Rural-YOUTUBE
+58,female,72:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$12,568",False,True,True,Rural-YOUTUBE
+29,female,192:00:00,FACEBOOK,Travel,United States,Sub_Urban,Marketer Manager,"$19,330",True,False,True,Sub_Urban-FACEBOOK
+43,male,192:00:00,FACEBOOK,Sports,United States,Sub_Urban,Marketer Manager,"$10,209",False,True,True,Sub_Urban-FACEBOOK
+63,male,192:00:00,INSTAGRAM,Travel,Australia,Urban,Student,"$19,256",True,False,True,Urban-INSTAGRAM
+51,female,216:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Software Engineer,"$14,911",True,True,True,Sub_Urban-YOUTUBE
+31,non-binary,96:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$12,220",False,False,True,Rural-INSTAGRAM
+43,male,120:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Student,"$10,233",False,False,False,Sub_Urban-INSTAGRAM
+62,male,120:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Software Engineer,"$10,792",False,False,True,Urban-FACEBOOK
+44,male,192:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Marketer Manager,"$13,110",True,True,False,Rural-YOUTUBE
+26,female,168:00:00,YOUTUBE,Sports,United States,Urban,Software Engineer,"$12,166",True,True,False,Urban-YOUTUBE
+43,female,216:00:00,YOUTUBE,Travel,United States,Sub_Urban,Student,"$18,526",True,True,True,Sub_Urban-YOUTUBE
+64,female,192:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,551",True,True,True,Sub_Urban-FACEBOOK
+39,female,48:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Student,"$15,193",False,False,False,Urban-FACEBOOK
+64,non-binary,96:00:00,FACEBOOK,Travel,United States,Rural,Software Engineer,"$11,214",True,False,True,Rural-FACEBOOK
+47,non-binary,144:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Marketer Manager,"$14,419",True,False,True,Sub_Urban-FACEBOOK
+60,female,48:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Student,"$17,314",False,True,False,Sub_Urban-FACEBOOK
+34,non-binary,168:00:00,YOUTUBE,Lifestlye,Australia,Rural,Student,"$18,475",True,True,False,Rural-YOUTUBE
+43,male,72:00:00,INSTAGRAM,Sports,United States,Sub_Urban,Student,"$10,212",True,True,False,Sub_Urban-INSTAGRAM
+53,male,72:00:00,YOUTUBE,Sports,United States,Urban,Software Engineer,"$11,658",False,False,True,Urban-YOUTUBE
+18,male,48:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$15,024",True,True,True,Sub_Urban-INSTAGRAM
+25,female,192:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Marketer Manager,"$19,609",True,True,False,Sub_Urban-FACEBOOK
+52,male,144:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Student,"$15,917",True,False,True,Rural-INSTAGRAM
+32,non-binary,24:00:00,YOUTUBE,Lifestlye,United States,Urban,Student,"$15,141",True,False,False,Urban-YOUTUBE
+64,female,24:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$11,794",False,True,True,Rural-YOUTUBE
+39,non-binary,168:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Software Engineer,"$15,988",True,False,False,Sub_Urban-INSTAGRAM
+31,male,192:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Marketer Manager,"$18,296",False,True,True,Sub_Urban-FACEBOOK
+43,male,120:00:00,FACEBOOK,Travel,Australia,Rural,Marketer Manager,"$15,578",True,False,False,Rural-FACEBOOK
+45,male,120:00:00,YOUTUBE,Travel,United Kingdom,Rural,Software Engineer,"$15,551",False,False,True,Rural-YOUTUBE
+40,female,96:00:00,INSTAGRAM,Lifestlye,Australia,Rural,Student,"$13,845",False,False,True,Rural-INSTAGRAM
+31,non-binary,144:00:00,FACEBOOK,Sports,Australia,Urban,Marketer Manager,"$16,906",False,True,False,Urban-FACEBOOK
+41,female,144:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Software Engineer,"$10,378",True,True,True,Sub_Urban-FACEBOOK
+19,female,72:00:00,YOUTUBE,Sports,United States,Rural,Software Engineer,"$13,293",True,True,True,Rural-YOUTUBE
+62,male,216:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Student,"$13,329",True,False,False,Sub_Urban-FACEBOOK
+43,female,168:00:00,INSTAGRAM,Travel,Australia,Urban,Software Engineer,"$14,808",False,False,True,Urban-INSTAGRAM
+31,female,24:00:00,YOUTUBE,Travel,United States,Urban,Software Engineer,"$17,937",True,False,True,Urban-YOUTUBE
+24,male,168:00:00,YOUTUBE,Travel,Australia,Urban,Marketer Manager,"$10,224",True,False,True,Urban-YOUTUBE
+20,female,120:00:00,INSTAGRAM,Lifestlye,United Kingdom,Urban,Software Engineer,"$10,737",True,True,False,Urban-INSTAGRAM
+64,male,120:00:00,YOUTUBE,Sports,United Kingdom,Sub_Urban,Software Engineer,"$10,235",True,True,False,Sub_Urban-YOUTUBE
+40,male,48:00:00,FACEBOOK,Sports,United Kingdom,Urban,Marketer Manager,"$10,711",False,True,False,Urban-FACEBOOK
+63,male,96:00:00,FACEBOOK,Travel,Australia,Urban,Student,"$15,988",False,False,False,Urban-FACEBOOK
+60,male,144:00:00,INSTAGRAM,Travel,United States,Rural,Student,"$11,888",True,False,False,Rural-INSTAGRAM
+64,female,168:00:00,FACEBOOK,Travel,Australia,Urban,Marketer Manager,"$17,173",True,True,True,Urban-FACEBOOK
+62,male,120:00:00,INSTAGRAM,Travel,Australia,Rural,Marketer Manager,"$11,259",True,False,True,Rural-INSTAGRAM
+35,male,216:00:00,INSTAGRAM,Sports,United States,Urban,Student,"$15,246",False,True,False,Urban-INSTAGRAM
+55,female,72:00:00,FACEBOOK,Lifestlye,United States,Urban,Student,"$17,271",True,False,True,Urban-FACEBOOK
+52,female,24:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$10,748",False,False,True,Rural-INSTAGRAM
+32,non-binary,96:00:00,FACEBOOK,Lifestlye,United Kingdom,Urban,Student,"$13,551",False,True,True,Urban-FACEBOOK
+42,female,216:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Student,"$16,400",True,True,True,Sub_Urban-YOUTUBE
+54,female,96:00:00,YOUTUBE,Travel,United States,Sub_Urban,Marketer Manager,"$16,643",True,False,False,Sub_Urban-YOUTUBE
+45,non-binary,48:00:00,INSTAGRAM,Travel,Australia,Urban,Software Engineer,"$18,701",True,True,False,Urban-INSTAGRAM
+27,female,120:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Student,"$11,823",False,True,True,Sub_Urban-FACEBOOK
+56,female,72:00:00,FACEBOOK,Lifestlye,United Kingdom,Rural,Student,"$16,852",False,False,True,Rural-FACEBOOK
+34,female,216:00:00,YOUTUBE,Travel,United States,Urban,Software Engineer,"$17,777",True,False,False,Urban-YOUTUBE
+56,female,96:00:00,YOUTUBE,Travel,United States,Urban,Software Engineer,"$14,232",False,False,True,Urban-YOUTUBE
+39,non-binary,144:00:00,FACEBOOK,Sports,Australia,Rural,Software Engineer,"$16,519",True,True,True,Rural-FACEBOOK
+43,female,48:00:00,INSTAGRAM,Sports,United States,Rural,Software Engineer,"$11,777",True,False,True,Rural-INSTAGRAM
+61,female,144:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$11,222",False,False,False,Rural-YOUTUBE
+42,non-binary,72:00:00,INSTAGRAM,Sports,United States,Urban,Software Engineer,"$17,630",False,False,False,Urban-INSTAGRAM
+34,male,216:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$11,777",False,False,True,Rural-INSTAGRAM
+30,non-binary,48:00:00,YOUTUBE,Travel,Australia,Rural,Software Engineer,"$19,496",False,False,True,Rural-YOUTUBE
+37,male,216:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Software Engineer,"$17,490",True,True,True,Sub_Urban-INSTAGRAM
+42,non-binary,120:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Marketer Manager,"$14,859",True,False,True,Sub_Urban-INSTAGRAM
+21,non-binary,192:00:00,FACEBOOK,Travel,United Kingdom,Urban,Software Engineer,"$18,893",True,False,True,Urban-FACEBOOK
+27,female,48:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Student,"$18,118",False,True,True,Sub_Urban-INSTAGRAM
+20,male,144:00:00,FACEBOOK,Lifestlye,United States,Sub_Urban,Student,"$12,989",True,False,False,Sub_Urban-FACEBOOK
+58,female,72:00:00,YOUTUBE,Travel,United Kingdom,Rural,Software Engineer,"$18,343",False,False,False,Rural-YOUTUBE
+62,male,120:00:00,YOUTUBE,Sports,United Kingdom,Rural,Marketer Manager,"$11,325",False,True,True,Rural-YOUTUBE
+35,non-binary,192:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Student,"$19,493",False,False,False,Sub_Urban-FACEBOOK
+64,non-binary,24:00:00,YOUTUBE,Travel,United Kingdom,Sub_Urban,Marketer Manager,"$19,903",True,True,True,Sub_Urban-YOUTUBE
+53,male,120:00:00,INSTAGRAM,Sports,Australia,Sub_Urban,Student,"$15,127",False,False,True,Sub_Urban-INSTAGRAM
+64,female,72:00:00,INSTAGRAM,Lifestlye,United States,Urban,Software Engineer,"$18,998",False,True,False,Urban-INSTAGRAM
+39,female,96:00:00,INSTAGRAM,Travel,Australia,Urban,Marketer Manager,"$12,722",False,True,False,Urban-INSTAGRAM
+51,female,48:00:00,YOUTUBE,Travel,United Kingdom,Urban,Marketer Manager,"$14,656",False,False,True,Urban-YOUTUBE
+64,female,216:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,325",False,True,True,Sub_Urban-INSTAGRAM
+25,non-binary,72:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Student,"$14,133",False,True,False,Sub_Urban-YOUTUBE
+57,non-binary,48:00:00,INSTAGRAM,Sports,United States,Urban,Student,"$19,351",False,False,False,Urban-INSTAGRAM
+61,non-binary,216:00:00,FACEBOOK,Lifestlye,United States,Urban,Student,"$12,869",False,False,True,Urban-FACEBOOK
+36,non-binary,168:00:00,YOUTUBE,Lifestlye,United Kingdom,Sub_Urban,Software Engineer,"$11,242",False,True,True,Sub_Urban-YOUTUBE
+59,non-binary,144:00:00,YOUTUBE,Lifestlye,United States,Rural,Student,"$18,539",False,False,True,Rural-YOUTUBE
+58,female,24:00:00,INSTAGRAM,Sports,United Kingdom,Urban,Software Engineer,"$11,831",False,True,False,Urban-INSTAGRAM
+54,female,120:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Marketer Manager,"$11,569",False,True,True,Sub_Urban-YOUTUBE
+23,female,72:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Marketer Manager,"$17,246",True,False,False,Sub_Urban-YOUTUBE
+43,female,24:00:00,FACEBOOK,Sports,United States,Rural,Software Engineer,"$11,918",True,False,True,Rural-FACEBOOK
+51,non-binary,96:00:00,FACEBOOK,Lifestlye,Australia,Sub_Urban,Student,"$16,416",False,True,False,Sub_Urban-FACEBOOK
+62,non-binary,48:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Software Engineer,"$13,232",False,False,False,Sub_Urban-INSTAGRAM
+23,non-binary,48:00:00,FACEBOOK,Sports,United States,Urban,Marketer Manager,"$13,758",False,False,False,Urban-FACEBOOK
+54,male,72:00:00,INSTAGRAM,Travel,Australia,Urban,Marketer Manager,"$15,997",True,True,False,Urban-INSTAGRAM
+50,female,192:00:00,INSTAGRAM,Sports,United States,Rural,Software Engineer,"$12,355",True,True,True,Rural-INSTAGRAM
+39,female,192:00:00,INSTAGRAM,Lifestlye,United States,Rural,Student,"$19,589",True,True,False,Rural-INSTAGRAM
+38,non-binary,168:00:00,YOUTUBE,Lifestlye,Australia,Sub_Urban,Student,"$11,824",False,True,False,Sub_Urban-YOUTUBE
+23,female,144:00:00,FACEBOOK,Lifestlye,Australia,Urban,Software Engineer,"$17,280",False,True,False,Urban-FACEBOOK
+23,female,216:00:00,INSTAGRAM,Sports,United Kingdom,Rural,Software Engineer,"$14,060",False,True,True,Rural-INSTAGRAM
+21,non-binary,96:00:00,FACEBOOK,Lifestlye,Australia,Rural,Student,"$15,324",False,False,True,Rural-FACEBOOK
+47,male,24:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Marketer Manager,"$10,404",True,True,True,Rural-INSTAGRAM
+28,male,192:00:00,FACEBOOK,Sports,Australia,Sub_Urban,Software Engineer,"$11,721",False,False,True,Sub_Urban-FACEBOOK
+47,male,168:00:00,FACEBOOK,Travel,United States,Urban,Student,"$15,316",True,False,True,Urban-FACEBOOK
+48,non-binary,168:00:00,INSTAGRAM,Travel,Australia,Rural,Student,"$13,845",True,True,True,Rural-INSTAGRAM
+41,female,72:00:00,YOUTUBE,Lifestlye,United States,Urban,Marketer Manager,"$14,210",False,False,False,Urban-YOUTUBE
+26,non-binary,96:00:00,FACEBOOK,Sports,United States,Rural,Marketer Manager,"$10,064",True,True,False,Rural-FACEBOOK
+20,non-binary,216:00:00,YOUTUBE,Lifestlye,United States,Rural,Marketer Manager,"$19,491",True,False,False,Rural-YOUTUBE
+48,female,144:00:00,YOUTUBE,Sports,United Kingdom,Urban,Marketer Manager,"$16,382",True,True,True,Urban-YOUTUBE
+57,male,120:00:00,INSTAGRAM,Sports,Australia,Urban,Marketer Manager,"$19,607",True,True,False,Urban-INSTAGRAM
+54,male,72:00:00,INSTAGRAM,Travel,United States,Urban,Software Engineer,"$10,968",False,True,False,Urban-INSTAGRAM
+53,non-binary,216:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Student,"$10,368",False,True,True,Sub_Urban-INSTAGRAM
+41,male,120:00:00,FACEBOOK,Sports,United Kingdom,Rural,Software Engineer,"$18,424",True,False,False,Rural-FACEBOOK
+48,non-binary,120:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Software Engineer,"$12,242",False,False,True,Sub_Urban-INSTAGRAM
+23,non-binary,96:00:00,INSTAGRAM,Travel,Australia,Urban,Software Engineer,"$15,002",True,False,False,Urban-INSTAGRAM
+19,female,96:00:00,FACEBOOK,Lifestlye,United Kingdom,Rural,Software Engineer,"$13,083",False,False,True,Rural-FACEBOOK
+37,female,24:00:00,FACEBOOK,Travel,United Kingdom,Sub_Urban,Software Engineer,"$18,073",False,False,True,Sub_Urban-FACEBOOK
+45,female,168:00:00,INSTAGRAM,Travel,Australia,Rural,Marketer Manager,"$19,112",False,True,True,Rural-INSTAGRAM
+28,non-binary,216:00:00,INSTAGRAM,Lifestlye,United Kingdom,Sub_Urban,Marketer Manager,"$18,880",False,True,False,Sub_Urban-INSTAGRAM
+21,female,72:00:00,INSTAGRAM,Travel,Australia,Urban,Student,"$11,469",False,True,False,Urban-INSTAGRAM
+32,male,48:00:00,INSTAGRAM,Travel,Australia,Sub_Urban,Software Engineer,"$14,725",True,True,True,Sub_Urban-INSTAGRAM
+23,male,72:00:00,YOUTUBE,Lifestlye,United States,Rural,Student,"$14,259",False,True,True,Rural-YOUTUBE
+47,non-binary,24:00:00,YOUTUBE,Travel,United States,Rural,Marketer Manager,"$13,622",True,False,False,Rural-YOUTUBE
+55,non-binary,144:00:00,INSTAGRAM,Travel,Australia,Rural,Marketer Manager,"$10,823",True,True,False,Rural-INSTAGRAM
+19,female,168:00:00,YOUTUBE,Travel,Australia,Rural,Marketer Manager,"$13,431",False,True,True,Rural-YOUTUBE
+32,non-binary,48:00:00,FACEBOOK,Lifestlye,Australia,Urban,Software Engineer,"$16,528",True,False,False,Urban-FACEBOOK
+28,non-binary,192:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Software Engineer,"$14,151",False,False,False,Sub_Urban-YOUTUBE
+25,male,144:00:00,YOUTUBE,Lifestlye,Australia,Urban,Marketer Manager,"$14,213",True,True,False,Urban-YOUTUBE
+43,male,96:00:00,INSTAGRAM,Sports,Australia,Urban,Student,"$17,420",True,True,True,Urban-INSTAGRAM
+62,female,120:00:00,YOUTUBE,Travel,United Kingdom,Urban,Student,"$18,989",False,False,True,Urban-YOUTUBE
+61,non-binary,192:00:00,YOUTUBE,Sports,Australia,Rural,Marketer Manager,"$10,779",False,True,False,Rural-YOUTUBE
+22,non-binary,72:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Student,"$12,892",False,True,True,Rural-YOUTUBE
+23,male,72:00:00,YOUTUBE,Lifestlye,United Kingdom,Rural,Marketer Manager,"$15,534",False,True,False,Rural-YOUTUBE
+43,non-binary,96:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Student,"$13,306",True,False,False,Sub_Urban-FACEBOOK
+21,male,24:00:00,INSTAGRAM,Sports,Australia,Rural,Marketer Manager,"$12,902",False,True,True,Rural-INSTAGRAM
+36,female,216:00:00,INSTAGRAM,Travel,United Kingdom,Sub_Urban,Student,"$13,718",True,True,True,Sub_Urban-INSTAGRAM
+37,male,192:00:00,FACEBOOK,Travel,United Kingdom,Rural,Software Engineer,"$10,021",True,False,True,Rural-FACEBOOK
+50,non-binary,192:00:00,YOUTUBE,Lifestlye,Australia,Rural,Marketer Manager,"$11,500",True,False,False,Rural-YOUTUBE
+37,female,144:00:00,FACEBOOK,Sports,Australia,Urban,Marketer Manager,"$19,034",True,False,False,Urban-FACEBOOK
+29,male,168:00:00,YOUTUBE,Sports,United Kingdom,Urban,Student,"$19,952",True,True,True,Urban-YOUTUBE
+64,male,144:00:00,FACEBOOK,Sports,United Kingdom,Urban,Marketer Manager,"$13,641",True,False,True,Urban-FACEBOOK
+18,female,216:00:00,INSTAGRAM,Sports,United Kingdom,Sub_Urban,Marketer Manager,"$15,212",False,True,True,Sub_Urban-INSTAGRAM
+43,female,72:00:00,INSTAGRAM,Travel,United States,Sub_Urban,Marketer Manager,"$10,191",True,False,False,Sub_Urban-INSTAGRAM
+31,male,72:00:00,INSTAGRAM,Travel,United Kingdom,Rural,Software Engineer,"$18,587",True,True,False,Rural-INSTAGRAM
+55,non-binary,72:00:00,YOUTUBE,Lifestlye,United States,Sub_Urban,Software Engineer,"$17,174",True,False,False,Sub_Urban-YOUTUBE
+54,male,72:00:00,YOUTUBE,Travel,Australia,Rural,Student,"$15,114",False,True,True,Rural-YOUTUBE
+28,female,216:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Software Engineer,"$14,662",False,True,True,Sub_Urban-FACEBOOK
+53,male,96:00:00,FACEBOOK,Lifestlye,United Kingdom,Sub_Urban,Student,"$14,326",True,False,False,Sub_Urban-FACEBOOK
+30,female,168:00:00,INSTAGRAM,Lifestlye,Australia,Sub_Urban,Software Engineer,"$19,065",False,False,True,Sub_Urban-INSTAGRAM
+60,female,216:00:00,YOUTUBE,Lifestlye,Australia,Urban,Student,"$14,335",True,True,True,Urban-YOUTUBE
+20,non-binary,168:00:00,FACEBOOK,Travel,Australia,Sub_Urban,Software Engineer,"$18,281",False,False,True,Sub_Urban-FACEBOOK
+50,female,216:00:00,YOUTUBE,Travel,Australia,Urban,Software Engineer,"$18,648",True,True,True,Urban-YOUTUBE
+23,female,72:00:00,YOUTUBE,Lifestlye,United States,Urban,Student,"$19,196",False,False,False,Urban-YOUTUBE
+27,non-binary,96:00:00,INSTAGRAM,Lifestlye,United States,Sub_Urban,Marketer Manager,"$15,494",False,False,True,Sub_Urban-INSTAGRAM
+22,female,192:00:00,INSTAGRAM,Lifestlye,United Kingdom,Rural,Marketer Manager,"$18,536",False,True,False,Rural-INSTAGRAM
+40,non-binary,144:00:00,YOUTUBE,Travel,United Kingdom,Rural,Software Engineer,"$12,711",True,False,False,Rural-YOUTUBE
+27,non-binary,120:00:00,YOUTUBE,Travel,United Kingdom,Rural,Student,"$17,595",True,False,True,Rural-YOUTUBE
+61,female,96:00:00,YOUTUBE,Sports,Australia,Sub_Urban,Marketer Manager,"$16,273",True,True,False,Sub_Urban-YOUTUBE
+19,female,192:00:00,YOUTUBE,Travel,Australia,Rural,Student,"$16,284",False,True,False,Rural-YOUTUBE
